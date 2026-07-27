@@ -1,0 +1,131 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "environmental protection and/or resource management sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Luft und Klima (CEP 01)",
+                "Energie aus erneuerbaren Quellen (CEP 0201)",
+                "Energieeinsparungen und -management (CEP 0202)",
+                "Abwasserwirtschaft (CEP 0301)",
+                "Wassereinsparungen und Management der natürlichen Wasserressourcen (CEP 0302)",
+                "Abfallwirtschaft (CEP 0401)",
+                "Wertstoffrückgewinnung und -einsparungen (CEP 0402)",
+                "Schutz von Boden, Oberflächen- und Grundwasser (CEP 0501)",
+                "Schutz von Biodiversität und Landschaft (CEP 0502)",
+                "Management von Waldressourcen (CEP 0503)",
+                "Lärm und Strahlung (CEP 06)",
+                "Forschung und Entwicklung auf dem Gebiet des Umweltschutzes (CEP 0701, 0703, 0705, 0707 und 0709)",
+                "Forschung und Entwicklung auf dem Gebiet des Ressourcenmanagements (CEP 0702, 0704, 0706 und 0708)",
+                "Bereichsübergreifende Zwecke und andere Umweltzwecke (CEP 08)",
+                ""
+              ]
+            },
+            "title": "Umweltschutz- und/oder Ressourcenmanagementbereich"
+          },
+          {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Land- und Forstwirtschaft, Fischerei (WZ-Abschnitt A)",
+                "Bergbau und Gewinnung von Steinen und Erden (WZ-Abschnitt B)",
+                "Verarbeitendes Gewerbe (WZ-Abschnitt C)",
+                "Energieversorgung (WZ-Abschnitt D)",
+                "Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen (WZ-Abschnitt E)",
+                "Baugewerbe (WZ-Abschnitt F)",
+                "Information und Kommunikation (WZ-Abschnitt J)",
+                "Freiberufliche, wissenschaftliche und technische Dienstleistungen (WZ-Abschnitt M)",
+                "Öffentliche Verwaltung, Verteidigung; Sozialversicherung (WZ-Abschnitt O)",
+                "Erziehung und Unterricht (WZ-Abschnitt P)",
+                "Andere Dienstleistungen (WZ-Abschnitte G, H, I, K, L, N, Q, R, S, T und U)",
+                ""
+              ]
+            },
+            "title": "Wirtschaftszweig"
+          },
+          {
+            "name": "sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Staat",
+                "Unternehmen",
+                ""
+              ]
+            },
+            "title": "Sektor"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Produktionswert des Sektors Umweltgüter und Umweltdienstleistungen (EGSS)",
+                "Bruttoanlageinvestitionen für Umweltschutzaktivitäten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-7-1",
+  "title": "Gesamtbetrag der Finanzmittel für Entwicklungsländer und entwickelte Länder zur Förderung der Entwicklung, des Transfers, der Bereitstellung und der Verbreitung von umweltverträglichen Technologien"
+}

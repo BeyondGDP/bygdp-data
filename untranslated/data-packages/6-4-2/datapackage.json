@@ -1,0 +1,78 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "agriculture, forestry and fishing (isic a)",
+                "mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply; constructions (isic b, c, d and f)",
+                "other services (isic e, g to t)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "water withdrawal",
+                "water withdrawl by economic activity",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-4-2",
+  "title": "Grad an Wasserstress: Süßwasserentnahme im Verhältnis zu den vorhandenen Süßwasserressourcen"
+}

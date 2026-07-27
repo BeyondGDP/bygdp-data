@@ -1,0 +1,100 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FAO-Klassifikation",
+                "Nationale Klassifikation",
+                ""
+              ]
+            },
+            "title": "Art der Klassifikation"
+          },
+          {
+            "name": "level of risk of extinction",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gefährdet",
+                "Nicht gefährdet",
+                "Beobachtungspopulation",
+                "Erhaltungspopulation",
+                "Phänotypische Erhaltungspopulation",
+                ""
+              ]
+            },
+            "title": "Gefährdungskategorie"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-5-2",
+  "title": "Anteil heimischer und grenzüberschreitend vorkommender Nutztierrassen, die als vom Aussterben bedroht eingestuft sind"
+}

@@ -1,0 +1,143 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Keine Einheit",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "data source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Statistisches Bundesamt",
+                "BMLEH",
+                ""
+              ]
+            },
+            "title": "Datenquelle"
+          },
+          {
+            "name": "score",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aktueller Stand",
+                "Trend",
+                ""
+              ]
+            },
+            "title": "Punktwert"
+          },
+          {
+            "name": "land",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                ""
+              ]
+            },
+            "title": "land"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "s",
+                "p",
+                "r",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung",
+                "Fortschritte auf dem Weg zu einer produktiven und nachhaltigen Landwirtschaft (Proxy)",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-4-1",
+  "title": "Anteil der landwirtschaftlichen Fläche unter produktiver und nachhaltiger landwirtschaftlicher Bewirtschaftung"
+}
