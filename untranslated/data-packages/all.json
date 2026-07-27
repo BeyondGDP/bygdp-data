@@ -3,8 +3,8 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "16-1-4/data.csv",
-      "name": "16-1-4",
+      "path": "2-4-2/data.csv",
+      "name": "2-4-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -108,8 +108,8 @@
       "title": "Anteil der Bevölkerung, der sich nach Einbruch der Dunkelheit in seiner Wohnumgebung allein sicher fühlt"
     },
     {
-      "path": "6-1-1/data.csv",
-      "name": "6-1-1",
+      "path": "2-7-1/data.csv",
+      "name": "2-7-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -155,7 +155,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der eine sicher verwaltete Trinkwasserversorgung nutzt"
+      "title": "Anteil der Bevölkerung, der mit seiner letzten Erfahrung mit öffentlichen Dienstleistungen zufrieden war"
     },
     {
       "path": "4-4-1/data.csv",
@@ -234,11 +234,11 @@
           }
         ]
       },
-      "title": "Anteil der Jugendlichen und Erwachsenen mit Kompetenzen in Informations- und Kommunikationstechnologie (IKT), nach Art der Kompetenz"
+      "title": "4-4-1"
     },
     {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -249,28 +249,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "educational level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "(b) at the end of primary education",
-                "(c) at the end of lower secondary education",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "subject",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "reading",
-                "mathematics",
-                ""
-              ]
-            }
           },
           {
             "name": "COMMENT_OBS_0",
@@ -278,7 +256,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 ""
               ]
             }
@@ -307,11 +284,11 @@
           }
         ]
       },
-      "title": "Anteil der Kinder und Jugendlichen a) in der 2./3. Klasse, b) am Ende der Grundschule und c) am Ende der Sekundarstufe I mit einem Mindestniveau in i) Lesen und ii) Mathematik, nach Geschlecht"
+      "title": "Anteil der Bevölkerung, der sich in den vorangegangenen 12 Monaten wegen eines nach den internationalen Menschenrechtsnormen verbotenen Diskriminierungsgrunds persönlich diskriminiert oder belästigt gefühlt hat"
     },
     {
-      "path": "5-2-1/data.csv",
-      "name": "5-2-1",
+      "path": "1-1-1/data.csv",
+      "name": "1-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -324,24 +301,11 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "number",
-                "per 100,000 female inhabitants",
-                "percentage",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
-                "r",
+                "‒",
                 ""
               ]
             }
@@ -370,11 +334,11 @@
           }
         ]
       },
-      "title": "Anteil der Frauen und Mädchen im Alter von 15 Jahren und älter, die in den vorangegangenen 12 Monaten physischer, sexueller oder psychischer Gewalt durch aktuelle oder ehemalige Intimpartner/-innen ausgesetzt waren, nach Art der Gewalt und Alter"
+      "title": "Konfliktbezogene Todesfälle je 100&nbsp;000 Einwohner/-innen, nach Geschlecht, Alter und Todesursache"
     },
     {
-      "path": "11-6-2/data.csv",
-      "name": "11-6-2",
+      "path": "3-5-1/data.csv",
+      "name": "3-5-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -387,32 +351,11 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "micrograms per m³",
-                "million inhabitants",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "level of fine particulate matter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "pm10",
-                "pm2.5",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 ""
               ]
             }
@@ -436,27 +379,16 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "population weighted annual mean levels of fine particulate matter",
-                "population with excessive exposure to fine particulate matter",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "Bevölkerungsgewichtete Jahresmittelwerte der Feinstaubkonzentration (z. B. PM₂,₅ und PM₁₀) in Städten"
+      "title": "Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt"
     },
     {
-      "path": "5-4-1/data.csv",
-      "name": "5-4-1",
+      "path": "2-1-3/data.csv",
+      "name": "2-1-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -564,8 +496,368 @@
       "title": "Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit, nach Geschlecht, Alter und Ort"
     },
     {
-      "path": "8-5-1/data.csv",
-      "name": "8-5-1",
+      "path": "2-4-1/data.csv",
+      "name": "2-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1254",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number",
+                "per 100,000 inhabitants",
+                "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13 years and younger",
+                "14 to under 18 years",
+                "18 to under 21 years",
+                "21 to under 60 years",
+                "60 years and older",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "typ of victim-suspect relationship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "intimate partner or family member",
+                "intimate partner",
+                "family member",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "‒",
+                ".",
+                "|",
+                "0",
+                "…",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Anzahl der Opfer vorsätzlicher Tötung je 100&nbsp;000 Einwohner/-innen, nach Geschlecht und Alter"
+    },
+    {
+      "path": "1-3-1/data.csv",
+      "name": "1-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "land",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "germany",
+                "baden-württemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                "…",
+                ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Gesamte Treibhausgasemissionen pro Jahr"
+    },
+    {
+      "path": "4-2-1/data.csv",
+      "name": "4-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "|",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "r",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Anteil junger Menschen (im Alter von 15-24 Jahren), die sich weder in Schul- oder Berufsausbildung noch in Erwerbstätigkeit befinden"
+    },
+    {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number",
+                "per 100,000 female inhabitants",
+                "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "r",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Anteil der Frauen und Mädchen im Alter von 15 Jahren und älter, die in den vorangegangenen 12 Monaten physischer, sexueller oder psychischer Gewalt durch aktuelle oder ehemalige Intimpartner/-innen ausgesetzt waren, nach Art der Gewalt und Alter"
+    },
+    {
+      "path": "2-8-2/data.csv",
+      "name": "2-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Anteil der Bevölkerung, der eine sicher verwaltete Trinkwasserversorgung nutzt"
+    },
+    {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -677,8 +969,8 @@
       "title": "Durchschnittlicher Stundenverdienst von Beschäftigten, nach Geschlecht, Alter, Beruf und Menschen mit Behinderungen"
     },
     {
-      "path": "16-1-2/data.csv",
-      "name": "16-1-2",
+      "path": "2-3-1/data.csv",
+      "name": "2-3-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -691,93 +983,34 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "educational level",
             "type": "string",
             "constraints": {
               "enum": [
-                "‒",
+                "(b) at the end of primary education",
+                "(c) at the end of lower secondary education",
                 ""
               ]
             }
           },
           {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Konfliktbezogene Todesfälle je 100&nbsp;000 Einwohner/-innen, nach Geschlecht, Alter und Todesursache"
-    },
-    {
-      "path": "13-2-2/data.csv",
-      "name": "13-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "land",
+            "name": "subject",
             "type": "string",
             "constraints": {
               "enum": [
-                "germany",
-                "baden-württemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
+                "reading",
+                "mathematics",
                 ""
               ]
             }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
           },
           {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
+                ".",
                 "…",
-                ".",
                 ""
               ]
             }
@@ -806,128 +1039,16 @@
           }
         ]
       },
-      "title": "Gesamte Treibhausgasemissionen pro Jahr"
+      "title": "Anteil der Kinder und Jugendlichen a) in der 2./3. Klasse, b) am Ende der Grundschule und c) am Ende der Sekundarstufe I mit einem Mindestniveau in i) Lesen und ii) Mathematik, nach Geschlecht"
     },
     {
-      "path": "8-6-1/data.csv",
-      "name": "8-6-1",
+      "path": "2-8-1/data.csv",
+      "name": "2-8-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anteil junger Menschen (im Alter von 15-24 Jahren), die sich weder in Schul- oder Berufsausbildung noch in Erwerbstätigkeit befinden"
-    },
-    {
-      "path": "10-3-1/data.csv",
-      "name": "10-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anteil der Bevölkerung, der sich in den vorangegangenen 12 Monaten wegen eines nach den internationalen Menschenrechtsnormen verbotenen Diskriminierungsgrunds persönlich diskriminiert oder belästigt gefühlt hat"
-    },
-    {
-      "path": "16-1-1/data.csv",
-      "name": "16-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1254",
       "schema": {
         "fields": [
           {
@@ -939,60 +1060,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number",
-                "per 100,000 inhabitants",
-                "percentage",
+                "micrograms per m³",
+                "million inhabitants",
                 ""
               ]
             }
           },
           {
-            "name": "age group",
+            "name": "level of fine particulate matter",
             "type": "string",
             "constraints": {
               "enum": [
-                "13 years and younger",
-                "14 to under 18 years",
-                "18 to under 21 years",
-                "21 to under 60 years",
-                "60 years and older",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "typ of victim-suspect relationship",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "intimate partner or family member",
-                "intimate partner",
-                "family member",
+                "pm10",
+                "pm2.5",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "‒",
-                ".",
-                "|",
-                "0",
-                "…",
                 ""
               ]
             }
@@ -1016,16 +1105,27 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "population weighted annual mean levels of fine particulate matter",
+                "population with excessive exposure to fine particulate matter",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "Anzahl der Opfer vorsätzlicher Tötung je 100&nbsp;000 Einwohner/-innen, nach Geschlecht und Alter"
+      "title": "Bevölkerungsgewichtete Jahresmittelwerte der Feinstaubkonzentration (z. B. PM₂,₅ und PM₁₀) in Städten"
     },
     {
-      "path": "16-6-2/data.csv",
-      "name": "16-6-2",
+      "path": "2-3-2/data.csv",
+      "name": "2-3-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1035,35 +1135,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -1071,57 +1143,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der mit seiner letzten Erfahrung mit öffentlichen Dienstleistungen zufrieden war"
-    },
-    {
-      "path": "9-1-1/data.csv",
-      "name": "9-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt"
+      "title": "Anteil der Jugendlichen und Erwachsenen mit Kompetenzen in Informations- und Kommunikationstechnologie (IKT), nach Art der Kompetenz"
     }
   ]
 }

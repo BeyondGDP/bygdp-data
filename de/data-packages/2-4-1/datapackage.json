@@ -1,0 +1,118 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "Je 100 000 Einwohner/-innen",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13 Jahre und jünger",
+                "14 bis unter 18 Jahre",
+                "18 bis unter 21 Jahre",
+                "21 bis unter 60 Jahre",
+                "60 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "typ of victim-suspect relationship",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Intimpartner oder Familienmitglied",
+                "Intimpartner",
+                "Familienmitglied",
+                ""
+              ]
+            },
+            "title": "Art der Opfer-Tatverdächtigen-Beziehung"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "‒",
+                ".",
+                "|",
+                "0",
+                "…",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-4-1",
+  "title": "Anzahl der Opfer vorsätzlicher Tötung je 100&nbsp;000 Einwohner/-innen, nach Geschlecht und Alter"
+}
