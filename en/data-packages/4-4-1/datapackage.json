@@ -16,42 +16,34 @@
             "title": "Year"
           },
           {
-            "name": "type of ict skill",
+            "name": "A",
             "type": "string",
             "constraints": {
               "enum": [
-                "Copying or moving of files and folders",
-                "Using copy or cut and paste tools to duplicate or move information on screen",
-                "Writing code in a programming language",
-                "Connecting and installing new devices, eg a printer or a modem",
-                "Transferring files between computer and other devices",
-                "Installing software or apps",
-                "Creating files integrating elements such as text, pictures, tables, charts, animations or sound",
-                "Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
+                "a",
+                "b",
                 ""
               ]
             },
-            "title": "Type of ICT skill"
+            "title": "A"
           },
           {
-            "name": "age group",
+            "name": "B",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to under 25 years",
-                "25 to under 65 years",
+                "a",
+                "b",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "B"
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "|",
                 ""
               ]
             },
@@ -79,7 +71,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -88,5 +80,5 @@
   ],
   "profile": "data-package",
   "name": "4-4-1",
-  "title": "4-4-1"
+  "title": "Anteil der Bevölkerung, der angibt, Vertrauen in die öffentliche Verwaltung zu haben"
 }

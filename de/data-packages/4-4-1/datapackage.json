@@ -16,42 +16,34 @@
             "title": "Jahr"
           },
           {
-            "name": "type of ict skill",
+            "name": "A",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kopieren oder Verschieben von Dateien und Ordnern",
-                "Verwendung von Werkzeugen zum Kopieren oder Ausschneiden und Einfügen, um Informationen auf dem Bildschirm zu duplizieren oder zu verschieben",
-                "Schreiben eines Programmes in einer Programmiersprache",
-                "Anschließen und Installieren neuer Geräte, z. B. eines Druckers oder eines Modems",
-                "Übertragung von Dateien zwischen Computern und anderen Geräten",
-                "Installation von Software oder Anwendungen (Apps)",
-                "Erstellung von Dateien mit Elementen wie Texte, Bildern, Tabellen, Grafiken, Animationen oder Ton",
-                "Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken",
+                "a",
+                "b",
                 ""
               ]
             },
-            "title": "Art der IKT-Kompetenz"
+            "title": "A"
           },
           {
-            "name": "age group",
+            "name": "B",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 bis unter 25 Jahre",
-                "25 bis unter 65 Jahre",
+                "a",
+                "b",
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "B"
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                ".",
-                "|",
                 ""
               ]
             },
@@ -79,7 +71,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Wert"
           }
         ]
@@ -88,5 +80,5 @@
   ],
   "profile": "data-package",
   "name": "4-4-1",
-  "title": "4-4-1"
+  "title": "Anteil der Bevölkerung, der angibt, Vertrauen in die öffentliche Verwaltung zu haben"
 }

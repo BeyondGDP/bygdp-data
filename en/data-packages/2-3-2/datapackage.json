@@ -12,8 +12,70 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type of ict skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Copying or moving of files and folders",
+                "Using copy or cut and paste tools to duplicate or move information on screen",
+                "Writing code in a programming language",
+                "Connecting and installing new devices, eg a printer or a modem",
+                "Transferring files between computer and other devices",
+                "Installing software or apps",
+                "Creating files integrating elements such as text, pictures, tables, charts, animations or sound",
+                "Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
+                ""
+              ]
+            },
+            "title": "Type of ICT skill"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to under 25 years",
+                "25 to under 65 years",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "|",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",
@@ -26,5 +88,5 @@
   ],
   "profile": "data-package",
   "name": "2-3-2",
-  "title": "Anteil der Jugendlichen und Erwachsenen mit Kompetenzen in Informations- und Kommunikationstechnologie (IKT), nach Art der Kompetenz"
+  "title": "Anteil der Jugendlichen und Erwachsenen mit Kenntnissen im Bereich der Informations- und Kommunikationstechnologie"
 }
