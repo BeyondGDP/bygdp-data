@@ -16,34 +16,35 @@
             "title": "Year"
           },
           {
-            "name": "A",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "Gini coefficient index points",
+                "Gini coefficient",
                 ""
               ]
             },
-            "title": "A"
+            "title": "Units"
           },
           {
-            "name": "B",
+            "name": "income considered",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "Equivalised market income (gross income without social transfers)",
+                "Equivalised disposable income (net income including social transfers)",
                 ""
               ]
             },
-            "title": "B"
+            "title": "Income considered"
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             },
@@ -70,8 +71,20 @@
             "title": "COMMENT_OBS_2"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Redistributive impact of fiscal policy",
+                "Gini coefficients",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -80,5 +93,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-1",
-  "title": "Gini Index"
+  "title": "Gini-Index"
 }

@@ -2061,32 +2061,23 @@
             "type": "integer"
           },
           {
-            "name": "A",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "B",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a",
-                "b",
+                "female",
+                "male",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "s",
+                ".",
                 ""
               ]
             }
@@ -2111,7 +2102,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2132,32 +2123,33 @@
             "type": "integer"
           },
           {
-            "name": "A",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "gini coefficient index points",
+                "gini coefficient",
                 ""
               ]
             }
           },
           {
-            "name": "B",
+            "name": "income considered",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "equivalised market income (gross income without social transfers)",
+                "equivalised disposable income (net income including social transfers)",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             }
@@ -2181,12 +2173,23 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "redistributive impact of fiscal policy",
+                "gini coefficients",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
-      "title": "Gini Index"
+      "title": "Gini-Index"
     },
     {
       "path": "2-2-1/data.csv",

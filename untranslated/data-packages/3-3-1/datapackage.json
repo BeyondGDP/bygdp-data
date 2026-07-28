@@ -15,32 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "A",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "B",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a",
-                "b",
+                "female",
+                "male",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "s",
+                ".",
                 ""
               ]
             }
@@ -65,7 +56,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

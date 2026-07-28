@@ -16,34 +16,24 @@
             "title": "Year"
           },
           {
-            "name": "A",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "A"
-          },
-          {
-            "name": "B",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a",
-                "b",
-                ""
-              ]
-            },
-            "title": "B"
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "s",
+                ".",
                 ""
               ]
             },
@@ -71,7 +61,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
