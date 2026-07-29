@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "million tonnes of CO₂ equivalents",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -32,7 +43,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Germany",
                 "Baden-Württemberg",
                 "Bavaria",
                 "Berlin",
@@ -52,7 +62,7 @@
                 ""
               ]
             },
-            "title": "land"
+            "title": "Land"
           },
           {
             "name": "GeoCode",

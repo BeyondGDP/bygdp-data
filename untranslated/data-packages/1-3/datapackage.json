@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "million tonnes of CO₂ equivalents",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -30,7 +40,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "germany",
                 "baden-württemberg",
                 "bavaria",
                 "berlin",
