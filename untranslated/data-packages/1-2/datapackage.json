@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "UNITS",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

@@ -18,7 +18,7 @@
             "title": "Jahr"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,10 +27,10 @@
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "Zeitreihe"
           },
           {
-            "name": "UNITS",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,7 +40,7 @@
                 ""
               ]
             },
-            "title": "UNITS"
+            "title": "Units"
           },
           {
             "name": "COMMENT_OBS_0",

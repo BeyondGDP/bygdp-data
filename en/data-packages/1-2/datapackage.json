@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,10 +25,10 @@
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "Time series"
           },
           {
-            "name": "UNITS",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "UNITS"
+            "title": "Units"
           },
           {
             "name": "COMMENT_OBS_0",
