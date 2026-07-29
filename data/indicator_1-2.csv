@@ -1,18 +1,18 @@
-Year,SERIES,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,population who felt discriminated in their contacts with public services in the last two years,.,,,
-2011,population who felt discriminated in their contacts with public services in the last two years,.,,,
-2012,population who felt discriminated in their contacts with public services in the last two years,.,,,
-2013,population who felt discriminated in their contacts with public services in the last two years,.,,,
-2014,population who felt discriminated in their contacts with public services in the last two years,.,,,
-2015,population who felt discriminated in their contacts with public services in the last two years,,,,13
-2016,population who felt discriminated in their contacts with public services in the last two years,.,,,
-2017,population who felt discriminated in their contacts with public services in the last two years,,,,10
-2018,population who felt discriminated in their contacts with public services in the last two years,.,,,
-2019,population who felt discriminated in their contacts with public services in the last two years,,,,9
-2020,population who felt discriminated in their contacts with public services in the last two years,.,,,
-2021,population who felt discriminated in their contacts with public services in the last two years,,,,8
-2022,population who felt discriminated in their contacts with public services in the last two years,.,,,
-2023,population who felt discriminated in their contacts with public services in the last two years,,,,11
+Year,SERIES,UNITS,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,population who felt discriminated in their contacts with public services in the last two years,percentage,.,,,
+2011,population who felt discriminated in their contacts with public services in the last two years,percentage,.,,,
+2012,population who felt discriminated in their contacts with public services in the last two years,percentage,.,,,
+2013,population who felt discriminated in their contacts with public services in the last two years,percentage,.,,,
+2014,population who felt discriminated in their contacts with public services in the last two years,percentage,.,,,
+2015,population who felt discriminated in their contacts with public services in the last two years,percentage,,,,13
+2016,population who felt discriminated in their contacts with public services in the last two years,percentage,.,,,
+2017,population who felt discriminated in their contacts with public services in the last two years,percentage,,,,10
+2018,population who felt discriminated in their contacts with public services in the last two years,percentage,.,,,
+2019,population who felt discriminated in their contacts with public services in the last two years,percentage,,,,9
+2020,population who felt discriminated in their contacts with public services in the last two years,percentage,.,,,
+2021,population who felt discriminated in their contacts with public services in the last two years,percentage,,,,8
+2022,population who felt discriminated in their contacts with public services in the last two years,percentage,.,,,
+2023,population who felt discriminated in their contacts with public services in the last two years,percentage,,,,11
 2010,female victims of sexual violence by an intimate partner,number,.,,,
 2011,female victims of sexual violence by an intimate partner,number,.,,,
 2012,female victims of sexual violence by an intimate partner,number,.,,,
