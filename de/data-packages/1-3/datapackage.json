@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million tonnes of CO₂ equivalents",
+                "Millionen Tonnen CO₂-Äquivalente",
                 ""
               ]
             },
