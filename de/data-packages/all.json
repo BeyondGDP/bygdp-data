@@ -1728,8 +1728,8 @@
             "constraints": {
               "enum": [
                 "Zeitaufwand für unbezahlte Haus- und Pflegearbeit",
-                "household disposable income per capita",
-                "composite rate of labour underutilization",
+                "Verfügbares Haushaltseinkommen pro Kopf",
+                "Gesamtquote der Unterauslastung der Arbeitskräfte",
                 ""
               ]
             },
