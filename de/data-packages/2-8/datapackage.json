@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "micrograms per m3",
+                "Mikrogramm pro m³",
                 ""
               ]
             },
@@ -69,9 +69,10 @@
           },
           {
             "name": "Series",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub",
                 ""
               ]
             },

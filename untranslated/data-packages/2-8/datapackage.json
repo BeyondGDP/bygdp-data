@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "micrograms per m3",
+                "micrograms per m³",
                 ""
               ]
             }
@@ -63,9 +63,10 @@
           },
           {
             "name": "Series",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "population weighted annual mean levels of fine particulate matter",
                 ""
               ]
             }

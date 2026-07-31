@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "micrograms per m3",
+                "Micrograms per m³",
                 ""
               ]
             },
@@ -69,9 +69,10 @@
           },
           {
             "name": "Series",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Population weighted annual mean levels of fine particulate matter",
                 ""
               ]
             },

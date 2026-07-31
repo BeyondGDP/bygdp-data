@@ -596,7 +596,7 @@
           }
         ]
       },
-      "title": "4-4"
+      "title": "Anteil der Bevölkerung, der angibt, Vertrauen in die öffentliche Verwaltung zu haben"
     },
     {
       "path": "3-6/data.csv",
@@ -828,7 +828,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -840,7 +840,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "micrograms per m3",
+                "micrograms per m³",
                 ""
               ]
             }
@@ -884,9 +884,10 @@
           },
           {
             "name": "Series",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "population weighted annual mean levels of fine particulate matter",
                 ""
               ]
             }
@@ -2474,7 +2475,7 @@
           }
         ]
       },
-      "title": "4-3"
+      "title": "Anteil der Personen, die der Meinung sind, dass man den meisten Menschen vertrauen kann"
     },
     {
       "path": "4-3-1/data.csv",
@@ -2687,7 +2688,7 @@
           }
         ]
       },
-      "title": "4-1"
+      "title": "Netto-Kapitalstock"
     },
     {
       "path": "1-2-2/data.csv",
@@ -2992,7 +2993,7 @@
           }
         ]
       },
-      "title": "4-5"
+      "title": "Umweltvermögenswerte (Land, Wasser, Boden und Bodenschätze usw.), die auf dem System der Umweltökonomischen Gesamtrechnung (SEEA) aufbauen und durch Ansätze der Ökosystembilanzierung ergänzt werden, die Ökosysteme als integrierte Vermögenswerte erfassen"
     },
     {
       "path": "3-4-1/data.csv",
@@ -3178,7 +3179,7 @@
           }
         ]
       },
-      "title": "4-2"
+      "title": "Anteil der Jugendlichen, die weder eine Schule besuchen, noch einer Beschäftigung nachgehen oder eine Ausbildung absolvieren (NEET)"
     },
     {
       "path": "1-1/data.csv",
