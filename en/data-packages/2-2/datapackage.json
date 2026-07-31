@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "healthy life expectancy at birth",
-                "low-birthweight babies (percentage of births)",
+                "Healthy life expectancy at",
+                "Low-birthweight babies (percentage of births)",
                 ""
               ]
             },

@@ -1238,8 +1238,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "healthy life expectancy at birth",
-                "low-birthweight babies (percentage of births)",
+                "Healthy life expectancy at",
+                "Low-birthweight babies (percentage of births)",
                 ""
               ]
             },
@@ -3424,7 +3424,7 @@
             "constraints": {
               "enum": [
                 "NEET rates from young people (15 to under 25 years)",
-                "potential years of life lost (pyll), all causes",
+                "Potential years of life lost (PYLL), all causes",
                 ""
               ]
             },

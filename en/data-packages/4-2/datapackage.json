@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "NEET rates from young people (15 to under 25 years)",
-                "potential years of life lost (pyll), all causes",
+                "Potential years of life lost (PYLL), all causes",
                 ""
               ]
             },

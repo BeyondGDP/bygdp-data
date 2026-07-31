@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "NEET-Rate von Jugendlichen (15 bis unter 25 Jahre)",
-                "potential years of life lost (pyll), all causes",
+                "Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",
                 ""
               ]
             },
