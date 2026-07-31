@@ -17,9 +17,10 @@
           },
           {
             "name": "Units",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "micrograms per m3",
                 ""
               ]
             },
