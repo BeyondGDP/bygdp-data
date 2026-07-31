@@ -16,31 +16,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mikrogramm pro m³",
-                "Millionen Einwohner/-innen",
-                "Prozent",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "level of fine particulate matter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PM₁₀",
-                "PM₂,₅",
-                ""
-              ]
-            },
-            "title": "Feinstaubkonzentration"
-          },
-          {
             "name": "COMMENT_OBS_0",
             "type": "string",
             "constraints": {
@@ -70,19 +45,6 @@
               ]
             },
             "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub",
-                "Bevölkerung mit erhöhter Feinstaubexposition",
-                "Bevölkerung mit Anschluss an die öffentliche Wasserversorgung",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "Value",
