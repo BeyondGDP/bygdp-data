@@ -919,6 +919,7 @@
               "enum": [
                 "Mikrogramm pro m³",
                 "Millionen Einwohner/-innen",
+                "Prozent",
                 ""
               ]
             },
@@ -938,9 +939,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             },
@@ -973,6 +975,7 @@
               "enum": [
                 "Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub",
                 "Bevölkerung mit erhöhter Feinstaubexposition",
+                "Bevölkerung mit Anschluss an die öffentliche Wasserversorgung",
                 ""
               ]
             },

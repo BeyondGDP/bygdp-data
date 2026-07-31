@@ -22,6 +22,7 @@
               "enum": [
                 "Micrograms per m³",
                 "Million inhabitants",
+                "Percentage",
                 ""
               ]
             },
@@ -41,9 +42,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                ".",
                 ""
               ]
             },
@@ -76,6 +78,7 @@
               "enum": [
                 "Population weighted annual mean levels of fine particulate matter",
                 "Population with excessive exposure to fine particulate matter",
+                "Population connected to the public water supply system",
                 ""
               ]
             },
