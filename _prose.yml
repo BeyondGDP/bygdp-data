@@ -28,6 +28,12 @@ prose:
             label: "Layout"
             translation_key: metadata_fields.layout
             scope: page
+      - name: "target"
+        field:
+            element: text
+            label: "Target Title"
+            translation_key: 
+            scope: page
     ######### Global Metadata #########
       - name: "target_name"
         field:
