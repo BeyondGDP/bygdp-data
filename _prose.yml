@@ -32,7 +32,7 @@ prose:
         field:
             element: text
             label: "Target Title"
-            translation_key: 
+            translation_key:
             scope: page
     ######### Global Metadata #########
       - name: "target_name"
@@ -46,7 +46,7 @@ prose:
             element: text
             label: "Indicator name"
             translation_key: metadata_fields.indicator_name
-            scope: global
+            scope: national
       # - name: "indicator_number"
       #   field:
       #       element: hidden
