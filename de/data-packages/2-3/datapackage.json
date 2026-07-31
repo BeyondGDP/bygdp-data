@@ -1,0 +1,109 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik",
+                "Bevölkerung mit computerbezogenen Aktivitäten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "educational level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "b) Am Ende der Grundschule",
+                "c) Am Ende der Sekundarstufe I",
+                "Kopieren oder Verschieben von Dateien und Ordnern",
+                "Verwendung von Werkzeugen zum Kopieren oder Ausschneiden und Einfügen, um Informationen auf dem Bildschirm zu duplizieren oder zu verschieben",
+                "Schreiben eines Programmes in einer Programmiersprache",
+                "Anschließen und Installieren neuer Geräte, z. B. eines Druckers oder eines Modems",
+                "Übertragung von Dateien zwischen Computern und anderen Geräten",
+                "Installation von Software oder Anwendungen (Apps)",
+                "Erstellung von Dateien mit Elementen wie Texte, Bildern, Tabellen, Grafiken, Animationen oder Ton",
+                "Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken",
+                ""
+              ]
+            },
+            "title": "Bildungsstand"
+          },
+          {
+            "name": "subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lesen",
+                "Mathematik",
+                "16 bis unter 25 Jahre",
+                "25 bis unter 65 Jahre",
+                ""
+              ]
+            },
+            "title": "Schulfach"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "…",
+                "|",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-3",
+  "title": "Anteil der Kinder und Jugendlichen, die ein Mindestleistungsniveau in Lesen und Mathematik erreichen<br><br>Anteil der Jugendlichen und Erwachsenen mit Kenntnissen im Bereich der Informations- und Kommunikationstechnologie"
+}
