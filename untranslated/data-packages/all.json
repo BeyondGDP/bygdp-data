@@ -841,6 +841,7 @@
             "constraints": {
               "enum": [
                 "micrograms per m³",
+                "million inhabitants",
                 ""
               ]
             }
@@ -889,6 +890,7 @@
             "constraints": {
               "enum": [
                 "population weighted annual mean levels of fine particulate matter",
+                "population with excessive exposure to fine particulate matter",
                 ""
               ]
             }

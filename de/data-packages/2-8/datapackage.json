@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "Mikrogramm pro m³",
+                "Millionen Einwohner/-innen",
                 ""
               ]
             },
@@ -74,6 +75,7 @@
             "constraints": {
               "enum": [
                 "Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub",
+                "Bevölkerung mit erhöhter Feinstaubexposition",
                 ""
               ]
             },
