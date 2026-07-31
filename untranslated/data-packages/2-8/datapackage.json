@@ -26,9 +26,10 @@
           },
           {
             "name": "level of fine particulate matter",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "pm10",
                 ""
               ]
             }
