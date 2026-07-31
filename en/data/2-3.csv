@@ -1,313 +1,236 @@
-Year,Series,Educational level,Subject,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,.,,,
-2011,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,,,,98.0
-2012,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,.,,,
-2013,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,.,,,
-2014,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,.,,,
-2015,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,.,,,
-2016,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,,,,95.0
-2017,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,.,,,
-2018,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,.,,,
-2019,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,.,,,
-2020,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,.,,,
-2021,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,,,,94.0
-2022,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,…,,,
-2023,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Reading,…,,,
-2010,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,.,,,
-2011,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,,,,97.0
-2012,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,.,,,
-2013,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,.,,,
-2014,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,.,,,
-2015,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,,,,96.0
-2016,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,.,,,
-2017,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,.,,,
-2018,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,.,,,
-2019,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,,,,96.0
-2020,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,.,,,
-2021,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,.,,,
-2022,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,.,,,
-2023,Children and youths with a minimum proficiency in reading or mathematics,(b) At the end of primary education,Mathematics,,,,94.0
-2010,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,.,,,
-2011,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,.,,,
-2012,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,,,,85.6
-2013,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,.,,,
-2014,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,.,,,
-2015,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,,,,83.7
-2016,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,.,,,
-2017,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,.,,,
-2018,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,,,,79.3
-2019,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,.,,,
-2020,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,.,,,
-2021,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,.,,,
-2022,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,,,,74.4
-2023,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Reading,…,,,
-2010,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,.,,,
-2011,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,.,,,
-2012,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,,,,82.3
-2013,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,.,,,
-2014,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,.,,,
-2015,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,,,,82.8
-2016,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,.,,,
-2017,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,.,,,
-2018,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,,,,78.9
-2019,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,.,,,
-2020,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,.,,,
-2021,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,.,,,
-2022,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,,,,70.5
-2023,Children and youths with a minimum proficiency in reading or mathematics,(c) At the end of lower secondary education,Mathematics,…,,,
-2010,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,.,,,
-2011,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,,,,94.0
-2012,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,,,,87.0
-2013,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,.,,,
-2014,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,,,,94.0
-2015,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,,,,87.0
-2016,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,,,,86.0
-2017,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,,,,84.0
-2018,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,.,,,
-2019,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,,,,82.0
-2020,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,.,,,
-2021,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,.,,,
-2022,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,.,,,
-2023,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,.,,,
-2024,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,.,,,
-2025,Population with computer-related activities,Copying or moving of files and folders,16 to under 25 years,.,,,
-2010,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2011,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,,,,92.0
-2012,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,,,,85.0
-2013,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2014,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,,,,93.0
-2015,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2016,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2017,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2018,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2019,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2020,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2021,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2022,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2023,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2024,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2025,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,16 to under 25 years,.,,,
-2010,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,.,,,
-2011,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,.,,,
-2012,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,.,,,
-2013,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,.,,,
-2014,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,.,,,
-2015,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,,,,12.0
-2016,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,,,,13.0
-2017,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,,,,12.0
-2018,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,.,,,
-2019,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,,,,14.0
-2020,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,.,,,
-2021,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,|,,,10.1
-2022,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,.,,,
-2023,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,,,,9.5
-2024,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,.,,,
-2025,Population with computer-related activities,Writing code in a programming language,16 to under 25 years,,,,9.6
-2010,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2011,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,,,,62.0
-2012,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,,,,57.0
-2013,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2014,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,,,,62.0
-2015,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2016,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2017,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2018,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2019,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2020,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2021,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2022,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2023,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2024,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2025,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",16 to under 25 years,.,,,
-2010,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,.,,,
-2011,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,,,,92.0
-2012,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,,,,88.0
-2013,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,.,,,
-2014,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,,,,91.0
-2015,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,,,,86.0
-2016,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,,,,85.0
-2017,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,,,,83.0
-2018,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,.,,,
-2019,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,,,,80.0
-2020,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,.,,,
-2021,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,|,,,68.2
-2022,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,.,,,
-2023,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,,,,72.0
-2024,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,.,,,
-2025,Population with computer-related activities,Transferring files between computer and other devices,16 to under 25 years,,,,67.4
-2010,Population with computer-related activities,Installing software or apps,16 to under 25 years,.,,,
-2011,Population with computer-related activities,Installing software or apps,16 to under 25 years,.,,,
-2012,Population with computer-related activities,Installing software or apps,16 to under 25 years,.,,,
-2013,Population with computer-related activities,Installing software or apps,16 to under 25 years,.,,,
-2014,Population with computer-related activities,Installing software or apps,16 to under 25 years,.,,,
-2015,Population with computer-related activities,Installing software or apps,16 to under 25 years,,,,87.0
-2016,Population with computer-related activities,Installing software or apps,16 to under 25 years,,,,89.0
-2017,Population with computer-related activities,Installing software or apps,16 to under 25 years,,,,86.0
-2018,Population with computer-related activities,Installing software or apps,16 to under 25 years,.,,,
-2019,Population with computer-related activities,Installing software or apps,16 to under 25 years,,,,88.0
-2020,Population with computer-related activities,Installing software or apps,16 to under 25 years,.,,,
-2021,Population with computer-related activities,Installing software or apps,16 to under 25 years,|,,,58.5
-2022,Population with computer-related activities,Installing software or apps,16 to under 25 years,.,,,
-2023,Population with computer-related activities,Installing software or apps,16 to under 25 years,,,,66.2
-2024,Population with computer-related activities,Installing software or apps,16 to under 25 years,.,,,
-2025,Population with computer-related activities,Installing software or apps,16 to under 25 years,,,,66.1
-2010,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,.,,,
-2011,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,,,,67.0
-2012,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,,,,57.0
-2013,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,.,,,
-2014,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,,,,67.0
-2015,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,.,,,
-2016,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,.,,,
-2017,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,.,,,
-2018,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,.,,,
-2019,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,.,,,
-2020,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,.,,,
-2021,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,.,,,47.1
-2022,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,.,,,
-2023,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,.,,,44.0
-2024,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,.,,,
-2025,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",16 to under 25 years,,,,44.1
-2010,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,.,,,
-2011,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,.,,,
-2012,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,.,,,
-2013,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,.,,,
-2014,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,.,,,
-2015,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,,,,35.0
-2016,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,,,,34.0
-2017,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,,,,36.0
-2018,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,.,,,
-2019,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,,,,34.0
-2020,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,.,,,
-2021,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,|,,,33.2
-2022,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,.,,,
-2023,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,,,,29.8
-2024,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,.,,,
-2025,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",16 to under 25 years,,,,28.2
-2010,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,.,,,
-2011,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,,,,76.0
-2012,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,,,,71.0
-2013,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,.,,,
-2014,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,,,,80.0
-2015,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,,,,72.0
-2016,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,,,,72.0
-2017,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,,,,73.0
-2018,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,.,,,
-2019,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,,,,75.0
-2020,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,.,,,
-2021,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,.,,,
-2022,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,.,,,
-2023,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,.,,,
-2024,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,.,,,
-2025,Population with computer-related activities,Copying or moving of files and folders,25 to under 65 years,.,,,
-2010,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2011,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,,,,74.0
-2012,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,,,,69.0
-2013,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2014,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,,,,77.0
-2015,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2016,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2017,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2018,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2019,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2020,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2021,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2022,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2023,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2024,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2025,Population with computer-related activities,Using copy or cut and paste tools to duplicate or move information on screen,25 to under 65 years,.,,,
-2010,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,.,,,
-2011,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,.,,,
-2012,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,.,,,
-2013,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,.,,,
-2014,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,.,,,
-2015,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,,,,6.0
-2016,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,,,,5.0
-2017,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,,,,5.0
-2018,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,.,,,
-2019,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,,,,5.0
-2020,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,.,,,
-2021,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,|,,,4.5
-2022,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,.,,,
-2023,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,,,,5.8
-2024,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,.,,,
-2025,Population with computer-related activities,Writing code in a programming language,25 to under 65 years,,,,6.4
-2010,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2011,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,,,,47.0
-2012,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,,,,48.0
-2013,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2014,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,,,,53.0
-2015,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2016,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2017,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2018,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2019,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2020,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2021,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2022,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2023,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2024,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2025,Population with computer-related activities,"Connecting and installing new devices, eg a printer or a modem",25 to under 65 years,.,,,
-2010,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,.,,,
-2011,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,,,,63.0
-2012,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,,,,61.0
-2013,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,.,,,
-2014,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,,,,68.0
-2015,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,,,,63.0
-2016,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,,,,65.0
-2017,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,,,,66.0
-2018,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,.,,,
-2019,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,,,,69.0
-2020,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,.,,,
-2021,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,|,,,54.7
-2022,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,.,,,
-2023,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,,,,62.3
-2024,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,.,,,
-2025,Population with computer-related activities,Transferring files between computer and other devices,25 to under 65 years,,,,63.4
-2010,Population with computer-related activities,Installing software or apps,25 to under 65 years,.,,,
-2011,Population with computer-related activities,Installing software or apps,25 to under 65 years,.,,,
-2012,Population with computer-related activities,Installing software or apps,25 to under 65 years,.,,,
-2013,Population with computer-related activities,Installing software or apps,25 to under 65 years,.,,,
-2014,Population with computer-related activities,Installing software or apps,25 to under 65 years,.,,,
-2015,Population with computer-related activities,Installing software or apps,25 to under 65 years,,,,63.0
-2016,Population with computer-related activities,Installing software or apps,25 to under 65 years,,,,66.0
-2017,Population with computer-related activities,Installing software or apps,25 to under 65 years,,,,65.0
-2018,Population with computer-related activities,Installing software or apps,25 to under 65 years,.,,,
-2019,Population with computer-related activities,Installing software or apps,25 to under 65 years,,,,72.0
-2020,Population with computer-related activities,Installing software or apps,25 to under 65 years,.,,,
-2021,Population with computer-related activities,Installing software or apps,25 to under 65 years,|,,,45.9
-2022,Population with computer-related activities,Installing software or apps,25 to under 65 years,.,,,
-2023,Population with computer-related activities,Installing software or apps,25 to under 65 years,,,,55.3
-2024,Population with computer-related activities,Installing software or apps,25 to under 65 years,.,,,
-2025,Population with computer-related activities,Installing software or apps,25 to under 65 years,,,,56.8
-2010,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,.,,,
-2011,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,,,,32.0
-2012,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,,,,30.0
-2013,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,.,,,
-2014,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,,,,33.0
-2015,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,.,,,
-2016,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,.,,,
-2017,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,.,,,
-2018,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,.,,,
-2019,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,.,,,
-2020,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,.,,,
-2021,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,.,,,23.8
-2022,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,.,,,
-2023,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,.,,,27.2
-2024,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,.,,,
-2025,Population with computer-related activities,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",25 to under 65 years,,,,28.3
-2010,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,.,,,
-2011,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,.,,,
-2012,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,.,,,
-2013,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,.,,,
-2014,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,.,,,
-2015,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,,,,35.0
-2016,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,,,,34.0
-2017,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,,,,37.0
-2018,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,.,,,
-2019,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,,,,37.0
-2020,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,.,,,
-2021,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,|,,,26.9
-2022,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,.,,,
-2023,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,,,,30.2
-2024,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,.,,,
-2025,Population with computer-related activities,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",25 to under 65 years,,,,32.6
+Year,Educational level,Type of ICT skill,Subject,Age group,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2011,(b) At the end of primary education,,Reading,,,,,Children and youths with a minimum proficiency in reading or mathematics,98.0
+2016,(b) At the end of primary education,,Reading,,,,,Children and youths with a minimum proficiency in reading or mathematics,95.0
+2021,(b) At the end of primary education,,Reading,,,,,Children and youths with a minimum proficiency in reading or mathematics,94.0
+2010,(b) At the end of primary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2011,(b) At the end of primary education,,Mathematics,,,,,Children and youths with a minimum proficiency in reading or mathematics,97.0
+2012,(b) At the end of primary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2013,(b) At the end of primary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2014,(b) At the end of primary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2015,(b) At the end of primary education,,Mathematics,,,,,Children and youths with a minimum proficiency in reading or mathematics,96.0
+2016,(b) At the end of primary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2017,(b) At the end of primary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2018,(b) At the end of primary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2019,(b) At the end of primary education,,Mathematics,,,,,Children and youths with a minimum proficiency in reading or mathematics,96.0
+2020,(b) At the end of primary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2021,(b) At the end of primary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2022,(b) At the end of primary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2023,(b) At the end of primary education,,Mathematics,,,,,Children and youths with a minimum proficiency in reading or mathematics,94.0
+2010,(c) At the end of lower secondary education,,Reading,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2011,(c) At the end of lower secondary education,,Reading,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2012,(c) At the end of lower secondary education,,Reading,,,,,Children and youths with a minimum proficiency in reading or mathematics,85.6
+2013,(c) At the end of lower secondary education,,Reading,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2014,(c) At the end of lower secondary education,,Reading,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2015,(c) At the end of lower secondary education,,Reading,,,,,Children and youths with a minimum proficiency in reading or mathematics,83.7
+2016,(c) At the end of lower secondary education,,Reading,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2017,(c) At the end of lower secondary education,,Reading,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2018,(c) At the end of lower secondary education,,Reading,,,,,Children and youths with a minimum proficiency in reading or mathematics,79.3
+2019,(c) At the end of lower secondary education,,Reading,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2020,(c) At the end of lower secondary education,,Reading,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2021,(c) At the end of lower secondary education,,Reading,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2022,(c) At the end of lower secondary education,,Reading,,,,,Children and youths with a minimum proficiency in reading or mathematics,74.4
+2010,(c) At the end of lower secondary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2011,(c) At the end of lower secondary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2012,(c) At the end of lower secondary education,,Mathematics,,,,,Children and youths with a minimum proficiency in reading or mathematics,82.3
+2013,(c) At the end of lower secondary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2014,(c) At the end of lower secondary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2015,(c) At the end of lower secondary education,,Mathematics,,,,,Children and youths with a minimum proficiency in reading or mathematics,82.8
+2016,(c) At the end of lower secondary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2017,(c) At the end of lower secondary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2018,(c) At the end of lower secondary education,,Mathematics,,,,,Children and youths with a minimum proficiency in reading or mathematics,78.9
+2019,(c) At the end of lower secondary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2020,(c) At the end of lower secondary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2021,(c) At the end of lower secondary education,,Mathematics,,.,,,Children and youths with a minimum proficiency in reading or mathematics,
+2022,(c) At the end of lower secondary education,,Mathematics,,,,,Children and youths with a minimum proficiency in reading or mathematics,70.5
+2010,,Copying or moving of files and folders,,16 to under 25 years,.,,,Population with computer-related activities,
+2011,,Copying or moving of files and folders,,16 to under 25 years,,,,Population with computer-related activities,94.0
+2012,,Copying or moving of files and folders,,16 to under 25 years,,,,Population with computer-related activities,87.0
+2013,,Copying or moving of files and folders,,16 to under 25 years,.,,,Population with computer-related activities,
+2014,,Copying or moving of files and folders,,16 to under 25 years,,,,Population with computer-related activities,94.0
+2015,,Copying or moving of files and folders,,16 to under 25 years,,,,Population with computer-related activities,87.0
+2016,,Copying or moving of files and folders,,16 to under 25 years,,,,Population with computer-related activities,86.0
+2017,,Copying or moving of files and folders,,16 to under 25 years,,,,Population with computer-related activities,84.0
+2018,,Copying or moving of files and folders,,16 to under 25 years,.,,,Population with computer-related activities,
+2019,,Copying or moving of files and folders,,16 to under 25 years,,,,Population with computer-related activities,82.0
+2011,,Using copy or cut and paste tools to duplicate or move information on screen,,16 to under 25 years,,,,Population with computer-related activities,92.0
+2012,,Using copy or cut and paste tools to duplicate or move information on screen,,16 to under 25 years,,,,Population with computer-related activities,85.0
+2014,,Using copy or cut and paste tools to duplicate or move information on screen,,16 to under 25 years,,,,Population with computer-related activities,93.0
+2010,,Writing code in a programming language,,16 to under 25 years,.,,,Population with computer-related activities,
+2011,,Writing code in a programming language,,16 to under 25 years,.,,,Population with computer-related activities,
+2012,,Writing code in a programming language,,16 to under 25 years,.,,,Population with computer-related activities,
+2013,,Writing code in a programming language,,16 to under 25 years,.,,,Population with computer-related activities,
+2014,,Writing code in a programming language,,16 to under 25 years,.,,,Population with computer-related activities,
+2015,,Writing code in a programming language,,16 to under 25 years,,,,Population with computer-related activities,12.0
+2016,,Writing code in a programming language,,16 to under 25 years,,,,Population with computer-related activities,13.0
+2017,,Writing code in a programming language,,16 to under 25 years,,,,Population with computer-related activities,12.0
+2018,,Writing code in a programming language,,16 to under 25 years,.,,,Population with computer-related activities,
+2019,,Writing code in a programming language,,16 to under 25 years,,,,Population with computer-related activities,14.0
+2020,,Writing code in a programming language,,16 to under 25 years,.,,,Population with computer-related activities,
+2021,,Writing code in a programming language,,16 to under 25 years,|,,,Population with computer-related activities,10.1
+2022,,Writing code in a programming language,,16 to under 25 years,.,,,Population with computer-related activities,
+2023,,Writing code in a programming language,,16 to under 25 years,,,,Population with computer-related activities,9.5
+2024,,Writing code in a programming language,,16 to under 25 years,.,,,Population with computer-related activities,
+2025,,Writing code in a programming language,,16 to under 25 years,,,,Population with computer-related activities,9.6
+2011,,"Connecting and installing new devices, eg a printer or a modem",,16 to under 25 years,,,,Population with computer-related activities,62.0
+2012,,"Connecting and installing new devices, eg a printer or a modem",,16 to under 25 years,,,,Population with computer-related activities,57.0
+2014,,"Connecting and installing new devices, eg a printer or a modem",,16 to under 25 years,,,,Population with computer-related activities,62.0
+2010,,Transferring files between computer and other devices,,16 to under 25 years,.,,,Population with computer-related activities,
+2011,,Transferring files between computer and other devices,,16 to under 25 years,,,,Population with computer-related activities,92.0
+2012,,Transferring files between computer and other devices,,16 to under 25 years,,,,Population with computer-related activities,88.0
+2013,,Transferring files between computer and other devices,,16 to under 25 years,.,,,Population with computer-related activities,
+2014,,Transferring files between computer and other devices,,16 to under 25 years,,,,Population with computer-related activities,91.0
+2015,,Transferring files between computer and other devices,,16 to under 25 years,,,,Population with computer-related activities,86.0
+2016,,Transferring files between computer and other devices,,16 to under 25 years,,,,Population with computer-related activities,85.0
+2017,,Transferring files between computer and other devices,,16 to under 25 years,,,,Population with computer-related activities,83.0
+2018,,Transferring files between computer and other devices,,16 to under 25 years,.,,,Population with computer-related activities,
+2019,,Transferring files between computer and other devices,,16 to under 25 years,,,,Population with computer-related activities,80.0
+2020,,Transferring files between computer and other devices,,16 to under 25 years,.,,,Population with computer-related activities,
+2021,,Transferring files between computer and other devices,,16 to under 25 years,|,,,Population with computer-related activities,68.2
+2022,,Transferring files between computer and other devices,,16 to under 25 years,.,,,Population with computer-related activities,
+2023,,Transferring files between computer and other devices,,16 to under 25 years,,,,Population with computer-related activities,72.0
+2024,,Transferring files between computer and other devices,,16 to under 25 years,.,,,Population with computer-related activities,
+2025,,Transferring files between computer and other devices,,16 to under 25 years,,,,Population with computer-related activities,67.4
+2010,,Installing software or apps,,16 to under 25 years,.,,,Population with computer-related activities,
+2011,,Installing software or apps,,16 to under 25 years,.,,,Population with computer-related activities,
+2012,,Installing software or apps,,16 to under 25 years,.,,,Population with computer-related activities,
+2013,,Installing software or apps,,16 to under 25 years,.,,,Population with computer-related activities,
+2014,,Installing software or apps,,16 to under 25 years,.,,,Population with computer-related activities,
+2015,,Installing software or apps,,16 to under 25 years,,,,Population with computer-related activities,87.0
+2016,,Installing software or apps,,16 to under 25 years,,,,Population with computer-related activities,89.0
+2017,,Installing software or apps,,16 to under 25 years,,,,Population with computer-related activities,86.0
+2018,,Installing software or apps,,16 to under 25 years,.,,,Population with computer-related activities,
+2019,,Installing software or apps,,16 to under 25 years,,,,Population with computer-related activities,88.0
+2020,,Installing software or apps,,16 to under 25 years,.,,,Population with computer-related activities,
+2021,,Installing software or apps,,16 to under 25 years,|,,,Population with computer-related activities,58.5
+2022,,Installing software or apps,,16 to under 25 years,.,,,Population with computer-related activities,
+2023,,Installing software or apps,,16 to under 25 years,,,,Population with computer-related activities,66.2
+2024,,Installing software or apps,,16 to under 25 years,.,,,Population with computer-related activities,
+2025,,Installing software or apps,,16 to under 25 years,,,,Population with computer-related activities,66.1
+2010,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,.,,,Population with computer-related activities,
+2011,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,,,,Population with computer-related activities,67.0
+2012,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,,,,Population with computer-related activities,57.0
+2013,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,.,,,Population with computer-related activities,
+2014,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,,,,Population with computer-related activities,67.0
+2015,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,.,,,Population with computer-related activities,
+2016,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,.,,,Population with computer-related activities,
+2017,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,.,,,Population with computer-related activities,
+2018,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,.,,,Population with computer-related activities,
+2019,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,.,,,Population with computer-related activities,
+2020,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,.,,,Population with computer-related activities,
+2021,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,.,,,Population with computer-related activities,47.1
+2022,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,.,,,Population with computer-related activities,
+2023,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,.,,,Population with computer-related activities,44.0
+2024,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,.,,,Population with computer-related activities,
+2025,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,16 to under 25 years,,,,Population with computer-related activities,44.1
+2010,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,.,,,Population with computer-related activities,
+2011,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,.,,,Population with computer-related activities,
+2012,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,.,,,Population with computer-related activities,
+2013,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,.,,,Population with computer-related activities,
+2014,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,.,,,Population with computer-related activities,
+2015,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,,,,Population with computer-related activities,35.0
+2016,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,,,,Population with computer-related activities,34.0
+2017,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,,,,Population with computer-related activities,36.0
+2018,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,.,,,Population with computer-related activities,
+2019,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,,,,Population with computer-related activities,34.0
+2020,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,.,,,Population with computer-related activities,
+2021,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,|,,,Population with computer-related activities,33.2
+2022,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,.,,,Population with computer-related activities,
+2023,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,,,,Population with computer-related activities,29.8
+2024,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,.,,,Population with computer-related activities,
+2025,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,16 to under 25 years,,,,Population with computer-related activities,28.2
+2010,,Copying or moving of files and folders,,25 to under 65 years,.,,,Population with computer-related activities,
+2011,,Copying or moving of files and folders,,25 to under 65 years,,,,Population with computer-related activities,76.0
+2012,,Copying or moving of files and folders,,25 to under 65 years,,,,Population with computer-related activities,71.0
+2013,,Copying or moving of files and folders,,25 to under 65 years,.,,,Population with computer-related activities,
+2014,,Copying or moving of files and folders,,25 to under 65 years,,,,Population with computer-related activities,80.0
+2015,,Copying or moving of files and folders,,25 to under 65 years,,,,Population with computer-related activities,72.0
+2016,,Copying or moving of files and folders,,25 to under 65 years,,,,Population with computer-related activities,72.0
+2017,,Copying or moving of files and folders,,25 to under 65 years,,,,Population with computer-related activities,73.0
+2018,,Copying or moving of files and folders,,25 to under 65 years,.,,,Population with computer-related activities,
+2019,,Copying or moving of files and folders,,25 to under 65 years,,,,Population with computer-related activities,75.0
+2011,,Using copy or cut and paste tools to duplicate or move information on screen,,25 to under 65 years,,,,Population with computer-related activities,74.0
+2012,,Using copy or cut and paste tools to duplicate or move information on screen,,25 to under 65 years,,,,Population with computer-related activities,69.0
+2014,,Using copy or cut and paste tools to duplicate or move information on screen,,25 to under 65 years,,,,Population with computer-related activities,77.0
+2010,,Writing code in a programming language,,25 to under 65 years,.,,,Population with computer-related activities,
+2011,,Writing code in a programming language,,25 to under 65 years,.,,,Population with computer-related activities,
+2012,,Writing code in a programming language,,25 to under 65 years,.,,,Population with computer-related activities,
+2013,,Writing code in a programming language,,25 to under 65 years,.,,,Population with computer-related activities,
+2014,,Writing code in a programming language,,25 to under 65 years,.,,,Population with computer-related activities,
+2015,,Writing code in a programming language,,25 to under 65 years,,,,Population with computer-related activities,6.0
+2016,,Writing code in a programming language,,25 to under 65 years,,,,Population with computer-related activities,5.0
+2017,,Writing code in a programming language,,25 to under 65 years,,,,Population with computer-related activities,5.0
+2018,,Writing code in a programming language,,25 to under 65 years,.,,,Population with computer-related activities,
+2019,,Writing code in a programming language,,25 to under 65 years,,,,Population with computer-related activities,5.0
+2020,,Writing code in a programming language,,25 to under 65 years,.,,,Population with computer-related activities,
+2021,,Writing code in a programming language,,25 to under 65 years,|,,,Population with computer-related activities,4.5
+2022,,Writing code in a programming language,,25 to under 65 years,.,,,Population with computer-related activities,
+2023,,Writing code in a programming language,,25 to under 65 years,,,,Population with computer-related activities,5.8
+2024,,Writing code in a programming language,,25 to under 65 years,.,,,Population with computer-related activities,
+2025,,Writing code in a programming language,,25 to under 65 years,,,,Population with computer-related activities,6.4
+2011,,"Connecting and installing new devices, eg a printer or a modem",,25 to under 65 years,,,,Population with computer-related activities,47.0
+2012,,"Connecting and installing new devices, eg a printer or a modem",,25 to under 65 years,,,,Population with computer-related activities,48.0
+2014,,"Connecting and installing new devices, eg a printer or a modem",,25 to under 65 years,,,,Population with computer-related activities,53.0
+2010,,Transferring files between computer and other devices,,25 to under 65 years,.,,,Population with computer-related activities,
+2011,,Transferring files between computer and other devices,,25 to under 65 years,,,,Population with computer-related activities,63.0
+2012,,Transferring files between computer and other devices,,25 to under 65 years,,,,Population with computer-related activities,61.0
+2013,,Transferring files between computer and other devices,,25 to under 65 years,.,,,Population with computer-related activities,
+2014,,Transferring files between computer and other devices,,25 to under 65 years,,,,Population with computer-related activities,68.0
+2015,,Transferring files between computer and other devices,,25 to under 65 years,,,,Population with computer-related activities,63.0
+2016,,Transferring files between computer and other devices,,25 to under 65 years,,,,Population with computer-related activities,65.0
+2017,,Transferring files between computer and other devices,,25 to under 65 years,,,,Population with computer-related activities,66.0
+2018,,Transferring files between computer and other devices,,25 to under 65 years,.,,,Population with computer-related activities,
+2019,,Transferring files between computer and other devices,,25 to under 65 years,,,,Population with computer-related activities,69.0
+2020,,Transferring files between computer and other devices,,25 to under 65 years,.,,,Population with computer-related activities,
+2021,,Transferring files between computer and other devices,,25 to under 65 years,|,,,Population with computer-related activities,54.7
+2022,,Transferring files between computer and other devices,,25 to under 65 years,.,,,Population with computer-related activities,
+2023,,Transferring files between computer and other devices,,25 to under 65 years,,,,Population with computer-related activities,62.3
+2024,,Transferring files between computer and other devices,,25 to under 65 years,.,,,Population with computer-related activities,
+2025,,Transferring files between computer and other devices,,25 to under 65 years,,,,Population with computer-related activities,63.4
+2010,,Installing software or apps,,25 to under 65 years,.,,,Population with computer-related activities,
+2011,,Installing software or apps,,25 to under 65 years,.,,,Population with computer-related activities,
+2012,,Installing software or apps,,25 to under 65 years,.,,,Population with computer-related activities,
+2013,,Installing software or apps,,25 to under 65 years,.,,,Population with computer-related activities,
+2014,,Installing software or apps,,25 to under 65 years,.,,,Population with computer-related activities,
+2015,,Installing software or apps,,25 to under 65 years,,,,Population with computer-related activities,63.0
+2016,,Installing software or apps,,25 to under 65 years,,,,Population with computer-related activities,66.0
+2017,,Installing software or apps,,25 to under 65 years,,,,Population with computer-related activities,65.0
+2018,,Installing software or apps,,25 to under 65 years,.,,,Population with computer-related activities,
+2019,,Installing software or apps,,25 to under 65 years,,,,Population with computer-related activities,72.0
+2020,,Installing software or apps,,25 to under 65 years,.,,,Population with computer-related activities,
+2021,,Installing software or apps,,25 to under 65 years,|,,,Population with computer-related activities,45.9
+2022,,Installing software or apps,,25 to under 65 years,.,,,Population with computer-related activities,
+2023,,Installing software or apps,,25 to under 65 years,,,,Population with computer-related activities,55.3
+2024,,Installing software or apps,,25 to under 65 years,.,,,Population with computer-related activities,
+2025,,Installing software or apps,,25 to under 65 years,,,,Population with computer-related activities,56.8
+2010,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,.,,,Population with computer-related activities,
+2011,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,,,,Population with computer-related activities,32.0
+2012,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,,,,Population with computer-related activities,30.0
+2013,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,.,,,Population with computer-related activities,
+2014,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,,,,Population with computer-related activities,33.0
+2015,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,.,,,Population with computer-related activities,
+2016,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,.,,,Population with computer-related activities,
+2017,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,.,,,Population with computer-related activities,
+2018,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,.,,,Population with computer-related activities,
+2019,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,.,,,Population with computer-related activities,
+2020,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,.,,,Population with computer-related activities,
+2021,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,.,,,Population with computer-related activities,23.8
+2022,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,.,,,Population with computer-related activities,
+2023,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,.,,,Population with computer-related activities,27.2
+2024,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,.,,,Population with computer-related activities,
+2025,,"Creating files integrating elements such as text, pictures, tables, charts, animations or sound",,25 to under 65 years,,,,Population with computer-related activities,28.3
+2010,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,.,,,Population with computer-related activities,
+2011,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,.,,,Population with computer-related activities,
+2012,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,.,,,Population with computer-related activities,
+2013,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,.,,,Population with computer-related activities,
+2014,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,.,,,Population with computer-related activities,
+2015,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,,,,Population with computer-related activities,35.0
+2016,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,,,,Population with computer-related activities,34.0
+2017,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,,,,Population with computer-related activities,37.0
+2018,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,.,,,Population with computer-related activities,
+2019,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,,,,Population with computer-related activities,37.0
+2020,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,.,,,Population with computer-related activities,
+2021,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,|,,,Population with computer-related activities,26.9
+2022,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,.,,,Population with computer-related activities,
+2023,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,,,,Population with computer-related activities,30.2
+2024,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,.,,,Population with computer-related activities,
+2025,,"Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",,25 to under 65 years,,,,Population with computer-related activities,32.6

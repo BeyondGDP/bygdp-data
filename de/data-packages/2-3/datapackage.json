@@ -16,24 +16,22 @@
             "title": "Jahr"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik",
-                "Bevölkerung mit computerbezogenen Aktivitäten",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "educational level",
             "type": "string",
             "constraints": {
               "enum": [
                 "b) Am Ende der Grundschule",
                 "c) Am Ende der Sekundarstufe I",
+                ""
+              ]
+            },
+            "title": "Bildungsstand"
+          },
+          {
+            "name": "type of ict skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Kopieren oder Verschieben von Dateien und Ordnern",
                 "Verwendung von Werkzeugen zum Kopieren oder Ausschneiden und Einfügen, um Informationen auf dem Bildschirm zu duplizieren oder zu verschieben",
                 "Schreiben eines Programmes in einer Programmiersprache",
@@ -45,7 +43,7 @@
                 ""
               ]
             },
-            "title": "Bildungsstand"
+            "title": "Art der IKT-Kompetenz"
           },
           {
             "name": "subject",
@@ -54,12 +52,22 @@
               "enum": [
                 "Lesen",
                 "Mathematik",
+                ""
+              ]
+            },
+            "title": "Schulfach"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "16 bis unter 25 Jahre",
                 "25 bis unter 65 Jahre",
                 ""
               ]
             },
-            "title": "Schulfach"
+            "title": "Altersklasse"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -67,7 +75,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 "|",
                 ""
               ]
@@ -93,6 +100,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik",
+                "Bevölkerung mit computerbezogenen Aktivitäten",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

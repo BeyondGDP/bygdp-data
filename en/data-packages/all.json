@@ -346,24 +346,22 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Children and youths with a minimum proficiency in reading or mathematics",
-                "Population with computer-related activities",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "educational level",
             "type": "string",
             "constraints": {
               "enum": [
                 "(b) At the end of primary education",
                 "(c) At the end of lower secondary education",
+                ""
+              ]
+            },
+            "title": "Educational level"
+          },
+          {
+            "name": "type of ict skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Copying or moving of files and folders",
                 "Using copy or cut and paste tools to duplicate or move information on screen",
                 "Writing code in a programming language",
@@ -375,7 +373,7 @@
                 ""
               ]
             },
-            "title": "Educational level"
+            "title": "Type of ICT skill"
           },
           {
             "name": "subject",
@@ -384,12 +382,22 @@
               "enum": [
                 "Reading",
                 "Mathematics",
+                ""
+              ]
+            },
+            "title": "Subject"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "16 to under 25 years",
                 "25 to under 65 years",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Age group"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -397,7 +405,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 "|",
                 ""
               ]
@@ -423,6 +430,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Children and youths with a minimum proficiency in reading or mathematics",
+                "Population with computer-related activities",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -598,6 +617,99 @@
         ]
       },
       "title": "Gesamte Treibhausgasemissionen pro Jahr<br><br>Index für den Erhalt der biologischen Vielfalt"
+    },
+    {
+      "path": "2-8/data.csv",
+      "name": "2-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Micrograms per m³",
+                "Million inhabitants",
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "level of fine particulate matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PM₁₀",
+                "PM₂.₅",
+                ""
+              ]
+            },
+            "title": "Level of fine particulate matter"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population weighted annual mean levels of fine particulate matter",
+                "Population with excessive exposure to fine particulate matter",
+                "Population connected to the public water supply system",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Bevölkerungsgewichtete Jahresmittelwerte der Feinstaubkonzentration (z. B. PM₂,₅ und PM₁₀) in Städten"
     },
     {
       "path": "4-4-1/data.csv",

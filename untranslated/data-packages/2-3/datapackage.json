@@ -15,23 +15,21 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "children and youths with a minimum proficiency in reading or mathematics",
-                "population with computer-related activities",
-                ""
-              ]
-            }
-          },
-          {
             "name": "educational level",
             "type": "string",
             "constraints": {
               "enum": [
                 "(b) at the end of primary education",
                 "(c) at the end of lower secondary education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "type of ict skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "copying or moving of files and folders",
                 "using copy or cut and paste tools to duplicate or move information on screen",
                 "writing code in a programming language",
@@ -51,6 +49,15 @@
               "enum": [
                 "reading",
                 "mathematics",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "16 to under 25 years",
                 "25 to under 65 years",
                 ""
@@ -63,7 +70,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 "|",
                 ""
               ]
@@ -83,6 +89,17 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "children and youths with a minimum proficiency in reading or mathematics",
+                "population with computer-related activities",
                 ""
               ]
             }

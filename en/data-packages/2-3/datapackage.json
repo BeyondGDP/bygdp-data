@@ -16,24 +16,22 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Children and youths with a minimum proficiency in reading or mathematics",
-                "Population with computer-related activities",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "educational level",
             "type": "string",
             "constraints": {
               "enum": [
                 "(b) At the end of primary education",
                 "(c) At the end of lower secondary education",
+                ""
+              ]
+            },
+            "title": "Educational level"
+          },
+          {
+            "name": "type of ict skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Copying or moving of files and folders",
                 "Using copy or cut and paste tools to duplicate or move information on screen",
                 "Writing code in a programming language",
@@ -45,7 +43,7 @@
                 ""
               ]
             },
-            "title": "Educational level"
+            "title": "Type of ICT skill"
           },
           {
             "name": "subject",
@@ -54,12 +52,22 @@
               "enum": [
                 "Reading",
                 "Mathematics",
+                ""
+              ]
+            },
+            "title": "Subject"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "16 to under 25 years",
                 "25 to under 65 years",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Age group"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -67,7 +75,6 @@
             "constraints": {
               "enum": [
                 ".",
-                "…",
                 "|",
                 ""
               ]
@@ -93,6 +100,18 @@
               ]
             },
             "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Children and youths with a minimum proficiency in reading or mathematics",
+                "Population with computer-related activities",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
