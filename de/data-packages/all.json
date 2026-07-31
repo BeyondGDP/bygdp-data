@@ -929,6 +929,7 @@
             "constraints": {
               "enum": [
                 "PM₁₀",
+                "PM₂,₅",
                 ""
               ]
             },
