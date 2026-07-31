@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "micrograms per m³",
+                "micrograms per m3",
                 ""
               ]
             }

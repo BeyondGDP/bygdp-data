@@ -453,6 +453,207 @@
       "title": "<ul style='padding-left: 25px;'><li>Anteil der Kinder und Jugendlichen, die ein Mindestleistungsniveau in Lesen und Mathematik erreichen</li> <li> Anteil der Jugendlichen und Erwachsenen mit Kenntnissen im Bereich der Informations- und Kommunikationstechnologie</li></ul>"
     },
     {
+      "path": "3-4/data.csv",
+      "name": "3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EUR pro Stunde",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "länder",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                ""
+              ]
+            },
+            "title": "Bundesland"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "|",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Durchschnittlicher Stundenverdienst von Beschäftigten",
+                "Verdienstabstand",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Durchschnittlicher Stundenlohn von Frauen im Verhältnis zu dem der Männer"
+    },
+    {
+      "path": "3-6/data.csv",
+      "name": "3-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "A",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a",
+                "b",
+                ""
+              ]
+            },
+            "title": "A"
+          },
+          {
+            "name": "B",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a",
+                "b",
+                ""
+              ]
+            },
+            "title": "B"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Multidimensionaler Armutsindex"
+    },
+    {
       "path": "2-7-1/data.csv",
       "name": "2-7-1",
       "profile": "tabular-data-resource",
@@ -638,7 +839,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mikrogramm pro m³",
+                "micrograms per m3",
                 ""
               ]
             },
@@ -782,6 +983,84 @@
         ]
       },
       "title": "Anteil der Bevölkerung, der angibt, Vertrauen in die öffentliche Verwaltung zu haben"
+    },
+    {
+      "path": "3-1/data.csv",
+      "name": "3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "A",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a",
+                "b",
+                ""
+              ]
+            },
+            "title": "A"
+          },
+          {
+            "name": "B",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a",
+                "b",
+                ""
+              ]
+            },
+            "title": "B"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Vermögensanteil der reichsten 1 %"
     },
     {
       "path": "4-1-1/data.csv",
@@ -1625,6 +1904,97 @@
       "title": "Index für den Erhalt der biologischen Vielfalt"
     },
     {
+      "path": "3-2/data.csv",
+      "name": "3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gini-Koeffizienz-Punkte",
+                "Gini-Koeffizient",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "income considered",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Marktäquivalenzeinkommen (Bruttoeinkommen ohne Sozialtransfers)",
+                "Verfügbares Äquivalenzeinkommen (Nettoeinkommen inkl. Sozialtransfers)",
+                ""
+              ]
+            },
+            "title": "Betrachtetes Einkommen"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Umverteilende Wirkung der Fiskalpolitik",
+                "Gini-Koeffizientenen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Gini-Index"
+    },
+    {
       "path": "2-4-1/data.csv",
       "name": "2-4-1",
       "profile": "tabular-data-resource",
@@ -1824,6 +2194,143 @@
         ]
       },
       "title": "Gesamte Treibhausgasemissionen pro Jahr"
+    },
+    {
+      "path": "3-3/data.csv",
+      "name": "3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5 Jahre und jünger",
+                "6 bis unter 12 Jahre",
+                "12 bis unter 18 Jahre",
+                "18 bis unter 65 Jahre",
+                "65 Jahre und älter",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "|",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Anteil der von Armut betroffenen Personen gemessen an der gesellschaftlichen Armutsgrenze (festgelegt auf einem Basiswert)"
+    },
+    {
+      "path": "3-5/data.csv",
+      "name": "3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "p",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Anteil der ländlichen Bevölkerung, der im Umkreis von 2 km um eine ganzjährig befahrbare Straße lebt"
     },
     {
       "path": "4-5-1/data.csv",
