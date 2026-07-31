@@ -17,10 +17,9 @@
           },
           {
             "name": "Units",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "micrograms per m3",
                 ""
               ]
             },
@@ -28,10 +27,9 @@
           },
           {
             "name": "level of fine particulate matter",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "PM₁₀",
                 ""
               ]
             },
@@ -69,10 +67,9 @@
           },
           {
             "name": "Series",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub",
                 ""
               ]
             },
