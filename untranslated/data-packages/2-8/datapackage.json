@@ -15,11 +15,30 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
+                "micrograms per m³",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "level of fine particulate matter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pm10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -38,6 +57,16 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "population weighted annual mean levels of fine particulate matter",
                 ""
               ]
             }
