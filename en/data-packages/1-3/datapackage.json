@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "Total greenhouse gas emissions",
-                "biodiversity index",
+                "Biodiversity index",
                 ""
               ]
             },
@@ -45,11 +45,11 @@
             "constraints": {
               "enum": [
                 "Total",
-                "forest sub-indicator",
-                "settlements sub-indicator",
-                "farmland sub-indicator",
-                "inland waters sub-indicator",
-                "coasts/seas sub-indicator",
+                "Forest sub-indicator",
+                "Settlements sub-indicator",
+                "Farmland sub-indicator",
+                "Inland waters sub-indicator",
+                "Coasts/seas sub-indicator",
                 ""
               ]
             },

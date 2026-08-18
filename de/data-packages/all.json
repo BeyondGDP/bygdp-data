@@ -4332,7 +4332,7 @@
             "constraints": {
               "enum": [
                 "Treibhausgasemissionen insgesamt",
-                "biodiversity index",
+                "Index der Artenvielfalt",
                 ""
               ]
             },
@@ -4344,11 +4344,11 @@
             "constraints": {
               "enum": [
                 "Insgesamt",
-                "forest sub-indicator",
-                "settlements sub-indicator",
-                "farmland sub-indicator",
-                "inland waters sub-indicator",
-                "coasts/seas sub-indicator",
+                "Teilindex Wälder",
+                "Teilindex Siedlungen",
+                "Teilindex Agrarland",
+                "Teilindex Binnengewässer",
+                "Teilindex Küsten/Meere",
                 ""
               ]
             },
