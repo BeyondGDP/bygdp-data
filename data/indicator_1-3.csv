@@ -288,7 +288,7 @@ Year,Units,Series,time series,land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2021,2030 = 100,biodiversity index,total,,,,,,81.65
 2022,2030 = 100,biodiversity index,total,,,,,,80.37
 2023,2030 = 100,biodiversity index,total,,,,,,79.96
-2030,2030 = 100,biodiversity index,total,…,,,,,
+2030,2030 = 100,biodiversity index,total,,,…,,,
 1990,2030 = 100,biodiversity index,forest sub-indicator,,,,,,92.94
 1991,2030 = 100,biodiversity index,forest sub-indicator,,,,,,85.38
 1992,2030 = 100,biodiversity index,forest sub-indicator,,,,,,81.8
