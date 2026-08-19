@@ -73,7 +73,7 @@
                 "55 to under 65 years",
                 "65 years and older",
                 "15 to under 75 years",
-                "15 to under 65 years",
+                "20 to under 65 years",
                 ""
               ]
             }
@@ -85,7 +85,6 @@
               "enum": [
                 "female",
                 "male",
-                "|",
                 ""
               ]
             }
