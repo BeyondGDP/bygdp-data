@@ -1,31 +1,50 @@
-Year,Series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Healthy life expectancy at,,,,1
-2011,Healthy life expectancy at,,,,1
-2012,Healthy life expectancy at,,,,1
-2013,Healthy life expectancy at,,,,1
-2014,Healthy life expectancy at,,,,1
-2015,Healthy life expectancy at,,,,1
-2016,Healthy life expectancy at,,,,1
-2017,Healthy life expectancy at,,,,1
-2018,Healthy life expectancy at,,,,1
-2019,Healthy life expectancy at,,,,1
-2020,Healthy life expectancy at,,,,1
-2021,Healthy life expectancy at,,,,1
-2022,Healthy life expectancy at,,,,1
-2023,Healthy life expectancy at,,,,1
-2024,Healthy life expectancy at,,,,1
-2010,Low-birthweight babies (percentage of births),,,,1
-2011,Low-birthweight babies (percentage of births),,,,1
-2012,Low-birthweight babies (percentage of births),,,,1
-2013,Low-birthweight babies (percentage of births),,,,1
-2014,Low-birthweight babies (percentage of births),,,,1
-2015,Low-birthweight babies (percentage of births),,,,1
-2016,Low-birthweight babies (percentage of births),,,,1
-2017,Low-birthweight babies (percentage of births),,,,1
-2018,Low-birthweight babies (percentage of births),,,,1
-2019,Low-birthweight babies (percentage of births),,,,1
-2020,Low-birthweight babies (percentage of births),,,,1
-2021,Low-birthweight babies (percentage of births),,,,1
-2022,Low-birthweight babies (percentage of births),,,,1
-2023,Low-birthweight babies (percentage of births),,,,1
-2024,Low-birthweight babies (percentage of births),,,,1
+Year,Units,Series,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Years,Healthy life expectancy at,,,,58,3.0
+2011,Years,Healthy life expectancy at,,,,58,2.0
+2012,Years,Healthy life expectancy at,,,,57,6.0
+2013,Years,Healthy life expectancy at,,,,57,4.0
+2014,Years,Healthy life expectancy at,,,,56,5.0
+2015,Years,Healthy life expectancy at,,|,,66,4.0
+2016,Years,Healthy life expectancy at,,,,66,4.0
+2017,Years,Healthy life expectancy at,,,,66,
+2018,Years,Healthy life expectancy at,,,,65,8.0
+2019,Years,Healthy life expectancy at,,,,66,3.0
+2020,Years,Healthy life expectancy at,,|,,65,7.0
+2021,Years,Healthy life expectancy at,,,,65,6.0
+2022,Years,Healthy life expectancy at,,|,,61,1.0
+2023,Years,Healthy life expectancy at,,|,,62,5.0
+2024,Years,Healthy life expectancy at,,,,62,4.0
+2010,Years,Healthy life expectancy at,Female,,,58,7.0
+2011,Years,Healthy life expectancy at,Female,,,58,6.0
+2012,Years,Healthy life expectancy at,Female,,,57,9.0
+2013,Years,Healthy life expectancy at,Female,,,57,
+2014,Years,Healthy life expectancy at,Female,,,56,5.0
+2015,Years,Healthy life expectancy at,Female,|,,67,5.0
+2016,Years,Healthy life expectancy at,Female,,,67,3.0
+2017,Years,Healthy life expectancy at,Female,,,66,7.0
+2018,Years,Healthy life expectancy at,Female,,,66,3.0
+2019,Years,Healthy life expectancy at,Female,,,67,1.0
+2020,Years,Healthy life expectancy at,Female,|,,66,8.0
+2021,Years,Healthy life expectancy at,Female,,,66,5.0
+2022,Years,Healthy life expectancy at,Female,|,,61,2.0
+2023,Years,Healthy life expectancy at,Female,|,,63,
+2024,Years,Healthy life expectancy at,Female,,,62,6.0
+2010,Years,Healthy life expectancy at,Male,,,57,9.0
+2011,Years,Healthy life expectancy at,Male,,,57,8.0
+2012,Years,Healthy life expectancy at,Male,,,57,3.0
+2013,Years,Healthy life expectancy at,Male,,,57,7.0
+2014,Years,Healthy life expectancy at,Male,,,56,4.0
+2015,Years,Healthy life expectancy at,Male,|,,65,3.0
+2016,Years,Healthy life expectancy at,Male,,,65,3.0
+2017,Years,Healthy life expectancy at,Male,,,65,1.0
+2018,Years,Healthy life expectancy at,Male,,,65,1.0
+2019,Years,Healthy life expectancy at,Male,,,65,4.0
+2020,Years,Healthy life expectancy at,Male,|,,64,7.0
+2021,Years,Healthy life expectancy at,Male,,,64,7.0
+2022,Years,Healthy life expectancy at,Male,|,,60,9.0
+2023,Years,Healthy life expectancy at,Male,|,,62,1.0
+2024,Years,Healthy life expectancy at,Male,,,62,1.0
+2010,Percentage,Low-birthweight babies (percentage of births),,,,6,9.0
+2011,Percentage,Low-birthweight babies (percentage of births),,,,6,9.0
+2012,Percentage,Low-birthweight babies (percentage of births),,,,6,9.0
+2013,Percentage,Low-birthweight babies (percentage of births),,,,6,6.0

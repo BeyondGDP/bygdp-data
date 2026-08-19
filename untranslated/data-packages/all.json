@@ -1365,6 +1365,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "years",
+                "percentage",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -1376,10 +1387,22 @@
             }
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
+            "name": "sex",
+            "type": "string",
             "constraints": {
               "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "|",
                 ""
               ]
             }
@@ -1395,16 +1418,28 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "58",
+                "57",
+                "56",
+                "66",
+                "65",
+                "61",
+                "62",
+                "67",
+                "63",
+                "64",
+                "60",
+                "6",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

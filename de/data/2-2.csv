@@ -1,31 +1,50 @@
-Year,Series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,Gesunde Lebenserwartung bei der Geburt,,,,1
-2011,Gesunde Lebenserwartung bei der Geburt,,,,1
-2012,Gesunde Lebenserwartung bei der Geburt,,,,1
-2013,Gesunde Lebenserwartung bei der Geburt,,,,1
-2014,Gesunde Lebenserwartung bei der Geburt,,,,1
-2015,Gesunde Lebenserwartung bei der Geburt,,,,1
-2016,Gesunde Lebenserwartung bei der Geburt,,,,1
-2017,Gesunde Lebenserwartung bei der Geburt,,,,1
-2018,Gesunde Lebenserwartung bei der Geburt,,,,1
-2019,Gesunde Lebenserwartung bei der Geburt,,,,1
-2020,Gesunde Lebenserwartung bei der Geburt,,,,1
-2021,Gesunde Lebenserwartung bei der Geburt,,,,1
-2022,Gesunde Lebenserwartung bei der Geburt,,,,1
-2023,Gesunde Lebenserwartung bei der Geburt,,,,1
-2024,Gesunde Lebenserwartung bei der Geburt,,,,1
-2010,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2011,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2012,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2013,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2014,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2015,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2016,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2017,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2018,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2019,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2020,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2021,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2022,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2023,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
-2024,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,1
+Year,Units,Series,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Jahre,Gesunde Lebenserwartung bei der Geburt,,,,58,3.0
+2011,Jahre,Gesunde Lebenserwartung bei der Geburt,,,,58,2.0
+2012,Jahre,Gesunde Lebenserwartung bei der Geburt,,,,57,6.0
+2013,Jahre,Gesunde Lebenserwartung bei der Geburt,,,,57,4.0
+2014,Jahre,Gesunde Lebenserwartung bei der Geburt,,,,56,5.0
+2015,Jahre,Gesunde Lebenserwartung bei der Geburt,,|,,66,4.0
+2016,Jahre,Gesunde Lebenserwartung bei der Geburt,,,,66,4.0
+2017,Jahre,Gesunde Lebenserwartung bei der Geburt,,,,66,
+2018,Jahre,Gesunde Lebenserwartung bei der Geburt,,,,65,8.0
+2019,Jahre,Gesunde Lebenserwartung bei der Geburt,,,,66,3.0
+2020,Jahre,Gesunde Lebenserwartung bei der Geburt,,|,,65,7.0
+2021,Jahre,Gesunde Lebenserwartung bei der Geburt,,,,65,6.0
+2022,Jahre,Gesunde Lebenserwartung bei der Geburt,,|,,61,1.0
+2023,Jahre,Gesunde Lebenserwartung bei der Geburt,,|,,62,5.0
+2024,Jahre,Gesunde Lebenserwartung bei der Geburt,,,,62,4.0
+2010,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,,,58,7.0
+2011,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,,,58,6.0
+2012,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,,,57,9.0
+2013,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,,,57,
+2014,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,,,56,5.0
+2015,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,|,,67,5.0
+2016,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,,,67,3.0
+2017,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,,,66,7.0
+2018,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,,,66,3.0
+2019,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,,,67,1.0
+2020,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,|,,66,8.0
+2021,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,,,66,5.0
+2022,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,|,,61,2.0
+2023,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,|,,63,
+2024,Jahre,Gesunde Lebenserwartung bei der Geburt,Weiblich,,,62,6.0
+2010,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,,,57,9.0
+2011,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,,,57,8.0
+2012,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,,,57,3.0
+2013,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,,,57,7.0
+2014,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,,,56,4.0
+2015,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,|,,65,3.0
+2016,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,,,65,3.0
+2017,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,,,65,1.0
+2018,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,,,65,1.0
+2019,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,,,65,4.0
+2020,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,|,,64,7.0
+2021,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,,,64,7.0
+2022,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,|,,60,9.0
+2023,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,|,,62,1.0
+2024,Jahre,Gesunde Lebenserwartung bei der Geburt,Männlich,,,62,1.0
+2010,Prozent,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,6,9.0
+2011,Prozent,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,6,9.0
+2012,Prozent,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,6,9.0
+2013,Prozent,Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten),,,,6,6.0
