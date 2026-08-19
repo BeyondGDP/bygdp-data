@@ -2506,6 +2506,7 @@
               "enum": [
                 "Prozent",
                 "Stunden pro Tag",
+                "eur per capita",
                 ""
               ]
             },
@@ -2560,6 +2561,8 @@
                 "45 bis unter 55 Jahre",
                 "55 bis unter 65 Jahre",
                 "65 Jahre und älter",
+                "15 to under 75 years",
+                "15 bis unter 65 Jahre",
                 ""
               ]
             },
@@ -2572,6 +2575,7 @@
               "enum": [
                 "Weiblich",
                 "Männlich",
+                "|",
                 ""
               ]
             },
@@ -2579,9 +2583,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ""
               ]
             },
@@ -2599,9 +2604,10 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 ""
               ]
             },

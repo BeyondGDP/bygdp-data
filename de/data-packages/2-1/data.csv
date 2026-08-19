@@ -649,35 +649,115 @@ Year,Units,Series,Art der unbezahlten Arbeit,Verstädterungsgrad,Altersklasse,Ge
 2013,Stunden pro Tag,Zeitaufwand für unbezahlte Haus- und Pflegearbeit,Pflegearbeit,Ländliche Gebiete,25 bis unter 45 Jahre,Männlich,,,,0.4
 2022,Stunden pro Tag,Zeitaufwand für unbezahlte Haus- und Pflegearbeit,Pflegearbeit,Ländliche Gebiete,25 bis unter 45 Jahre,Männlich,,,,0.5
 2022,Stunden pro Tag,Zeitaufwand für unbezahlte Haus- und Pflegearbeit,Pflegearbeit,Ländliche Gebiete,45 bis unter 55 Jahre,Männlich,,,,0.3
-2010,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2011,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2012,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2013,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2014,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2015,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2016,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2017,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2018,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2019,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2020,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2021,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2022,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2023,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2024,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2025,,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,
-2010,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2011,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2012,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2013,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2014,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2015,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2016,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2017,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2018,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2019,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2020,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2021,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2022,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2023,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2024,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
-2025,,Gesamtquote der Unterauslastung der Arbeitskräfte,,,,,,,,
+2010,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,19663.084
+2011,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,20281.719
+2012,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,20682.553
+2013,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,20911.783
+2014,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,21420.157
+2015,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,21912.423
+2016,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,22423.394
+2017,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,23161.108
+2018,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,24058.887
+2019,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,24634.551
+2020,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,24685.581
+2021,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,,25465.406
+2022,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,p,27557.077
+2023,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,p,28999.712
+2024,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,p,30068.633
+2025,eur per capita,Verfügbares Haushaltseinkommen pro Kopf,,,,,,,p,30938.572
+2010,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,|,,,12.2
+2011,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,|,,,10.7
+2012,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,10.0
+2013,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,9.8
+2014,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,9.2
+2015,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,8.8
+2016,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,8.2
+2017,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,7.6
+2018,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,6.9
+2019,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,6.4
+2020,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,|,,,8.5
+2021,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,7.9
+2022,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,7.0
+2023,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,6.9
+2024,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,7.3
+2025,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,,,,,7.9
+2010,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,|,,,14.1
+2011,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,|,,,12.5
+2012,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,11.7
+2013,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,11.3
+2014,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,10.5
+2015,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,9.9
+2016,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,9.1
+2017,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,8.4
+2018,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,7.4
+2019,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,6.9
+2020,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,|,,,9.1
+2021,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,8.4
+2022,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,7.5
+2023,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,7.3
+2024,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,7.6
+2025,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Weiblich,,,,8.2
+2010,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,|,,,10.5
+2011,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,|,,,9.2
+2012,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,8.5
+2013,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,8.4
+2014,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,8.1
+2015,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,7.9
+2016,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,7.3
+2017,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,7.0
+2018,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,6.4
+2019,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,6.0
+2020,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,|,,,7.9
+2021,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,7.5
+2022,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,6.6
+2023,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,6.5
+2024,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,7.0
+2025,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 to under 75 years,Männlich,,,,7.6
+2010,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,|,,,12.2
+2011,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,|,,,10.7
+2012,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,9.9
+2013,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,9.8
+2014,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,9.3
+2015,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,8.8
+2016,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,8.1
+2017,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,7.6
+2018,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,6.9
+2019,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,6.4
+2020,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,|,,,,8.1
+2021,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,7.5
+2022,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,6.5
+2023,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,6.5
+2024,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,6.8
+2025,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,,,,,7.4
+2010,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,|,,,14.1
+2011,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,|,,,12.4
+2012,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,11.6
+2013,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,11.2
+2014,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,10.5
+2015,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,9.8
+2016,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,9.0
+2017,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,8.3
+2018,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,7.3
+2019,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,6.8
+2020,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,|,,,8.6
+2021,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,8.0
+2022,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,7.0
+2023,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,7.0
+2024,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,7.2
+2025,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Weiblich,,,,7.8
+2010,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,|,,,10.5
+2011,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,|,,,9.1
+2012,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,8.5
+2013,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,8.5
+2014,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,8.2
+2015,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,7.9
+2016,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,7.4
+2017,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,7.0
+2018,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,6.5
+2019,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,6.0
+2020,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,|,,,7.6
+2021,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,7.1
+2022,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,6.1
+2023,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,6.1
+2024,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,6.4
+2025,Prozent,Gesamtquote der Unterauslastung der Arbeitskräfte,,,15 bis unter 65 Jahre,Männlich,,,,7.0

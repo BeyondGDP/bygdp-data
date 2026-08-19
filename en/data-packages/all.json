@@ -2506,6 +2506,7 @@
               "enum": [
                 "Percentage",
                 "Houres per day",
+                "eur per capita",
                 ""
               ]
             },
@@ -2560,6 +2561,8 @@
                 "45 to under 55 years",
                 "55 to under 65 years",
                 "65 years and older",
+                "15 to under 75 years",
+                "15 to under 65 years",
                 ""
               ]
             },
@@ -2572,6 +2575,7 @@
               "enum": [
                 "Female",
                 "Male",
+                "|",
                 ""
               ]
             },
@@ -2579,9 +2583,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ""
               ]
             },
@@ -2599,9 +2604,10 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 ""
               ]
             },
