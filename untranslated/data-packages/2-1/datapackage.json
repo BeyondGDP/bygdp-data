@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
                 "houres per day",
                 "eur per capita",
+                "percentage",
                 ""
               ]
             }

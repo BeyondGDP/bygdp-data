@@ -2504,9 +2504,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
                 "Stunden pro Tag",
-                "eur per capita",
+                "Euro pro Kopf",
+                "Prozent",
                 ""
               ]
             },
