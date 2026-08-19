@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "houres per day",
                 "eur per capita",
                 "percentage",
+                "houres per day",
                 ""
               ]
             }
@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "time spent on unpaid domestic and care work",
                 "household disposable income per capita",
                 "composite rate of labour underutilization",
+                "time spent on unpaid domestic and care work",
                 ""
               ]
             }
@@ -66,14 +66,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15 to under 75 years",
+                "20 to under 65 years",
                 "15 years and older",
                 "15 to under 25 years",
                 "25 to under 45 years",
                 "45 to under 55 years",
                 "55 to under 65 years",
                 "65 years and older",
-                "15 to under 75 years",
-                "20 to under 65 years",
                 ""
               ]
             }

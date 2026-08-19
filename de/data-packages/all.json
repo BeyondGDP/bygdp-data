@@ -1553,18 +1553,45 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "58",
-                "57",
-                "56",
-                "66",
-                "65",
-                "61",
-                "62",
-                "67",
-                "63",
-                "64",
-                "60",
-                "6",
+                "58.3",
+                "58.2",
+                "57.6",
+                "57.4",
+                "56.5",
+                "66.4",
+                "66.0",
+                "65.8",
+                "66.3",
+                "65.7",
+                "65.6",
+                "61.1",
+                "62.5",
+                "62.4",
+                "58.7",
+                "58.6",
+                "57.9",
+                "57.0",
+                "67.5",
+                "67.3",
+                "66.7",
+                "67.1",
+                "66.8",
+                "66.5",
+                "61.2",
+                "63.0",
+                "62.6",
+                "57.8",
+                "57.3",
+                "57.7",
+                "56.4",
+                "65.3",
+                "65.1",
+                "65.4",
+                "64.7",
+                "60.9",
+                "62.1",
+                "6.9",
+                "6.6",
                 ""
               ]
             },
@@ -2541,9 +2568,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Stunden pro Tag",
                 "Euro pro Kopf",
                 "Prozent",
+                "Stunden pro Tag",
                 ""
               ]
             },
@@ -2554,9 +2581,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeitaufwand für unbezahlte Haus- und Pflegearbeit",
                 "Verfügbares Haushaltseinkommen pro Kopf",
                 "Gesamtquote der Unterauslastung der Arbeitskräfte",
+                "Zeitaufwand für unbezahlte Haus- und Pflegearbeit",
                 ""
               ]
             },
@@ -2592,14 +2619,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15 to under 75 years",
+                "20 to under 65 years",
                 "15 Jahre und älter",
                 "15 bis unter 25 Jahre",
                 "25 bis unter 45 Jahre",
                 "45 bis unter 55 Jahre",
                 "55 bis unter 65 Jahre",
                 "65 Jahre und älter",
-                "15 to under 75 years",
-                "20 to under 65 years",
                 ""
               ]
             },
