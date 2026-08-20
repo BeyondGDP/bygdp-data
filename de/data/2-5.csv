@@ -1,9 +1,19 @@
-Year,A,B,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,,,,,,1
-2011,,,,,,1
-2010,a,,,,,1
-2011,a,,,,,1
-2010,b,,,,,1
-2011,b,,,,,1
-2010,a,a,,,,1
-2011,a,b,,,,1
+Year,Units,Series,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+,life satisfaction,,,,,7,3.0
+,life satisfaction,,,,,7,4.0
+,life satisfaction,,,,,6,5.0
+,life satisfaction,,,,,7,
+,life satisfaction,,,,,7,
+,life satisfaction,,,,,7,
+,life satisfaction,Weiblich,,,,7,2.0
+,life satisfaction,Weiblich,,,,7,3.0
+,life satisfaction,Weiblich,,,,6,6.0
+,life satisfaction,Weiblich,,,,7,
+,life satisfaction,Weiblich,,,,7,
+,life satisfaction,Weiblich,,,,7,
+,life satisfaction,Männlich,,,,7,3.0
+,life satisfaction,Männlich,,,,7,4.0
+,life satisfaction,Männlich,,,,6,5.0
+,life satisfaction,Männlich,,,,7,
+,life satisfaction,Männlich,,,,7,
+,life satisfaction,Männlich,,,,7,

@@ -12,26 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
-            "name": "A",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "life satisfaction",
                 ""
               ]
             }
           },
           {
-            "name": "B",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -56,16 +64,18 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "7",
+                "6",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
