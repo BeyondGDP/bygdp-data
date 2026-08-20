@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "18 to under 31 years",
-                "31 to under 46 years",
-                "46 to under 61 years",
-                "61 to under 76 years",
-                "over 76 years",
+                "18 bis unter 31 Jahre",
+                "31 bis unter 46 Jahre",
+                "46 bis unter 61 Jahre",
+                "61 bis unter 76 Jahre",
+                "76 Jahre und älter",
                 ""
               ]
             },

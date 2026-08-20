@@ -26,6 +26,6 @@ Year,Sex,Age group,Region,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2013,,61 to under 76 years,,,,,2.41
 2017,,61 to under 76 years,,,,,1.92
 2021,,61 to under 76 years,,,,,2.28
-2013,,over 76 years,,,,,1.54
-2017,,over 76 years,,,,,1.47
-2021,,over 76 years,,,,,1.7
+2013,,76 years and older,,,,,1.54
+2017,,76 years and older,,,,,1.47
+2021,,76 years and older,,,,,1.7
