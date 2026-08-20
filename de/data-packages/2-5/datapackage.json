@@ -12,15 +12,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
             "name": "Units",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "life satisfaction",
                 ""
               ]
             },
@@ -31,8 +30,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
-                "Männlich",
+                "life satisfaction",
                 ""
               ]
             },
@@ -40,9 +38,11 @@
           },
           {
             "name": "sex",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
@@ -70,11 +70,9 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "7",
-                "6",
                 ""
               ]
             },
