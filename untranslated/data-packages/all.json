@@ -17,32 +17,11 @@
             "type": "integer"
           },
           {
-            "name": "A",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a",
-                "b",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "B",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a",
-                "b",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "p",
                 ""
               ]
             }
@@ -67,7 +46,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
