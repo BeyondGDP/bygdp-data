@@ -2236,34 +2236,37 @@
             "title": "Jahr"
           },
           {
-            "name": "A",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "Weiblich",
+                "Männlich",
+                "famale",
                 ""
               ]
             },
-            "title": "A"
+            "title": "Geschlecht"
           },
           {
-            "name": "B",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "18 years and younger",
+                "18 bis unter 65 Jahre",
+                "65 Jahre und älter",
                 ""
               ]
             },
-            "title": "B"
+            "title": "Altersklasse"
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ""
               ]
             },
@@ -2291,7 +2294,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Wert"
           }
         ]

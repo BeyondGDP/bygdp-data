@@ -2236,34 +2236,37 @@
             "title": "Year"
           },
           {
-            "name": "A",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "Female",
+                "Male",
+                "famale",
                 ""
               ]
             },
-            "title": "A"
+            "title": "Sex"
           },
           {
-            "name": "B",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "18 years and younger",
+                "18 to under 65 years",
+                "65 years and older",
                 ""
               ]
             },
-            "title": "B"
+            "title": "Age group"
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ""
               ]
             },
@@ -2291,7 +2294,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

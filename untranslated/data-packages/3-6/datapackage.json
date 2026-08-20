@@ -15,32 +15,35 @@
             "type": "integer"
           },
           {
-            "name": "A",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "female",
+                "male",
+                "famale",
                 ""
               ]
             }
           },
           {
-            "name": "B",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "18 years and younger",
+                "18 to under 65 years",
+                "65 years and older",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 ""
               ]
             }
@@ -65,7 +68,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
