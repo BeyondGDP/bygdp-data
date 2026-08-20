@@ -1,19 +1,19 @@
-Year,Units,Series,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2013,,life satisfaction,,,,,7.3
-2018,,life satisfaction,,,,,7.4
-2022,,life satisfaction,,,,,6.5
-2023,,life satisfaction,,,,,7
-2024,,life satisfaction,,,,,7
-2025,,life satisfaction,,,,,7
-2013,,life satisfaction,female,,,,7.2
-2018,,life satisfaction,female,,,,7.3
-2022,,life satisfaction,female,,,,6.6
-2023,,life satisfaction,female,,,,7
-2024,,life satisfaction,female,,,,7
-2025,,life satisfaction,female,,,,7
-2013,,life satisfaction,male,,,,7.3
-2018,,life satisfaction,male,,,,7.4
-2022,,life satisfaction,male,,,,6.5
-2023,,life satisfaction,male,,,,7
-2024,,life satisfaction,male,,,,7
-2025,,life satisfaction,male,,,,7
+Year,Units,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2013,,,,,,7.3
+2018,,,,,,7.4
+2022,,,,,,6.5
+2023,,,,,,7
+2024,,,,,,7
+2025,,,,,,7
+2013,,female,,,,7.2
+2018,,female,,,,7.3
+2022,,female,,,,6.6
+2023,,female,,,,7
+2024,,female,,,,7
+2025,,female,,,,7
+2013,,male,,,,7.3
+2018,,male,,,,7.4
+2022,,male,,,,6.5
+2023,,male,,,,7
+2024,,male,,,,7
+2025,,male,,,,7
