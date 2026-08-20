@@ -26,17 +26,6 @@
             "title": "Units"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Life satisfaction",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
