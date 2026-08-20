@@ -15,23 +15,37 @@
             "type": "integer"
           },
           {
-            "name": "A",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "female",
+                "male",
                 ""
               ]
             }
           },
           {
-            "name": "B",
+            "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "a",
-                "b",
+                "18 to under 31 years",
+                "31 to under 46 years",
+                "46 to under 61 years",
+                "61 to under 76 years",
+                "over 76 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "west",
+                "east",
                 ""
               ]
             }
@@ -65,7 +79,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
