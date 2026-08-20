@@ -1,4 +1,4 @@
-Year,Geschlecht,age,region,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+Year,Geschlecht,Altersklasse,Region,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2013,,,,,,,1.86
 2017,,,,,,,1.99
 2021,,,,,,,2.32
@@ -8,12 +8,12 @@ Year,Geschlecht,age,region,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2013,Männlich,,,,,,1.43
 2017,Männlich,,,,,,1.58
 2021,Männlich,,,,,,1.89
-2013,,,west,,,,1.74
-2017,,,west,,,,1.91
-2021,,,west,,,,2.17
-2013,,,east,,,,2.35
-2017,,,east,,,,2.39
-2021,,,east,,,,3.01
+2013,,,Alte Bundesländer,,,,1.74
+2017,,,Alte Bundesländer,,,,1.91
+2021,,,Alte Bundesländer,,,,2.17
+2013,,,Neue Bundesländer,,,,2.35
+2017,,,Neue Bundesländer,,,,2.39
+2021,,,Neue Bundesländer,,,,3.01
 2013,,18 to under 31 years,,,,,1.62
 2017,,18 to under 31 years,,,,,1.89
 2021,,18 to under 31 years,,,,,2.93

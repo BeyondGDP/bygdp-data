@@ -28,7 +28,7 @@
             "title": "Sex"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,19 +40,19 @@
                 ""
               ]
             },
-            "title": "age"
+            "title": "Age group"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "west",
-                "east",
+                "Old länder",
+                "New länder",
                 ""
               ]
             },
-            "title": "region"
+            "title": "Region"
           },
           {
             "name": "COMMENT_OBS_0",

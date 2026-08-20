@@ -2832,7 +2832,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2844,19 +2844,19 @@
                 ""
               ]
             },
-            "title": "age"
+            "title": "Altersklasse"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "west",
-                "east",
+                "Alte Bundesländer",
+                "Neue Bundesländer",
                 ""
               ]
             },
-            "title": "region"
+            "title": "Region"
           },
           {
             "name": "COMMENT_OBS_0",

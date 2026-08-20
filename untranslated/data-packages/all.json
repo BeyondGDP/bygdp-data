@@ -2587,7 +2587,7 @@
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
