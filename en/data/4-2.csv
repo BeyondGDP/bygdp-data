@@ -47,184 +47,183 @@ Year,Series,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2023,NEET rates from young people (15 to under 25 years),,,Male,,,,7.2
 2024,NEET rates from young people (15 to under 25 years),,,Male,|,,,7.2
 2025,NEET rates from young people (15 to under 25 years),,,Male,,,,8.0
-Year,Time series,Units,age goup,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1748471
-2011,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1717187
-2012,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1649642
-2013,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1652128
-2014,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1602005
-2015,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1650476
-2016,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1643386
-2017,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1581025
-2018,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1589991
-2019,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1536064
-2020,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1524470
-2021,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1574888
-2022,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1563255
-2023,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1507640
-2024,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1470777
-2010,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,610793
-2011,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,607866
-2012,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,581116
-2013,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,590470
-2014,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,567157
-2015,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,588274
-2016,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,586016
-2017,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,570542
-2018,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,571723
-2019,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,550787
-2020,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,542329
-2021,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,556196
-2022,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,560819
-2023,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,538504
-2024,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,532591
-2010,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1137678
-2011,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1109321
-2012,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1068526
-2013,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1061659
-2014,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1034848
-2015,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1062202
-2016,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1057242
-2017,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1010141
-2018,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1018268
-2019,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,985278
-2020,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,982141
-2021,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1018692
-2022,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1002436
-2023,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,969136
-2024,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,938186
-2010,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2593473
-2011,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2550722
-2012,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2469145
-2013,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2485111
-2014,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2414512
-2015,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2496291
-2016,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2493926
-2017,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2422408
-2018,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2452046
-2019,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2377659
-2020,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2381255
-2021,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2476588
-2022,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2460607
-2023,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2378755
-2024,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2319712
-2010,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,903281
-2011,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,901731
-2012,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,868456
-2013,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,885470
-2014,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,853552
-2015,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,886614
-2016,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,887473
-2017,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,870479
-2018,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,879438
-2019,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,850887
-2020,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,843317
-2021,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,870941
-2022,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,880286
-2023,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,849662
-2024,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,838211
-2010,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1690193
-2011,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1648991
-2012,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1600689
-2013,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1599641
-2014,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1560960
-2015,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1609677
-2016,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1606314
-2017,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1551551
-2018,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1572608
-2019,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1526773
-2020,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1537939
-2021,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1605647
-2022,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1580321
-2023,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1529094
-2024,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1481501
-2010,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2695
-2011,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2689
-2012,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2570
-2013,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2565
-2014,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2472
-2015,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2525
-2016,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2494
-2017,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2393
-2018,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2410
-2019,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2334
-2020,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2330
-2021,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2417
-2022,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2437
-2023,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2358
-2024,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2322
-2010,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1916
-2011,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1927
-2012,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1835
-2013,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1859
-2014,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1776
-2015,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1829
-2016,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1808
-2017,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1754
-2018,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1762
-2019,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1702
-2020,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1685
-2021,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1735
-2022,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1776
-2023,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1713
-2024,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1713
-2010,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3456
-2011,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3440
-2012,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3292
-2013,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3257
-2014,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3152
-2015,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3202
-2016,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3159
-2017,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3010
-2018,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3037
-2019,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,2946
-2020,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,2953
-2021,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3078
-2022,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3077
-2023,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,2985
-2024,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,2912
-2010,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3853
-2011,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3849
-2012,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3706
-2013,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3710
-2014,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3576
-2015,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3657
-2016,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3610
-2017,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3483
-2018,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3515
-2019,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3402
-2020,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3411
-2021,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3549
-2022,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3558
-2023,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3435
-2024,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3363
-2010,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2716
-2011,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2741
-2012,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2628
-2013,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2667
-2014,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2552
-2015,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2625
-2016,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2597
-2017,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2529
-2018,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2550
-2019,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2463
-2020,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2444
-2021,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2525
-2022,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2575
-2023,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2484
-2024,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2464
-2010,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4971
-2011,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4949
-2012,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4774
-2013,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4742
-2014,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4587
-2015,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4671
-2016,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4602
-2017,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4416
-2018,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4459
-2019,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4319
-2020,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4355
-2021,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4549
-2022,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4517
-2023,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4365
-2024,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4241
+2010,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1748471.0
+2011,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1717187.0
+2012,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1649642.0
+2013,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1652128.0
+2014,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1602005.0
+2015,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1650476.0
+2016,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1643386.0
+2017,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1581025.0
+2018,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1589991.0
+2019,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1536064.0
+2020,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1524470.0
+2021,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1574888.0
+2022,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1563255.0
+2023,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1507640.0
+2024,"Potential years of life lost (PYLL), all causes",Number,65 and younger,,,,,1470777.0
+2010,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,610793.0
+2011,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,607866.0
+2012,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,581116.0
+2013,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,590470.0
+2014,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,567157.0
+2015,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,588274.0
+2016,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,586016.0
+2017,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,570542.0
+2018,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,571723.0
+2019,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,550787.0
+2020,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,542329.0
+2021,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,556196.0
+2022,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,560819.0
+2023,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,538504.0
+2024,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Female,,,,532591.0
+2010,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1137678.0
+2011,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1109321.0
+2012,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1068526.0
+2013,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1061659.0
+2014,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1034848.0
+2015,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1062202.0
+2016,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1057242.0
+2017,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1010141.0
+2018,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1018268.0
+2019,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,985278.0
+2020,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,982141.0
+2021,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1018692.0
+2022,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,1002436.0
+2023,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,969136.0
+2024,"Potential years of life lost (PYLL), all causes",Number,65 and younger,Male,,,,938186.0
+2010,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2593473.0
+2011,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2550722.0
+2012,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2469145.0
+2013,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2485111.0
+2014,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2414512.0
+2015,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2496291.0
+2016,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2493926.0
+2017,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2422408.0
+2018,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2452046.0
+2019,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2377659.0
+2020,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2381255.0
+2021,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2476588.0
+2022,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2460607.0
+2023,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2378755.0
+2024,"Potential years of life lost (PYLL), all causes",Number,70 and younger,,,,,2319712.0
+2010,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,903281.0
+2011,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,901731.0
+2012,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,868456.0
+2013,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,885470.0
+2014,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,853552.0
+2015,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,886614.0
+2016,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,887473.0
+2017,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,870479.0
+2018,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,879438.0
+2019,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,850887.0
+2020,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,843317.0
+2021,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,870941.0
+2022,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,880286.0
+2023,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,849662.0
+2024,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Female,,,,838211.0
+2010,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1690193.0
+2011,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1648991.0
+2012,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1600689.0
+2013,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1599641.0
+2014,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1560960.0
+2015,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1609677.0
+2016,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1606314.0
+2017,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1551551.0
+2018,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1572608.0
+2019,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1526773.0
+2020,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1537939.0
+2021,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1605647.0
+2022,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1580321.0
+2023,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1529094.0
+2024,"Potential years of life lost (PYLL), all causes",Number,70 and younger,Male,,,,1481501.0
+2010,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2695.0
+2011,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2689.0
+2012,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2570.0
+2013,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2565.0
+2014,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2472.0
+2015,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2525.0
+2016,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2494.0
+2017,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2393.0
+2018,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2410.0
+2019,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2334.0
+2020,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2330.0
+2021,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2417.0
+2022,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2437.0
+2023,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2358.0
+2024,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,,,,,2322.0
+2010,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1916.0
+2011,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1927.0
+2012,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1835.0
+2013,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1859.0
+2014,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1776.0
+2015,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1829.0
+2016,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1808.0
+2017,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1754.0
+2018,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1762.0
+2019,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1702.0
+2020,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1685.0
+2021,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1735.0
+2022,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1776.0
+2023,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1713.0
+2024,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Female,,,,1713.0
+2010,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3456.0
+2011,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3440.0
+2012,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3292.0
+2013,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3257.0
+2014,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3152.0
+2015,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3202.0
+2016,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3159.0
+2017,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3010.0
+2018,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3037.0
+2019,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,2946.0
+2020,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,2953.0
+2021,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3078.0
+2022,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,3077.0
+2023,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,2985.0
+2024,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",65 and younger,Male,,,,2912.0
+2010,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3853.0
+2011,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3849.0
+2012,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3706.0
+2013,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3710.0
+2014,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3576.0
+2015,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3657.0
+2016,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3610.0
+2017,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3483.0
+2018,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3515.0
+2019,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3402.0
+2020,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3411.0
+2021,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3549.0
+2022,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3558.0
+2023,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3435.0
+2024,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,,,,,3363.0
+2010,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2716.0
+2011,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2741.0
+2012,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2628.0
+2013,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2667.0
+2014,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2552.0
+2015,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2625.0
+2016,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2597.0
+2017,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2529.0
+2018,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2550.0
+2019,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2463.0
+2020,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2444.0
+2021,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2525.0
+2022,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2575.0
+2023,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2484.0
+2024,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Female,,,,2464.0
+2010,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4971.0
+2011,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4949.0
+2012,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4774.0
+2013,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4742.0
+2014,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4587.0
+2015,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4671.0
+2016,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4602.0
+2017,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4416.0
+2018,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4459.0
+2019,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4319.0
+2020,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4355.0
+2021,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4549.0
+2022,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4517.0
+2023,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4365.0
+2024,"Potential years of life lost (PYLL), all causes","Per 100,000 inhabitants",70 and younger,Male,,,,4241.0

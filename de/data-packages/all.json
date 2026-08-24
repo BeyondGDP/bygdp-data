@@ -4176,7 +4176,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
@@ -4185,7 +4185,6 @@
             "constraints": {
               "enum": [
                 "NEET-Rate von Jugendlichen (15 bis unter 25 Jahre)",
-                "Zeitreihe",
                 "Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",
                 ""
               ]
@@ -4197,7 +4196,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Anzahl",
                 "Je 100 000 Einwohner/-innen",
                 ""
@@ -4210,7 +4208,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age goup",
                 "65 and younger",
                 "70 and younger",
                 ""
@@ -4225,7 +4222,6 @@
               "enum": [
                 "Weiblich",
                 "Männlich",
-                "Geschlecht",
                 ""
               ]
             },
@@ -4237,7 +4233,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "COMMENT_OBS_0",
                 ""
               ]
             },
@@ -4249,7 +4244,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "COMMENT_OBS_1",
                 ""
               ]
             },
@@ -4257,10 +4251,9 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "COMMENT_OBS_2",
                 ""
               ]
             },
@@ -4268,7 +4261,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Wert"
           }
         ]

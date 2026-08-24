@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "NEET rates from young people (15 to under 25 years)",
-                "Time series",
                 "Potential years of life lost (PYLL), all causes",
                 ""
               ]
@@ -33,7 +32,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
                 "Number",
                 "Per 100,000 inhabitants",
                 ""
@@ -46,7 +44,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age goup",
                 "65 and younger",
                 "70 and younger",
                 ""
@@ -61,7 +58,6 @@
               "enum": [
                 "Female",
                 "Male",
-                "Sex",
                 ""
               ]
             },
@@ -73,7 +69,6 @@
             "constraints": {
               "enum": [
                 "|",
-                "COMMENT_OBS_0",
                 ""
               ]
             },
@@ -85,7 +80,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "COMMENT_OBS_1",
                 ""
               ]
             },
@@ -93,10 +87,9 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "COMMENT_OBS_2",
                 ""
               ]
             },
@@ -104,7 +97,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
