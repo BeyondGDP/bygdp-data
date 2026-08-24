@@ -1235,8 +1235,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "eur per hour",
                 "percentage",
+                "eur per hour",
                 ""
               ]
             }
@@ -1286,8 +1286,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "|",
+                ".",
                 ""
               ]
             }
@@ -1315,8 +1315,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "average hourly earnings of employees",
                 "gender pay gap",
+                "average hourly earnings of employees",
                 ""
               ]
             }
@@ -3255,8 +3255,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "gini coefficient index points",
                 "gini coefficient",
+                "gini coefficient index points",
                 ""
               ]
             }
@@ -3305,8 +3305,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "redistributive impact of fiscal policy",
                 "gini coefficients",
+                "redistributive impact of fiscal policy",
                 ""
               ]
             }
@@ -3816,7 +3816,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Series",
@@ -3824,7 +3824,32 @@
             "constraints": {
               "enum": [
                 "neet rates from young people (15 to under 25 years)",
+                "Series",
                 "potential years of life lost (pyll), all causes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                "number",
+                "per 100,000 inhabitants",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age goup",
+                "65 and younger",
+                "70 and younger",
                 ""
               ]
             }
@@ -3836,6 +3861,7 @@
               "enum": [
                 "female",
                 "male",
+                "sex",
                 ""
               ]
             }
@@ -3846,6 +3872,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "COMMENT_OBS_0",
                 ""
               ]
             }
@@ -3856,22 +3883,24 @@
             "constraints": {
               "enum": [
                 "r",
+                "COMMENT_OBS_1",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "COMMENT_OBS_2",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },

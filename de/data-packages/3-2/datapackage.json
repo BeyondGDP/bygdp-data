@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gini-Koeffizienz-Punkte",
                 "Gini-Koeffizient",
+                "Gini-Koeffizienz-Punkte",
                 ""
               ]
             },
@@ -75,8 +75,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Umverteilende Wirkung der Fiskalpolitik",
                 "Gini-Koeffizientenen",
+                "Umverteilende Wirkung der Fiskalpolitik",
                 ""
               ]
             },

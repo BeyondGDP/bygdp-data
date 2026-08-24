@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "eur per hour",
                 "percentage",
+                "eur per hour",
                 ""
               ]
             }
@@ -70,8 +70,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "|",
+                ".",
                 ""
               ]
             }
@@ -99,8 +99,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "average hourly earnings of employees",
                 "gender pay gap",
+                "average hourly earnings of employees",
                 ""
               ]
             }

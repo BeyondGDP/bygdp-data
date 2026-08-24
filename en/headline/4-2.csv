@@ -1,27 +1,11 @@
-Year,Value,Series
-2013,6.3,NEET rates from young people (15 to under 25 years)
-2014,6.4,NEET rates from young people (15 to under 25 years)
-2015,6.2,NEET rates from young people (15 to under 25 years)
-2016,6.7,NEET rates from young people (15 to under 25 years)
-2017,6.3,NEET rates from young people (15 to under 25 years)
-2018,5.9,NEET rates from young people (15 to under 25 years)
-2019,5.7,NEET rates from young people (15 to under 25 years)
-2022,6.9,NEET rates from young people (15 to under 25 years)
-2023,7.5,NEET rates from young people (15 to under 25 years)
-2025,8.2,NEET rates from young people (15 to under 25 years)
-2010,,"Potential years of life lost (PYLL), all causes"
-2011,,"Potential years of life lost (PYLL), all causes"
-2012,,"Potential years of life lost (PYLL), all causes"
-2013,,"Potential years of life lost (PYLL), all causes"
-2014,,"Potential years of life lost (PYLL), all causes"
-2015,,"Potential years of life lost (PYLL), all causes"
-2016,,"Potential years of life lost (PYLL), all causes"
-2017,,"Potential years of life lost (PYLL), all causes"
-2018,,"Potential years of life lost (PYLL), all causes"
-2019,,"Potential years of life lost (PYLL), all causes"
-2020,,"Potential years of life lost (PYLL), all causes"
-2021,,"Potential years of life lost (PYLL), all causes"
-2022,,"Potential years of life lost (PYLL), all causes"
-2023,,"Potential years of life lost (PYLL), all causes"
-2024,,"Potential years of life lost (PYLL), all causes"
-2025,,"Potential years of life lost (PYLL), all causes"
+Year,Value,Units,Series
+2013,6.3,,NEET rates from young people (15 to under 25 years)
+2014,6.4,,NEET rates from young people (15 to under 25 years)
+2015,6.2,,NEET rates from young people (15 to under 25 years)
+2016,6.7,,NEET rates from young people (15 to under 25 years)
+2017,6.3,,NEET rates from young people (15 to under 25 years)
+2018,5.9,,NEET rates from young people (15 to under 25 years)
+2019,5.7,,NEET rates from young people (15 to under 25 years)
+2022,6.9,,NEET rates from young people (15 to under 25 years)
+2023,7.5,,NEET rates from young people (15 to under 25 years)
+2025,8.2,,NEET rates from young people (15 to under 25 years)

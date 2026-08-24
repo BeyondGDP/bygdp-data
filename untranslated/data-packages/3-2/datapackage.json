@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "gini coefficient index points",
                 "gini coefficient",
+                "gini coefficient index points",
                 ""
               ]
             }
@@ -69,8 +69,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "redistributive impact of fiscal policy",
                 "gini coefficients",
+                "redistributive impact of fiscal policy",
                 ""
               ]
             }

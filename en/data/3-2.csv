@@ -1,20 +1,4 @@
 Year,Units,Income considered,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2010,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
-2011,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
-2012,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
-2013,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
-2014,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
-2015,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
-2016,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
-2017,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
-2018,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
-2019,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
-2020,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,10.4
-2021,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,14.3
-2022,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,17.0
-2023,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,16.7
-2024,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,18.2
-2025,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,11.2
 2010,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
 2011,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
 2012,Gini coefficient,Equivalised market income (gross income without social transfers),.,,,Gini coefficients,
@@ -47,3 +31,19 @@ Year,Units,Income considered,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Va
 2023,Gini coefficient,Equivalised disposable income (net income including social transfers),,,,Gini coefficients,29.4
 2024,Gini coefficient,Equivalised disposable income (net income including social transfers),,,,Gini coefficients,29.5
 2025,Gini coefficient,Equivalised disposable income (net income including social transfers),,,,Gini coefficients,30.1
+2010,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2011,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2012,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2013,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2014,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2015,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2016,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2017,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2018,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2019,Gini coefficient index points,,.,,,Redistributive impact of fiscal policy,
+2020,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,10.4
+2021,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,14.3
+2022,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,17.0
+2023,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,16.7
+2024,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,18.2
+2025,Gini coefficient index points,,,,,Redistributive impact of fiscal policy,11.2

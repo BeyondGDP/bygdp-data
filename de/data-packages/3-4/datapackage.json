@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR pro Stunde",
                 "Prozent",
+                "EUR pro Stunde",
                 ""
               ]
             },
@@ -75,8 +75,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "|",
+                ".",
                 ""
               ]
             },
@@ -107,8 +107,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Durchschnittlicher Stundenverdienst von Beschäftigten",
                 "Verdienstabstand",
+                "Durchschnittlicher Stundenverdienst von Beschäftigten",
                 ""
               ]
             },

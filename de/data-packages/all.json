@@ -1350,8 +1350,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR pro Stunde",
                 "Prozent",
+                "EUR pro Stunde",
                 ""
               ]
             },
@@ -1405,8 +1405,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "|",
+                ".",
                 ""
               ]
             },
@@ -1437,8 +1437,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Durchschnittlicher Stundenverdienst von Beschäftigten",
                 "Verdienstabstand",
+                "Durchschnittlicher Stundenverdienst von Beschäftigten",
                 ""
               ]
             },
@@ -3561,8 +3561,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gini-Koeffizienz-Punkte",
                 "Gini-Koeffizient",
+                "Gini-Koeffizienz-Punkte",
                 ""
               ]
             },
@@ -3616,8 +3616,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Umverteilende Wirkung der Fiskalpolitik",
                 "Gini-Koeffizientenen",
+                "Umverteilende Wirkung der Fiskalpolitik",
                 ""
               ]
             },
@@ -4176,7 +4176,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Jahr"
           },
           {
@@ -4185,11 +4185,38 @@
             "constraints": {
               "enum": [
                 "NEET-Rate von Jugendlichen (15 bis unter 25 Jahre)",
+                "Zeitreihe",
                 "Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",
                 ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                "Anzahl",
+                "Je 100 000 Einwohner/-innen",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age goup",
+                "65 and younger",
+                "70 and younger",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
           },
           {
             "name": "sex",
@@ -4198,6 +4225,7 @@
               "enum": [
                 "Weiblich",
                 "Männlich",
+                "Geschlecht",
                 ""
               ]
             },
@@ -4209,6 +4237,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "COMMENT_OBS_0",
                 ""
               ]
             },
@@ -4220,6 +4249,7 @@
             "constraints": {
               "enum": [
                 "r",
+                "COMMENT_OBS_1",
                 ""
               ]
             },
@@ -4227,9 +4257,10 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "COMMENT_OBS_2",
                 ""
               ]
             },
@@ -4237,7 +4268,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Wert"
           }
         ]
