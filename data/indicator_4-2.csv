@@ -47,7 +47,6 @@ Year,Series,Units,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2023,neet rates from young people (15 to under 25 years),,,male,,,,7.2
 2024,neet rates from young people (15 to under 25 years),,,male,|,,,7.2
 2025,neet rates from young people (15 to under 25 years),,,male,,,,8.0
-Year,Series,Units,age goup,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2010,"potential years of life lost (pyll), all causes",number,65 and younger,,,,,1748471
 2011,"potential years of life lost (pyll), all causes",number,65 and younger,,,,,1717187
 2012,"potential years of life lost (pyll), all causes",number,65 and younger,,,,,1649642
