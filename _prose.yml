@@ -37,10 +37,10 @@ prose:
     ######### Global Metadata #########
       - name: "target_name"
         field:
-            element: text
+            element: area
             label: "Target name"
             translation_key: metadata_fields.target
-            scope: global
+            scope: national
       - name: "indicator_name"
         field:
             element: text
@@ -48,7 +48,7 @@ prose:
             translation_key: metadata_fields.indicator_name
             scope: national
       # - name: "indicator_number"
-    
+
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
