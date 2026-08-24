@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) Am Ende der Grundschule",
-                "c) Am Ende der Sekundarstufe I",
+                "Ende der Grundschule",
+                "Am Ende der Sekundarstufe I",
                 ""
               ]
             },
