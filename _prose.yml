@@ -34,21 +34,13 @@ prose:
             label: "Target Title"
             translation_key:
             scope: page
-    ######### Global Metadata #########
-      - name: "target_name"
-        field:
-            element: area
-            label: "Target name"
-            translation_key: metadata_fields.target
-            scope: national
+
       - name: "indicator_name"
         field:
             element: text
             label: "Indicator name"
             translation_key: metadata_fields.indicator_name
             scope: national
-      # - name: "indicator_number"
-
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
@@ -68,93 +60,13 @@ prose:
             label: "Indicator description"
             translation_key: metadata_fields.national_indicator_description
             scope: national
-
-      - name: "comparison_sdg"
+      - name: "area_21"
         field:
             element: text
-            label: "Comparison to global metadata"
-            translation_key: metadata_fields.comparison_sdg
-            scope: national
-
-
-      - name: "goal_meta_national_link"
-        field:
-            element: text
-            label: "Link to national metadata"
-            scope: national
-      - name: "goal_meta_national_link_text"
-        field:
-            element: text
-            label: "Link to national metadata text"
-            value: "UN metadata"
-            scope: national
-      - name: "goal_meta_national_link_De"
-        field:
-            element: text
-            label: "Link to national metadata"
-            scope: national
-      - name: "goal_meta_national_link_text_De"
-        field:
-            element: text
-            label: "Link to national metadata text"
-            value: "UN metadata"
+            label: "Area description"
+            translation_key: global_targets.2-1-title
             scope: national
 
-
-      # - name: "national_geographical_coverage"
-      #   field:
-      #       element: text
-      #       label: "Geographical coverage"
-      #       translation_key: metadata_fields.national_geographical_coverage
-      #       scope: national
-      # - name: "computation_units"
-      #   field:
-      #       element: text
-      #       label: "Unit of measurement"
-      #       translation_key: metadata_fields.computation_units
-      #       scope: national
-      - name: "computation_definitions"
-        field:
-            element: textarea
-            label: "Definitions"
-            translation_key: metadata_fields.computation_definitions
-            scope: national
-      - name: "computation_calculations"
-        field:
-            element: text
-            label: "Calculations"
-            translation_key: metadata_fields.computation_calculations
-            scope: national
-      - name: "other_info"
-        field:
-            element: text
-            label: "Other information"
-            translation_key: metadata_fields.other_info
-            scope: national
-      - name: "quality_assurance"
-        field:
-            element: text
-            label: "Quality assurance"
-            translation_key: metadata_fields.quality_assurance
-            scope: national
-      - name: "international_comparability"
-        field:
-            element: text
-            label: "Comparability with international data/standards"
-            translation_key: metadata_fields.international_comparability
-            scope: national
-      - name: "comments_limitations"
-        field:
-            element: text
-            label: "Comments and limitations"
-            translation_key: metadata_fields.comments_limitations
-            scope: national
-      - name: "rationale_interpretation"
-        field:
-            element: text
-            label: "Rationale and interpretation"
-            translation_key: metadata_fields.rationale_interpretation
-            scope: national
       - name: "data_last_update"
         field:
             element: text
