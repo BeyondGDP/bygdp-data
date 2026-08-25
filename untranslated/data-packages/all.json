@@ -4033,7 +4033,6 @@
                 "bremen",
                 "hamburg",
                 "hesse",
-                "mecklenburg western pomerania",
                 "lower saxony",
                 "north rhine-westphalia",
                 "rhineland palatinate",
@@ -4041,7 +4040,6 @@
                 "saxony",
                 "saxony-anhalt",
                 "schleswig-holstein",
-                "thuringia",
                 ""
               ]
             }
@@ -4057,7 +4055,6 @@
               "enum": [
                 "r",
                 "…",
-                ".",
                 ""
               ]
             }

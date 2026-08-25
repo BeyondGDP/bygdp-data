@@ -4413,7 +4413,6 @@
                 "Bremen",
                 "Hamburg",
                 "Hessen",
-                "Mecklenburg-Vorpommern",
                 "Niedersachsen",
                 "Nordrhein-Westfalen",
                 "Rheinland-Pfalz",
@@ -4421,7 +4420,6 @@
                 "Sachsen",
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
-                "Thüringen",
                 ""
               ]
             },
@@ -4439,7 +4437,6 @@
               "enum": [
                 "r",
                 "…",
-                ".",
                 ""
               ]
             },
