@@ -66,6 +66,24 @@ prose:
             label: "Area description"
             translation_key: global_targets.2-1-title
             scope: national
+      - name: "area_22"
+        field:
+            element: text
+            label: "Area description"
+            translation_key: global_targets.2-2-title
+            scope: national
+      - name: "area_23"
+        field:
+            element: text
+            label: "Area description"
+            translation_key: global_targets.2-3-title
+            scope: national
+      - name: "area_24"
+        field:
+            element: text
+            label: "Area description"
+            translation_key: global_targets.2-4-title
+            scope: national
 
       - name: "data_last_update"
         field:
