@@ -34,7 +34,7 @@
             "constraints": {
               "enum": [
                 "Verfügbares Haushaltseinkommen pro Kopf",
-                "Gesamtquote der Unterauslastung der Arbeitskräfte",
+                "Quote der Unterauslastung der Arbeitskräfte",
                 "Zeitaufwand für unbezahlte Haus- und Pflegearbeit",
                 ""
               ]
@@ -139,5 +139,5 @@
   ],
   "profile": "data-package",
   "name": "2-1",
-  "title": "<ul style='padding-left: 25px;'><li>Verfügbares Haushaltseinkommen pro Kopf</li> <li> Gesamtquote der Unterauslastung der Arbeitskräfte</li> <li>Anteil der Zeit, der für unbezahlte Haus- und Betreuungsarbeit aufgewendet wird</li></ul>"
+  "title": "<ul style='padding-left: 25px;'><li>Verfügbares Haushaltseinkommen pro Kopf</li> <li> Quote der Unterauslastung von Arbeitskräften</li> <li>Anteil der für unbezahlte Haus- und Betreuungsarbeit aufgewendeten Zeit</li></ul>"
 }
