@@ -41,6 +41,7 @@ prose:
             label: "Indicator name"
             translation_key: metadata_fields.indicator_name
             scope: national
+
             
       ######### National Metadata #########
       - name: "national_indicator_available"
