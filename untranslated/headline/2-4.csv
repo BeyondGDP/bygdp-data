@@ -1,4 +1,18 @@
 Year,Value,Units,Series
+2010,0.97,"per 100,000 inhabitants",victims of intentional homicide
+2011,0.9,"per 100,000 inhabitants",victims of intentional homicide
+2012,0.81,"per 100,000 inhabitants",victims of intentional homicide
+2014,0.89,"per 100,000 inhabitants",victims of intentional homicide
+2015,0.84,"per 100,000 inhabitants",victims of intentional homicide
+2016,1.17,"per 100,000 inhabitants",victims of intentional homicide
+2017,0.99,"per 100,000 inhabitants",victims of intentional homicide
+2018,0.95,"per 100,000 inhabitants",victims of intentional homicide
+2019,0.75,"per 100,000 inhabitants",victims of intentional homicide
+2020,0.94,"per 100,000 inhabitants",victims of intentional homicide
+2021,0.84,"per 100,000 inhabitants",victims of intentional homicide
+2022,0.82,"per 100,000 inhabitants",victims of intentional homicide
+2023,0.91,"per 100,000 inhabitants",victims of intentional homicide
+2025,1.33,"per 100,000 inhabitants",victims of intentional homicide
 2010,793.0,number,victims of intentional homicide
 2011,738.0,number,victims of intentional homicide
 2012,659.0,number,victims of intentional homicide
@@ -15,20 +29,6 @@ Year,Value,Units,Series
 2023,770.0,number,victims of intentional homicide
 2024,779.0,number,victims of intentional homicide
 2025,1112.0,number,victims of intentional homicide
-2010,0.97,"per 100,000 inhabitants",victims of intentional homicide
-2011,0.9,"per 100,000 inhabitants",victims of intentional homicide
-2012,0.81,"per 100,000 inhabitants",victims of intentional homicide
-2014,0.89,"per 100,000 inhabitants",victims of intentional homicide
-2015,0.84,"per 100,000 inhabitants",victims of intentional homicide
-2016,1.17,"per 100,000 inhabitants",victims of intentional homicide
-2017,0.99,"per 100,000 inhabitants",victims of intentional homicide
-2018,0.95,"per 100,000 inhabitants",victims of intentional homicide
-2019,0.75,"per 100,000 inhabitants",victims of intentional homicide
-2020,0.94,"per 100,000 inhabitants",victims of intentional homicide
-2021,0.84,"per 100,000 inhabitants",victims of intentional homicide
-2022,0.82,"per 100,000 inhabitants",victims of intentional homicide
-2023,0.91,"per 100,000 inhabitants",victims of intentional homicide
-2025,1.33,"per 100,000 inhabitants",victims of intentional homicide
 2010,88.0,percentage,"population not living in an area with crime, violence or vandalism"
 2011,87.1,percentage,"population not living in an area with crime, violence or vandalism"
 2012,87.5,percentage,"population not living in an area with crime, violence or vandalism"

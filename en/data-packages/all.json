@@ -3253,8 +3253,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
                 "Per 100,000 inhabitants",
+                "Number",
                 "Percentage",
                 ""
               ]
@@ -3327,9 +3327,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "|",
                 "‒",
                 ".",
-                "|",
                 "0",
                 "r",
                 "…",

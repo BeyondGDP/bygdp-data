@@ -1,4 +1,292 @@
 Year,Units,Altersklasse,Geschlecht,Art der Opfer-Tatverdächtigen-Beziehung,Grad des Unsicherheitsgefühls,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2010,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.97
+2011,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.9
+2012,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.81
+2013,Je 100 000 Einwohner/-innen,,,,,|,,,Opfer von vorsätzlicher Tötung,0.86
+2014,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.89
+2015,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.84
+2016,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,1.17
+2017,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.99
+2018,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.95
+2019,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.75
+2020,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.94
+2021,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.84
+2022,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.82
+2023,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.91
+2024,Je 100 000 Einwohner/-innen,,,,,|,,,Opfer von vorsätzlicher Tötung,0.93
+2025,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,1.33
+2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.75
+2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.72
+2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.9
+2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,|,,,Opfer von vorsätzlicher Tötung,0.67
+2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.64
+2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.63
+2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.67
+2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.65
+2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.67
+2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.49
+2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.74
+2021,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.77
+2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.47
+2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.65
+2024,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,|,,,Opfer von vorsätzlicher Tötung,0.51
+2025,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.85
+2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.68
+2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.84
+2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.19
+2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,|,,,Opfer von vorsätzlicher Tötung,0.37
+2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.47
+2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.44
+2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.09
+2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.13
+2018,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.45
+2019,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.36
+2020,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.4
+2021,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.47
+2022,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.46
+2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.55
+2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,|,,,Opfer von vorsätzlicher Tötung,0.48
+2025,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.15
+2010,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.34
+2011,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.06
+2012,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.89
+2013,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,|,,,Opfer von vorsätzlicher Tötung,0.61
+2014,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.82
+2015,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.73
+2016,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.65
+2017,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.6
+2018,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.99
+2019,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.62
+2020,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.83
+2021,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.77
+2022,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.96
+2023,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.74
+2024,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,|,,,Opfer von vorsätzlicher Tötung,1.11
+2025,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.39
+2010,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.01
+2011,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.96
+2012,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.81
+2013,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,|,,,Opfer von vorsätzlicher Tötung,0.87
+2014,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.93
+2015,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.75
+2016,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.2
+2017,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.95
+2018,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.02
+2019,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.8
+2020,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.87
+2021,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.78
+2022,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.79
+2023,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.0
+2024,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,|,,,Opfer von vorsätzlicher Tötung,0.98
+2025,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.39
+2010,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,0.98
+2011,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,0.86
+2012,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,0.83
+2013,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,|,,,Opfer von vorsätzlicher Tötung,0.98
+2014,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,0.97
+2015,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.1
+2016,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.29
+2017,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.37
+2018,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.01
+2019,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,0.86
+2020,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.23
+2021,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.01
+2022,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.08
+2023,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,0.94
+2024,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,|,,,Opfer von vorsätzlicher Tötung,1.07
+2025,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.46
+2010,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.94
+2011,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.81
+2012,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.71
+2013,Je 100 000 Einwohner/-innen,,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.8
+2014,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.82
+2015,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.79
+2016,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.13
+2017,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.91
+2018,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.87
+2019,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.66
+2020,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.85
+2021,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.8
+2022,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.83
+2023,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.87
+2024,Je 100 000 Einwohner/-innen,,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.8
+2025,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.3
+2010,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.0
+2011,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.0
+2012,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.9
+2013,Je 100 000 Einwohner/-innen,,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.9
+2014,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.95
+2015,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.86
+2016,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.22
+2017,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.06
+2018,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.03
+2019,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.85
+2020,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.04
+2021,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.87
+2022,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.82
+2023,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.95
+2024,Je 100 000 Einwohner/-innen,,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,1.07
+2025,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.36
+2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.74
+2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.49
+2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.8
+2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.77
+2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.5
+2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.52
+2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.61
+2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.56
+2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.59
+2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.33
+2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.81
+2021,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.82
+2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.51
+2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.72
+2024,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.38
+2025,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.91
+2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.76
+2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.94
+2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.99
+2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.57
+2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.77
+2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.73
+2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.73
+2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.74
+2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.75
+2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.53
+2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.68
+2021,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.72
+2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.43
+2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.58
+2024,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.65
+2025,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.79
+2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.89
+2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.77
+2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,‒,,,Opfer von vorsätzlicher Tötung,0.0
+2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.26
+2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.32
+2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.58
+2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.43
+2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.07
+2018,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.53
+2019,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.27
+2020,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.27
+2021,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.48
+2022,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.82
+2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.53
+2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.47
+2025,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.06
+2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.48
+2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.91
+2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.28
+2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.49
+2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.61
+2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.3
+2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.78
+2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.18
+2018,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.37
+2019,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.44
+2020,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.51
+2021,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.45
+2022,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.13
+2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.56
+2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.5
+2025,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.23
+2010,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.37
+2011,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.75
+2012,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.79
+2013,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.5
+2014,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.76
+2015,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.75
+2016,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.45
+2017,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.56
+2018,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.96
+2019,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.41
+2020,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.5
+2021,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.34
+2022,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.69
+2023,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.76
+2024,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,1.12
+2025,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.54
+2010,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.31
+2011,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.36
+2012,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.98
+2013,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.71
+2014,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.88
+2015,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.7
+2016,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.82
+2017,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.65
+2018,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.01
+2019,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.81
+2020,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.13
+2021,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.18
+2022,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.21
+2023,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.71
+2024,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,1.11
+2025,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.25
+2010,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.92
+2011,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.83
+2012,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.64
+2013,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.74
+2014,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.84
+2015,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.62
+2016,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.1
+2017,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.82
+2018,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.86
+2019,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.67
+2020,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.67
+2021,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.66
+2022,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.65
+2023,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.87
+2024,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.73
+2025,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.33
+2010,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.1
+2011,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.09
+2012,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.98
+2013,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,1.0
+2014,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.03
+2015,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.87
+2016,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.31
+2017,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.07
+2018,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.18
+2019,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.93
+2020,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.07
+2021,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.9
+2022,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.92
+2023,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.13
+2024,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,1.23
+2025,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.44
+2010,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.02
+2011,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.93
+2012,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.89
+2013,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,1.01
+2014,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.99
+2015,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.16
+2016,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.31
+2017,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.33
+2018,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.04
+2019,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.82
+2020,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.24
+2021,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.08
+2022,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.24
+2023,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.99
+2024,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,1.08
+2025,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.42
+2010,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.93
+2011,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.77
+2012,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.76
+2013,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.94
+2014,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.95
+2015,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.03
+2016,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.27
+2017,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.41
+2018,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.97
+2019,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.9
+2020,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.21
+2021,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.92
+2022,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.89
+2023,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.88
+2024,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,1.06
+2025,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.5
 2010,Anzahl,,,,,,,,Opfer von vorsätzlicher Tötung,793.0
 2011,Anzahl,,,,,,,,Opfer von vorsätzlicher Tötung,738.0
 2012,Anzahl,,,,,,,,Opfer von vorsätzlicher Tötung,659.0
@@ -431,294 +719,6 @@ Year,Units,Altersklasse,Geschlecht,Art der Opfer-Tatverdächtigen-Beziehung,Grad
 2023,Anzahl,,Männlich,Familienmitglied,,,,,Opfer von vorsätzlicher Tötung,64.0
 2024,Anzahl,,Männlich,Familienmitglied,,,,,Opfer von vorsätzlicher Tötung,75.0
 2025,Anzahl,,Männlich,Familienmitglied,,,,,Opfer von vorsätzlicher Tötung,66.0
-2010,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.97
-2011,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.9
-2012,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.81
-2013,Je 100 000 Einwohner/-innen,,,,,|,,,Opfer von vorsätzlicher Tötung,0.86
-2014,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.89
-2015,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.84
-2016,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,1.17
-2017,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.99
-2018,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.95
-2019,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.75
-2020,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.94
-2021,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.84
-2022,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.82
-2023,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,0.91
-2024,Je 100 000 Einwohner/-innen,,,,,|,,,Opfer von vorsätzlicher Tötung,0.93
-2025,Je 100 000 Einwohner/-innen,,,,,,,,Opfer von vorsätzlicher Tötung,1.33
-2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.75
-2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.72
-2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.9
-2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,|,,,Opfer von vorsätzlicher Tötung,0.67
-2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.64
-2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.63
-2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.67
-2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.65
-2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.67
-2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.49
-2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.74
-2021,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.77
-2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.47
-2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.65
-2024,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,|,,,Opfer von vorsätzlicher Tötung,0.51
-2025,Je 100 000 Einwohner/-innen,13 Jahre und jünger,,,,,,,Opfer von vorsätzlicher Tötung,0.85
-2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.68
-2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.84
-2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.19
-2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,|,,,Opfer von vorsätzlicher Tötung,0.37
-2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.47
-2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.44
-2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.09
-2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.13
-2018,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.45
-2019,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.36
-2020,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.4
-2021,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.47
-2022,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.46
-2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.55
-2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,|,,,Opfer von vorsätzlicher Tötung,0.48
-2025,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.15
-2010,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.34
-2011,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.06
-2012,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.89
-2013,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,|,,,Opfer von vorsätzlicher Tötung,0.61
-2014,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.82
-2015,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.73
-2016,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.65
-2017,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.6
-2018,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.99
-2019,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.62
-2020,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.83
-2021,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.77
-2022,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.96
-2023,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.74
-2024,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,|,,,Opfer von vorsätzlicher Tötung,1.11
-2025,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.39
-2010,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.01
-2011,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.96
-2012,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.81
-2013,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,|,,,Opfer von vorsätzlicher Tötung,0.87
-2014,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.93
-2015,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.75
-2016,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.2
-2017,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.95
-2018,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.02
-2019,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.8
-2020,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.87
-2021,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.78
-2022,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,0.79
-2023,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.0
-2024,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,|,,,Opfer von vorsätzlicher Tötung,0.98
-2025,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,,,,,,,Opfer von vorsätzlicher Tötung,1.39
-2010,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,0.98
-2011,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,0.86
-2012,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,0.83
-2013,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,|,,,Opfer von vorsätzlicher Tötung,0.98
-2014,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,0.97
-2015,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.1
-2016,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.29
-2017,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.37
-2018,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.01
-2019,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,0.86
-2020,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.23
-2021,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.01
-2022,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.08
-2023,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,0.94
-2024,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,|,,,Opfer von vorsätzlicher Tötung,1.07
-2025,Je 100 000 Einwohner/-innen,60 Jahre und älter,,,,,,,Opfer von vorsätzlicher Tötung,1.46
-2010,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.94
-2011,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.81
-2012,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.71
-2013,Je 100 000 Einwohner/-innen,,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.8
-2014,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.82
-2015,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.79
-2016,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.13
-2017,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.91
-2018,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.87
-2019,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.66
-2020,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.85
-2021,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.8
-2022,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.83
-2023,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.87
-2024,Je 100 000 Einwohner/-innen,,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.8
-2025,Je 100 000 Einwohner/-innen,,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.3
-2010,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.0
-2011,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.0
-2012,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.9
-2013,Je 100 000 Einwohner/-innen,,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.9
-2014,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.95
-2015,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.86
-2016,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.22
-2017,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.06
-2018,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.03
-2019,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.85
-2020,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.04
-2021,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.87
-2022,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.82
-2023,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.95
-2024,Je 100 000 Einwohner/-innen,,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,1.07
-2025,Je 100 000 Einwohner/-innen,,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.36
-2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.74
-2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.49
-2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.8
-2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.77
-2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.5
-2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.52
-2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.61
-2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.56
-2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.59
-2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.33
-2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.81
-2021,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.82
-2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.51
-2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.72
-2024,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.38
-2025,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.91
-2010,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.76
-2011,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.94
-2012,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.99
-2013,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.57
-2014,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.77
-2015,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.73
-2016,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.73
-2017,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.74
-2018,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.75
-2019,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.53
-2020,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.68
-2021,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.72
-2022,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.43
-2023,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.58
-2024,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.65
-2025,Je 100 000 Einwohner/-innen,13 Jahre und jünger,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.79
-2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.89
-2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.77
-2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,‒,,,Opfer von vorsätzlicher Tötung,0.0
-2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.26
-2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.32
-2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.58
-2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.43
-2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.07
-2018,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.53
-2019,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.27
-2020,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.27
-2021,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.48
-2022,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.82
-2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.53
-2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.47
-2025,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.06
-2010,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.48
-2011,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.91
-2012,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.28
-2013,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.49
-2014,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.61
-2015,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.3
-2016,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.78
-2017,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.18
-2018,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.37
-2019,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.44
-2020,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.51
-2021,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.45
-2022,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.13
-2023,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.56
-2024,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.5
-2025,Je 100 000 Einwohner/-innen,14 bis unter 18 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.23
-2010,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.37
-2011,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.75
-2012,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.79
-2013,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.5
-2014,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.76
-2015,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.75
-2016,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.45
-2017,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.56
-2018,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.96
-2019,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.41
-2020,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.5
-2021,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.34
-2022,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.69
-2023,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.76
-2024,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,1.12
-2025,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.54
-2010,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.31
-2011,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.36
-2012,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.98
-2013,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.71
-2014,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.88
-2015,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.7
-2016,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.82
-2017,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.65
-2018,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.01
-2019,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.81
-2020,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.13
-2021,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.18
-2022,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.21
-2023,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.71
-2024,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,1.11
-2025,Je 100 000 Einwohner/-innen,18 bis unter 21 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.25
-2010,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.92
-2011,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.83
-2012,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.64
-2013,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.74
-2014,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.84
-2015,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.62
-2016,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.1
-2017,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.82
-2018,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.86
-2019,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.67
-2020,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.67
-2021,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.66
-2022,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.65
-2023,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.87
-2024,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,0.73
-2025,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.33
-2010,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.1
-2011,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.09
-2012,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.98
-2013,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,1.0
-2014,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.03
-2015,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.87
-2016,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.31
-2017,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.07
-2018,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.18
-2019,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.93
-2020,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.07
-2021,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.9
-2022,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.92
-2023,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.13
-2024,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,1.23
-2025,Je 100 000 Einwohner/-innen,21 bis unter 60 Jahre,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.44
-2010,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.02
-2011,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.93
-2012,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.89
-2013,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,1.01
-2014,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.99
-2015,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.16
-2016,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.31
-2017,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.33
-2018,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.04
-2019,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.82
-2020,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.24
-2021,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.08
-2022,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.24
-2023,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,0.99
-2024,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,|,,,Opfer von vorsätzlicher Tötung,1.08
-2025,Je 100 000 Einwohner/-innen,60 Jahre und älter,Weiblich,,,,,,Opfer von vorsätzlicher Tötung,1.42
-2010,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.93
-2011,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.77
-2012,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.76
-2013,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,0.94
-2014,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.95
-2015,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.03
-2016,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.27
-2017,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.41
-2018,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.97
-2019,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.9
-2020,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.21
-2021,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.92
-2022,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.89
-2023,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,0.88
-2024,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,|,,,Opfer von vorsätzlicher Tötung,1.06
-2025,Je 100 000 Einwohner/-innen,60 Jahre und älter,Männlich,,,,,,Opfer von vorsätzlicher Tötung,1.5
 2010,Prozent,,,,,0,,,Opfer von vorsätzlicher Tötung,0.00097
 2011,Prozent,,,,,0,,,Opfer von vorsätzlicher Tötung,0.00092
 2012,Prozent,,,,,0,,,Opfer von vorsätzlicher Tötung,0.00082
