@@ -1486,7 +1486,7 @@
             "constraints": {
               "enum": [
                 "Gesunde Lebenserwartung bei der Geburt",
-                "Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten)",
+                "Neugeborene mit niedrigem Geburtsgewicht",
                 ""
               ]
             },
@@ -2229,7 +2229,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "18 years and younger",
+                "18 Jahre und jünger",
                 "18 bis unter 65 Jahre",
                 "65 Jahre und älter",
                 ""
@@ -2559,8 +2559,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to under 75 years",
-                "20 to under 65 years",
+                "15 bis unter 75 Jahre",
+                "20 bis unter 65 Jahre",
                 "15 Jahre und älter",
                 "15 bis unter 25 Jahre",
                 "25 bis unter 45 Jahre",
@@ -4206,8 +4206,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "65 and younger",
-                "70 and younger",
+                "65 Jahre und jünger",
+                "70 Jahre und jünger",
                 ""
               ]
             },

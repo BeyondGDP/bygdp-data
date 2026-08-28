@@ -29,7 +29,7 @@ Year,Series,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OB
 2021,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,|,,,7.8
 2022,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,7.4
 2023,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,7.8
-2024,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,|,,,7.7
+2024,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,|,,,7.9
 2025,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,8.4
 2010,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,|,,,7.6
 2011,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,|,,,6.7
@@ -45,185 +45,185 @@ Year,Series,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OB
 2021,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,|,,,7.6
 2022,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,6.4
 2023,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,7.2
-2024,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,|,,,7.2
+2024,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,|,,,7.6
 2025,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,8.0
-2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1748471.0
-2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1717187.0
-2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1649642.0
-2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1652128.0
-2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1602005.0
-2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1650476.0
-2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1643386.0
-2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1581025.0
-2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1589991.0
-2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1536064.0
-2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1524470.0
-2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1574888.0
-2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1563255.0
-2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1507640.0
-2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,,,,,1470777.0
-2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,610793.0
-2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,607866.0
-2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,581116.0
-2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,590470.0
-2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,567157.0
-2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,588274.0
-2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,586016.0
-2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,570542.0
-2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,571723.0
-2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,550787.0
-2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,542329.0
-2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,556196.0
-2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,560819.0
-2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,538504.0
-2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Weiblich,,,,532591.0
-2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,1137678.0
-2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,1109321.0
-2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,1068526.0
-2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,1061659.0
-2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,1034848.0
-2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,1062202.0
-2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,1057242.0
-2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,1010141.0
-2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,1018268.0
-2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,985278.0
-2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,982141.0
-2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,1018692.0
-2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,1002436.0
-2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,969136.0
-2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 and younger,Männlich,,,,938186.0
-2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2593473.0
-2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2550722.0
-2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2469145.0
-2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2485111.0
-2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2414512.0
-2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2496291.0
-2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2493926.0
-2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2422408.0
-2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2452046.0
-2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2377659.0
-2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2381255.0
-2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2476588.0
-2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2460607.0
-2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2378755.0
-2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,,,,,2319712.0
-2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,903281.0
-2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,901731.0
-2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,868456.0
-2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,885470.0
-2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,853552.0
-2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,886614.0
-2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,887473.0
-2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,870479.0
-2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,879438.0
-2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,850887.0
-2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,843317.0
-2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,870941.0
-2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,880286.0
-2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,849662.0
-2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Weiblich,,,,838211.0
-2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1690193.0
-2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1648991.0
-2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1600689.0
-2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1599641.0
-2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1560960.0
-2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1609677.0
-2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1606314.0
-2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1551551.0
-2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1572608.0
-2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1526773.0
-2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1537939.0
-2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1605647.0
-2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1580321.0
-2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1529094.0
-2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 and younger,Männlich,,,,1481501.0
-2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2695.0
-2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2689.0
-2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2570.0
-2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2565.0
-2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2472.0
-2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2525.0
-2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2494.0
-2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2393.0
-2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2410.0
-2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2334.0
-2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2330.0
-2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2417.0
-2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2437.0
-2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2358.0
-2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,,,,,2322.0
-2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1916.0
-2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1927.0
-2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1835.0
-2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1859.0
-2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1776.0
-2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1829.0
-2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1808.0
-2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1754.0
-2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1762.0
-2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1702.0
-2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1685.0
-2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1735.0
-2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1776.0
-2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1713.0
-2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Weiblich,,,,1713.0
-2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,3456.0
-2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,3440.0
-2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,3292.0
-2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,3257.0
-2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,3152.0
-2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,3202.0
-2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,3159.0
-2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,3010.0
-2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,3037.0
-2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,2946.0
-2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,2953.0
-2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,3078.0
-2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,3077.0
-2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,2985.0
-2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 and younger,Männlich,,,,2912.0
-2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3853.0
-2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3849.0
-2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3706.0
-2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3710.0
-2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3576.0
-2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3657.0
-2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3610.0
-2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3483.0
-2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3515.0
-2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3402.0
-2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3411.0
-2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3549.0
-2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3558.0
-2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3435.0
-2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,,,,,3363.0
-2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2716.0
-2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2741.0
-2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2628.0
-2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2667.0
-2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2552.0
-2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2625.0
-2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2597.0
-2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2529.0
-2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2550.0
-2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2463.0
-2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2444.0
-2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2525.0
-2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2575.0
-2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2484.0
-2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Weiblich,,,,2464.0
-2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4971.0
-2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4949.0
-2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4774.0
-2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4742.0
-2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4587.0
-2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4671.0
-2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4602.0
-2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4416.0
-2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4459.0
-2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4319.0
-2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4355.0
-2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4549.0
-2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4517.0
-2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4365.0
-2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 and younger,Männlich,,,,4241.0
+2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1748471.0
+2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1717187.0
+2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1649642.0
+2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1652128.0
+2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1602005.0
+2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1650476.0
+2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1643386.0
+2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1581025.0
+2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1589991.0
+2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1536064.0
+2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1524470.0
+2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1574888.0
+2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1563255.0
+2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1507640.0
+2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1470777.0
+2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,610793.0
+2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,607866.0
+2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,581116.0
+2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,590470.0
+2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,567157.0
+2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,588274.0
+2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,586016.0
+2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,570542.0
+2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,571723.0
+2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,550787.0
+2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,542329.0
+2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,556196.0
+2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,560819.0
+2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,538504.0
+2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Weiblich,,,,532591.0
+2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,1137678.0
+2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,1109321.0
+2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,1068526.0
+2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,1061659.0
+2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,1034848.0
+2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,1062202.0
+2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,1057242.0
+2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,1010141.0
+2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,1018268.0
+2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,985278.0
+2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,982141.0
+2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,1018692.0
+2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,1002436.0
+2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,969136.0
+2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,Männlich,,,,938186.0
+2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2593473.0
+2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2550722.0
+2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2469145.0
+2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2485111.0
+2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2414512.0
+2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2496291.0
+2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2493926.0
+2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2422408.0
+2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2452046.0
+2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2377659.0
+2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2381255.0
+2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2476588.0
+2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2460607.0
+2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2378755.0
+2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,,,,,2319712.0
+2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,903281.0
+2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,901731.0
+2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,868456.0
+2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,885470.0
+2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,853552.0
+2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,886614.0
+2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,887473.0
+2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,870479.0
+2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,879438.0
+2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,850887.0
+2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,843317.0
+2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,870941.0
+2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,880286.0
+2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,849662.0
+2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Weiblich,,,,838211.0
+2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1690193.0
+2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1648991.0
+2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1600689.0
+2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1599641.0
+2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1560960.0
+2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1609677.0
+2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1606314.0
+2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1551551.0
+2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1572608.0
+2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1526773.0
+2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1537939.0
+2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1605647.0
+2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1580321.0
+2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1529094.0
+2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,70 Jahre und jünger,Männlich,,,,1481501.0
+2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2695.0
+2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2689.0
+2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2570.0
+2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2565.0
+2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2472.0
+2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2525.0
+2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2494.0
+2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2393.0
+2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2410.0
+2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2334.0
+2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2330.0
+2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2417.0
+2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2437.0
+2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2358.0
+2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,,,,,2322.0
+2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1916.0
+2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1927.0
+2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1835.0
+2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1859.0
+2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1776.0
+2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1829.0
+2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1808.0
+2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1754.0
+2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1762.0
+2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1702.0
+2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1685.0
+2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1735.0
+2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1776.0
+2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1713.0
+2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Weiblich,,,,1713.0
+2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,3456.0
+2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,3440.0
+2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,3292.0
+2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,3257.0
+2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,3152.0
+2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,3202.0
+2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,3159.0
+2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,3010.0
+2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,3037.0
+2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,2946.0
+2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,2953.0
+2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,3078.0
+2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,3077.0
+2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,2985.0
+2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,65 Jahre und jünger,Männlich,,,,2912.0
+2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3853.0
+2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3849.0
+2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3706.0
+2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3710.0
+2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3576.0
+2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3657.0
+2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3610.0
+2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3483.0
+2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3515.0
+2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3402.0
+2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3411.0
+2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3549.0
+2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3558.0
+2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3435.0
+2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,,,,,3363.0
+2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2716.0
+2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2741.0
+2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2628.0
+2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2667.0
+2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2552.0
+2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2625.0
+2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2597.0
+2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2529.0
+2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2550.0
+2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2463.0
+2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2444.0
+2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2525.0
+2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2575.0
+2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2484.0
+2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Weiblich,,,,2464.0
+2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4971.0
+2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4949.0
+2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4774.0
+2013,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4742.0
+2014,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4587.0
+2015,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4671.0
+2016,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4602.0
+2017,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4416.0
+2018,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4459.0
+2019,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4319.0
+2020,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4355.0
+2021,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4549.0
+2022,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4517.0
+2023,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4365.0
+2024,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Je 100 000 Einwohner/-innen,70 Jahre und jünger,Männlich,,,,4241.0

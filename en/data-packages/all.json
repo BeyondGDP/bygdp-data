@@ -1270,7 +1270,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "Land"
           },
           {
             "name": "GeoCode",
@@ -1393,7 +1393,7 @@
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "Land"
           },
           {
             "name": "GeoCode",
@@ -1486,7 +1486,7 @@
             "constraints": {
               "enum": [
                 "Healthy life expectancy at",
-                "Low-birthweight babies (percentage of births)",
+                "Low-birthweight babies",
                 ""
               ]
             },
@@ -4206,8 +4206,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "65 and younger",
-                "70 and younger",
+                "65 years and younger",
+                "70 years and younger",
                 ""
               ]
             },
