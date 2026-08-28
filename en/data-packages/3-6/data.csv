@@ -43,17 +43,17 @@ Year,Sex,Age group,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2023,,18 years and younger,,,,23.9
 2024,,18 years and younger,,,,22.9
 2025,,18 years and younger,,,,23.5
-2015,famale,18 years and younger,,,,19.3
-2016,famale,18 years and younger,,,,22.0
-2017,famale,18 years and younger,,,,19.5
-2018,famale,18 years and younger,,,,17.3
-2019,famale,18 years and younger,,,,16.1
-2020,famale,18 years and younger,|,,,22.8
-2021,famale,18 years and younger,,,,23.4
-2022,famale,18 years and younger,,,,23.9
-2023,famale,18 years and younger,,,,23.5
-2024,famale,18 years and younger,,,,22.7
-2025,famale,18 years and younger,,,,23.0
+2015,Female,18 years and younger,,,,19.3
+2016,Female,18 years and younger,,,,22.0
+2017,Female,18 years and younger,,,,19.5
+2018,Female,18 years and younger,,,,17.3
+2019,Female,18 years and younger,,,,16.1
+2020,Female,18 years and younger,|,,,22.8
+2021,Female,18 years and younger,,,,23.4
+2022,Female,18 years and younger,,,,23.9
+2023,Female,18 years and younger,,,,23.5
+2024,Female,18 years and younger,,,,22.7
+2025,Female,18 years and younger,,,,23.0
 2015,Male,18 years and younger,,,,19.3
 2016,Male,18 years and younger,,,,19.6
 2017,Male,18 years and younger,,,,17.8
@@ -76,17 +76,17 @@ Year,Sex,Age group,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2023,,18 to under 65 years,,,,20.8
 2024,,18 to under 65 years,,,,20.5
 2025,,18 to under 65 years,,,,20.6
-2015,famale,18 to under 65 years,,,,22.4
-2016,famale,18 to under 65 years,,,,21.3
-2017,famale,18 to under 65 years,,,,20.4
-2018,famale,18 to under 65 years,,,,19.8
-2019,famale,18 to under 65 years,,,,18.2
-2020,famale,18 to under 65 years,|,,,20.3
-2021,famale,18 to under 65 years,,,,21.1
-2022,famale,18 to under 65 years,,,,21.3
-2023,famale,18 to under 65 years,,,,21.4
-2024,famale,18 to under 65 years,,,,21.2
-2025,famale,18 to under 65 years,,,,21.2
+2015,Female,18 to under 65 years,,,,22.4
+2016,Female,18 to under 65 years,,,,21.3
+2017,Female,18 to under 65 years,,,,20.4
+2018,Female,18 to under 65 years,,,,19.8
+2019,Female,18 to under 65 years,,,,18.2
+2020,Female,18 to under 65 years,|,,,20.3
+2021,Female,18 to under 65 years,,,,21.1
+2022,Female,18 to under 65 years,,,,21.3
+2023,Female,18 to under 65 years,,,,21.4
+2024,Female,18 to under 65 years,,,,21.2
+2025,Female,18 to under 65 years,,,,21.2
 2015,Male,18 to under 65 years,,,,19.6
 2016,Male,18 to under 65 years,,,,18.7
 2017,Male,18 to under 65 years,,,,18.0
@@ -109,17 +109,17 @@ Year,Sex,Age group,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2023,,65 years and older,,,,20.6
 2024,,65 years and older,,,,21.2
 2025,,65 years and older,,,,21.0
-2015,famale,65 years and older,,,,19.3
-2016,famale,65 years and older,,,,20.7
-2017,famale,65 years and older,,,,19.8
-2018,famale,65 years and older,,,,20.7
-2019,famale,65 years and older,,,,20.8
-2020,famale,65 years and older,|,,,22.6
-2021,famale,65 years and older,,,,22.1
-2022,famale,65 years and older,,,,21.8
-2023,famale,65 years and older,,,,22.8
-2024,famale,65 years and older,,,,23.1
-2025,famale,65 years and older,,,,22.8
+2015,Female,65 years and older,,,,19.3
+2016,Female,65 years and older,,,,20.7
+2017,Female,65 years and older,,,,19.8
+2018,Female,65 years and older,,,,20.7
+2019,Female,65 years and older,,,,20.8
+2020,Female,65 years and older,|,,,22.6
+2021,Female,65 years and older,,,,22.1
+2022,Female,65 years and older,,,,21.8
+2023,Female,65 years and older,,,,22.8
+2024,Female,65 years and older,,,,23.1
+2025,Female,65 years and older,,,,22.8
 2015,Male,65 years and older,,,,14.7
 2016,Male,65 years and older,,,,15.6
 2017,Male,65 years and older,,,,15.2

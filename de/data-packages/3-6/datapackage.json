@@ -22,7 +22,6 @@
               "enum": [
                 "Weiblich",
                 "Männlich",
-                "famale",
                 ""
               ]
             },
