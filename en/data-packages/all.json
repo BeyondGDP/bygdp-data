@@ -2523,7 +2523,7 @@
               "enum": [
                 "Household disposable income per capita",
                 "Composite rate of labour underutilization",
-                "Time spent on unpaid domestic and care work",
+                "time spent on unpaid ",
                 ""
               ]
             },
@@ -2534,7 +2534,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic and care work",
                 "Domestic work",
                 "Care work",
                 ""
