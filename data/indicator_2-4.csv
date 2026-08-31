@@ -1001,245 +1001,111 @@ Year,Units,age group,sex,typ of victim-suspect relationship,degree of feelings o
 2012,percentage,,,,very unsafe,r,,,feeling of (in)security of the population in its neighbourhood (after dark),4.7
 2017,percentage,,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),6.3
 2020,percentage,,,,very unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),5.7
-2012,percentage,,female,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),54.7
+2012,percentage,,male,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),54.7
 2017,percentage,,female,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),24.4
 2020,percentage,,female,,very safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),15.8
-2012,percentage,,female,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),37.3
+2012,percentage,,male,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),37.3
 2017,percentage,,female,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),43.7
 2020,percentage,,female,,safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),45.5
-2012,percentage,,female,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),6.1
+2012,percentage,,male,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),6.1
 2017,percentage,,female,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),22.0
 2020,percentage,,female,,unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),30.1
-2012,percentage,,female,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),1.9
+2012,percentage,,male,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),1.9
 2017,percentage,,female,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),9.9
 2020,percentage,,female,,very unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),8.6
-2012,percentage,,male,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),29.0
+2012,percentage,,female,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),29.0
 2017,percentage,,male,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),49.4
 2020,percentage,,male,,very safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),36.2
-2012,percentage,,male,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),45.1
+2012,percentage,,female,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),45.1
 2017,percentage,,male,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),40.0
 2020,percentage,,male,,safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),47.1
-2012,percentage,,male,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),18.4
+2012,percentage,,female,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),18.4
 2017,percentage,,male,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),8.1
 2020,percentage,,male,,unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),14.0
-2012,percentage,,male,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),7.4
+2012,percentage,,female,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),7.4
 2017,percentage,,male,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),2.6
 2020,percentage,,male,,very unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),2.7
-2012,percentage,16 to under 25 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),40.3
+2012,percentage,16 to under 25 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),41.4
 2017,percentage,16 to under 25 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),38.8
 2020,percentage,16 to under 25 years,,,very safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),32.5
-2012,percentage,16 to under 25 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),39.2
+2012,percentage,16 to under 25 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),37.9
 2017,percentage,16 to under 25 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),40.7
 2020,percentage,16 to under 25 years,,,safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),38.2
-2012,percentage,16 to under 25 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),15.1
+2012,percentage,16 to under 25 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),14.8
 2017,percentage,16 to under 25 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),15.0
 2020,percentage,16 to under 25 years,,,unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),20.9
-2012,percentage,16 to under 25 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),5.4
+2012,percentage,16 to under 25 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),5.9
 2017,percentage,16 to under 25 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),5.5
 2020,percentage,16 to under 25 years,,,very unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),8.3
-2012,percentage,25 to under 35 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),43.6
+2012,percentage,25 to under 35 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),44.0
 2017,percentage,25 to under 35 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),39.2
 2020,percentage,25 to under 35 years,,,very safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),32.3
-2012,percentage,25 to under 35 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),43.2
+2012,percentage,25 to under 35 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),43.4
 2017,percentage,25 to under 35 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),42.9
 2020,percentage,25 to under 35 years,,,safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),43.0
-2012,percentage,25 to under 35 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),9.4
+2012,percentage,25 to under 35 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),8.7
 2017,percentage,25 to under 35 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),12.9
 2020,percentage,25 to under 35 years,,,unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),19.2
-2012,percentage,25 to under 35 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),3.8
+2012,percentage,25 to under 35 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),3.9
 2017,percentage,25 to under 35 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),5.0
 2020,percentage,25 to under 35 years,,,very unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),5.4
-2012,percentage,35 to under 45 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),46.7
+2012,percentage,35 to under 45 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),47.2
 2017,percentage,35 to under 45 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),40.1
 2020,percentage,35 to under 45 years,,,very safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),31.3
-2012,percentage,35 to under 45 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),41.7
+2012,percentage,35 to under 45 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),41.4
 2017,percentage,35 to under 45 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),41.4
 2020,percentage,35 to under 45 years,,,safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),45.5
 2012,percentage,35 to under 45 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),8.6
 2017,percentage,35 to under 45 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),13.3
 2020,percentage,35 to under 45 years,,,unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),18.9
-2012,percentage,35 to under 45 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),3.1
+2012,percentage,35 to under 45 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),2.8
 2017,percentage,35 to under 45 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),5.2
 2020,percentage,35 to under 45 years,,,very unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),4.3
-2012,percentage,45 to under 55 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),45.6
+2012,percentage,45 to under 55 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),45.7
 2017,percentage,45 to under 55 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),39.9
 2020,percentage,45 to under 55 years,,,very safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),28.3
-2012,percentage,45 to under 55 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),43.1
+2012,percentage,45 to under 55 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),42.7
 2017,percentage,45 to under 55 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),42.6
 2020,percentage,45 to under 55 years,,,safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),46.9
-2012,percentage,45 to under 55 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),8.4
+2012,percentage,45 to under 55 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),8.7
 2017,percentage,45 to under 55 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),12.0
 2020,percentage,45 to under 55 years,,,unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),20.0
 2012,percentage,45 to under 55 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),2.9
 2017,percentage,45 to under 55 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),5.5
 2020,percentage,45 to under 55 years,,,very unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),4.8
-2012,percentage,55 to under 65 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),41.7
+2012,percentage,55 to under 65 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),43.1
 2017,percentage,55 to under 65 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),37.6
 2020,percentage,55 to under 65 years,,,very safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),24.1
-2012,percentage,55 to under 65 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),43.2
+2012,percentage,55 to under 65 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),42.1
 2017,percentage,55 to under 65 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),42.9
 2020,percentage,55 to under 65 years,,,safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),50.3
 2012,percentage,55 to under 65 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),11.1
 2017,percentage,55 to under 65 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),13.9
 2020,percentage,55 to under 65 years,,,unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),20.8
-2012,percentage,55 to under 65 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),4.1
+2012,percentage,55 to under 65 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),3.8
 2017,percentage,55 to under 65 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),5.6
 2020,percentage,55 to under 65 years,,,very unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),4.8
-2012,percentage,65 to under 75 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),35.1
+2012,percentage,65 to under 75 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),35.6
 2017,percentage,65 to under 75 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),32.8
 2020,percentage,65 to under 75 years,,,very safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),18.9
-2012,percentage,65 to under 75 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),42.3
+2012,percentage,65 to under 75 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),42.2
 2017,percentage,65 to under 75 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),41.4
 2020,percentage,65 to under 75 years,,,safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),49.4
-2012,percentage,65 to under 75 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),16.6
+2012,percentage,65 to under 75 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),16.3
 2017,percentage,65 to under 75 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),18.4
 2020,percentage,65 to under 75 years,,,unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),26.1
-2012,percentage,65 to under 75 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),6.1
+2012,percentage,65 to under 75 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),5.9
 2017,percentage,65 to under 75 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),7.3
 2020,percentage,65 to under 75 years,,,very unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),5.7
-2012,percentage,75 years and older,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),26.4
+2012,percentage,75 years and older,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),26.9
 2017,percentage,75 years and older,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),25.9
 2020,percentage,75 years and older,,,very safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),11.6
-2012,percentage,75 years and older,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),38.0
+2012,percentage,75 years and older,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),37.4
 2017,percentage,75 years and older,,,safe,,,,feeling of (in)security of the population in its neighbourhood (after dark),40.3
 2020,percentage,75 years and older,,,safe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),48.4
-2012,percentage,75 years and older,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),24.5
+2012,percentage,75 years and older,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),24.8
 2017,percentage,75 years and older,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),23.1
 2020,percentage,75 years and older,,,unsafe,|,,,feeling of (in)security of the population in its neighbourhood (after dark),31.8
-2012,percentage,75 years and older,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),11.1
+2012,percentage,75 years and older,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),10.9
 2017,percentage,75 years and older,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),10.7
 2020,percentage,75 years and older,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (after dark),8.2
-2019,percentage,,,,very safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),63.2
-2021,percentage,,,,very safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,,,,safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,,,,safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),34.1
-2021,percentage,,,,safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,,,,unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),2.4
-2021,percentage,,,,unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,,,,very unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),0.3
-2021,percentage,,,,very unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,,female,,very safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,,female,,very safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),60.9
-2021,percentage,,female,,very safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,,female,,safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,,female,,safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),36.3
-2021,percentage,,female,,safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,,female,,unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,,female,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),2.6
-2021,percentage,,female,,unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,,female,,very unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,,female,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),0.3
-2021,percentage,,female,,very unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,,male,,very safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,,male,,very safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),66.4
-2021,percentage,,male,,very safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,,male,,safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,,male,,safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),31.3
-2021,percentage,,male,,safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,,male,,unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,,male,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),2.1
-2021,percentage,,male,,unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,,male,,very unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,,male,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),0.2
-2021,percentage,,male,,very unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,16 to under 25 years,,,very safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,16 to under 25 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),75.5
-2021,percentage,16 to under 25 years,,,very safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,16 to under 25 years,,,safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,16 to under 25 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),22.2
-2021,percentage,16 to under 25 years,,,safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,16 to under 25 years,,,unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,16 to under 25 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),1.7
-2021,percentage,16 to under 25 years,,,unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,16 to under 25 years,,,very unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,16 to under 25 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),0.6
-2021,percentage,16 to under 25 years,,,very unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,25 to under 35 years,,,very safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,25 to under 35 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),71
-2021,percentage,25 to under 35 years,,,very safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,25 to under 35 years,,,safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,25 to under 35 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),25.4
-2021,percentage,25 to under 35 years,,,safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,25 to under 35 years,,,unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,25 to under 35 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),3.4
-2021,percentage,25 to under 35 years,,,unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,25 to under 35 years,,,very unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,25 to under 35 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),0.2
-2021,percentage,25 to under 35 years,,,very unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,35 to under 45 years,,,very safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,35 to under 45 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),70.7
-2021,percentage,35 to under 45 years,,,very safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,35 to under 45 years,,,safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,35 to under 45 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),27.6
-2021,percentage,35 to under 45 years,,,safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,35 to under 45 years,,,unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,35 to under 45 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),1.6
-2021,percentage,35 to under 45 years,,,unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,35 to under 45 years,,,very unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,35 to under 45 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),0.1
-2021,percentage,35 to under 45 years,,,very unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,45 to under 55 years,,,very safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,45 to under 55 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),67.2
-2021,percentage,45 to under 55 years,,,very safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,45 to under 55 years,,,safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,45 to under 55 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),30.6
-2021,percentage,45 to under 55 years,,,safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,45 to under 55 years,,,unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,45 to under 55 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),2
-2021,percentage,45 to under 55 years,,,unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,45 to under 55 years,,,very unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,45 to under 55 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),0.1
-2021,percentage,45 to under 55 years,,,very unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,55 to under 65 years,,,very safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,55 to under 65 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),61
-2021,percentage,55 to under 65 years,,,very safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,55 to under 65 years,,,safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,55 to under 65 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),36.4
-2021,percentage,55 to under 65 years,,,safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,55 to under 65 years,,,unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,55 to under 65 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),2.3
-2021,percentage,55 to under 65 years,,,unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,55 to under 65 years,,,very unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,55 to under 65 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),0.3
-2021,percentage,55 to under 65 years,,,very unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,65 to under 75 years,,,very safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,65 to under 75 years,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),54.9
-2021,percentage,65 to under 75 years,,,very safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,65 to under 75 years,,,safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,65 to under 75 years,,,safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),43.4
-2021,percentage,65 to under 75 years,,,safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,65 to under 75 years,,,unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,65 to under 75 years,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),1.5
-2021,percentage,65 to under 75 years,,,unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,65 to under 75 years,,,very unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,65 to under 75 years,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),0.2
-2021,percentage,65 to under 75 years,,,very unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,75 years and older,,,very safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,75 years and older,,,very safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),44.6
-2021,percentage,75 years and older,,,very safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,75 years and older,,,safe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,75 years and older,,,safe,,,,feeling of (in)security of the population in its neighbourhood (during the day),51.5
-2021,percentage,75 years and older,,,safe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,75 years and older,,,unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,75 years and older,,,unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),3.6
-2021,percentage,75 years and older,,,unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2019,percentage,75 years and older,,,very unsafe,.,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2020,percentage,75 years and older,,,very unsafe,,,,feeling of (in)security of the population in its neighbourhood (during the day),0.3
-2021,percentage,75 years and older,,,very unsafe,…,,,feeling of (in)security of the population in its neighbourhood (during the day),
-2010,percentage,,,,,,,,"population not living in an area with crime, violence or vandalism",88.0
-2011,percentage,,,,,,,,"population not living in an area with crime, violence or vandalism",87.1
-2012,percentage,,,,,,,,"population not living in an area with crime, violence or vandalism",87.5
-2013,percentage,,,,,,,,"population not living in an area with crime, violence or vandalism",86.5
-2014,percentage,,,,,,,,"population not living in an area with crime, violence or vandalism",86.9
-2015,percentage,,,,,,,,"population not living in an area with crime, violence or vandalism",86.2
-2016,percentage,,,,,,,,"population not living in an area with crime, violence or vandalism",85.9
-2017,percentage,,,,,,,,"population not living in an area with crime, violence or vandalism",85.8
-2018,percentage,,,,,,,,"population not living in an area with crime, violence or vandalism",86.7
-2019,percentage,,,,,,,,"population not living in an area with crime, violence or vandalism",86.9
-2020,percentage,,,,,|,,,"population not living in an area with crime, violence or vandalism",91.8
-2021,percentage,,,,,.,,,"population not living in an area with crime, violence or vandalism",
-2022,percentage,,,,,.,,,"population not living in an area with crime, violence or vandalism",
-2023,percentage,,,,,,,,"population not living in an area with crime, violence or vandalism",89.3
