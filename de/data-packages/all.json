@@ -4127,7 +4127,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NEET-Rate von Jugendlichen (15 bis unter 25 Jahre)",
+                "NEET-Rate von Jugendlichen",
                 "Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",
                 ""
               ]

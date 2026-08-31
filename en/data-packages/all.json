@@ -4127,7 +4127,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NEET rates from young people (15 to under 25 years)",
+                "NEET rates from young people",
                 "Potential years of life lost (PYLL), all causes",
                 ""
               ]

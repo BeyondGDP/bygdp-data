@@ -1,52 +1,52 @@
 Year,Series,Units,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,NEET rates from young people (15 to under 25 years),,,,|,,,8.3
-2011,NEET rates from young people (15 to under 25 years),,,,|,,,7.5
-2012,NEET rates from young people (15 to under 25 years),,,,|,,,7.1
-2013,NEET rates from young people (15 to under 25 years),,,,,,,6.3
-2014,NEET rates from young people (15 to under 25 years),,,,,,,6.4
-2015,NEET rates from young people (15 to under 25 years),,,,,,,6.2
-2016,NEET rates from young people (15 to under 25 years),,,,,,,6.7
-2017,NEET rates from young people (15 to under 25 years),,,,,,,6.3
-2018,NEET rates from young people (15 to under 25 years),,,,,,,5.9
-2019,NEET rates from young people (15 to under 25 years),,,,,,,5.7
-2020,NEET rates from young people (15 to under 25 years),,,,|,,,7.4
-2021,NEET rates from young people (15 to under 25 years),,,,|,,,7.7
-2022,NEET rates from young people (15 to under 25 years),,,,,,,6.9
-2023,NEET rates from young people (15 to under 25 years),,,,,,,7.5
-2024,NEET rates from young people (15 to under 25 years),,,,|,r,,7.7
-2025,NEET rates from young people (15 to under 25 years),,,,,,,8.2
-2010,NEET rates from young people (15 to under 25 years),,,Female,|,,,9.0
-2011,NEET rates from young people (15 to under 25 years),,,Female,|,,,8.3
-2012,NEET rates from young people (15 to under 25 years),,,Female,|,,,7.9
-2013,NEET rates from young people (15 to under 25 years),,,Female,,,,7.0
-2014,NEET rates from young people (15 to under 25 years),,,Female,,,,7.2
-2015,NEET rates from young people (15 to under 25 years),,,Female,,,,7.0
-2016,NEET rates from young people (15 to under 25 years),,,Female,,,,7.4
-2017,NEET rates from young people (15 to under 25 years),,,Female,,,,6.7
-2018,NEET rates from young people (15 to under 25 years),,,Female,,,,6.5
-2019,NEET rates from young people (15 to under 25 years),,,Female,,,,6.2
-2020,NEET rates from young people (15 to under 25 years),,,Female,|,,,7.6
-2021,NEET rates from young people (15 to under 25 years),,,Female,|,,,7.8
-2022,NEET rates from young people (15 to under 25 years),,,Female,,,,7.4
-2023,NEET rates from young people (15 to under 25 years),,,Female,,,,7.8
-2024,NEET rates from young people (15 to under 25 years),,,Female,|,,,7.9
-2025,NEET rates from young people (15 to under 25 years),,,Female,,,,8.4
-2010,NEET rates from young people (15 to under 25 years),,,Male,|,,,7.6
-2011,NEET rates from young people (15 to under 25 years),,,Male,|,,,6.7
-2012,NEET rates from young people (15 to under 25 years),,,Male,|,,,6.3
-2013,NEET rates from young people (15 to under 25 years),,,Male,,,,5.6
-2014,NEET rates from young people (15 to under 25 years),,,Male,,,,5.5
-2015,NEET rates from young people (15 to under 25 years),,,Male,,,,5.4
-2016,NEET rates from young people (15 to under 25 years),,,Male,,,,6.1
-2017,NEET rates from young people (15 to under 25 years),,,Male,,,,5.8
-2018,NEET rates from young people (15 to under 25 years),,,Male,,,,5.4
-2019,NEET rates from young people (15 to under 25 years),,,Male,,,,5.2
-2020,NEET rates from young people (15 to under 25 years),,,Male,|,,,7.2
-2021,NEET rates from young people (15 to under 25 years),,,Male,|,,,7.6
-2022,NEET rates from young people (15 to under 25 years),,,Male,,,,6.4
-2023,NEET rates from young people (15 to under 25 years),,,Male,,,,7.2
-2024,NEET rates from young people (15 to under 25 years),,,Male,|,,,7.6
-2025,NEET rates from young people (15 to under 25 years),,,Male,,,,8.0
+2010,NEET rates from young people,,,,|,,,8.3
+2011,NEET rates from young people,,,,|,,,7.5
+2012,NEET rates from young people,,,,|,,,7.1
+2013,NEET rates from young people,,,,,,,6.3
+2014,NEET rates from young people,,,,,,,6.4
+2015,NEET rates from young people,,,,,,,6.2
+2016,NEET rates from young people,,,,,,,6.7
+2017,NEET rates from young people,,,,,,,6.3
+2018,NEET rates from young people,,,,,,,5.9
+2019,NEET rates from young people,,,,,,,5.7
+2020,NEET rates from young people,,,,|,,,7.4
+2021,NEET rates from young people,,,,|,,,7.7
+2022,NEET rates from young people,,,,,,,6.9
+2023,NEET rates from young people,,,,,,,7.5
+2024,NEET rates from young people,,,,|,r,,7.7
+2025,NEET rates from young people,,,,,,,8.2
+2010,NEET rates from young people,,,Female,|,,,9.0
+2011,NEET rates from young people,,,Female,|,,,8.3
+2012,NEET rates from young people,,,Female,|,,,7.9
+2013,NEET rates from young people,,,Female,,,,7.0
+2014,NEET rates from young people,,,Female,,,,7.2
+2015,NEET rates from young people,,,Female,,,,7.0
+2016,NEET rates from young people,,,Female,,,,7.4
+2017,NEET rates from young people,,,Female,,,,6.7
+2018,NEET rates from young people,,,Female,,,,6.5
+2019,NEET rates from young people,,,Female,,,,6.2
+2020,NEET rates from young people,,,Female,|,,,7.6
+2021,NEET rates from young people,,,Female,|,,,7.8
+2022,NEET rates from young people,,,Female,,,,7.4
+2023,NEET rates from young people,,,Female,,,,7.8
+2024,NEET rates from young people,,,Female,|,,,7.9
+2025,NEET rates from young people,,,Female,,,,8.4
+2010,NEET rates from young people,,,Male,|,,,7.6
+2011,NEET rates from young people,,,Male,|,,,6.7
+2012,NEET rates from young people,,,Male,|,,,6.3
+2013,NEET rates from young people,,,Male,,,,5.6
+2014,NEET rates from young people,,,Male,,,,5.5
+2015,NEET rates from young people,,,Male,,,,5.4
+2016,NEET rates from young people,,,Male,,,,6.1
+2017,NEET rates from young people,,,Male,,,,5.8
+2018,NEET rates from young people,,,Male,,,,5.4
+2019,NEET rates from young people,,,Male,,,,5.2
+2020,NEET rates from young people,,,Male,|,,,7.2
+2021,NEET rates from young people,,,Male,|,,,7.6
+2022,NEET rates from young people,,,Male,,,,6.4
+2023,NEET rates from young people,,,Male,,,,7.2
+2024,NEET rates from young people,,,Male,|,,,7.6
+2025,NEET rates from young people,,,Male,,,,8.0
 2010,"Potential years of life lost (PYLL), all causes",Number,65 years and younger,,,,,1748471.0
 2011,"Potential years of life lost (PYLL), all causes",Number,65 years and younger,,,,,1717187.0
 2012,"Potential years of life lost (PYLL), all causes",Number,65 years and younger,,,,,1649642.0

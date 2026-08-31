@@ -1,52 +1,52 @@
 Year,Series,Units,Altersklasse,Geschlecht,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,|,,,8.3
-2011,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,|,,,7.5
-2012,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,|,,,7.1
-2013,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,,,,6.3
-2014,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,,,,6.4
-2015,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,,,,6.2
-2016,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,,,,6.7
-2017,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,,,,6.3
-2018,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,,,,5.9
-2019,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,,,,5.7
-2020,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,|,,,7.4
-2021,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,|,,,7.7
-2022,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,,,,6.9
-2023,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,,,,7.5
-2024,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,|,r,,7.7
-2025,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,,,,,8.2
-2010,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,|,,,9.0
-2011,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,|,,,8.3
-2012,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,|,,,7.9
-2013,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,7.0
-2014,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,7.2
-2015,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,7.0
-2016,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,7.4
-2017,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,6.7
-2018,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,6.5
-2019,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,6.2
-2020,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,|,,,7.6
-2021,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,|,,,7.8
-2022,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,7.4
-2023,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,7.8
-2024,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,|,,,7.9
-2025,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Weiblich,,,,8.4
-2010,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,|,,,7.6
-2011,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,|,,,6.7
-2012,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,|,,,6.3
-2013,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,5.6
-2014,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,5.5
-2015,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,5.4
-2016,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,6.1
-2017,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,5.8
-2018,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,5.4
-2019,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,5.2
-2020,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,|,,,7.2
-2021,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,|,,,7.6
-2022,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,6.4
-2023,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,7.2
-2024,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,|,,,7.6
-2025,NEET-Rate von Jugendlichen (15 bis unter 25 Jahre),,,Männlich,,,,8.0
+2010,NEET-Rate von Jugendlichen,,,,|,,,8.3
+2011,NEET-Rate von Jugendlichen,,,,|,,,7.5
+2012,NEET-Rate von Jugendlichen,,,,|,,,7.1
+2013,NEET-Rate von Jugendlichen,,,,,,,6.3
+2014,NEET-Rate von Jugendlichen,,,,,,,6.4
+2015,NEET-Rate von Jugendlichen,,,,,,,6.2
+2016,NEET-Rate von Jugendlichen,,,,,,,6.7
+2017,NEET-Rate von Jugendlichen,,,,,,,6.3
+2018,NEET-Rate von Jugendlichen,,,,,,,5.9
+2019,NEET-Rate von Jugendlichen,,,,,,,5.7
+2020,NEET-Rate von Jugendlichen,,,,|,,,7.4
+2021,NEET-Rate von Jugendlichen,,,,|,,,7.7
+2022,NEET-Rate von Jugendlichen,,,,,,,6.9
+2023,NEET-Rate von Jugendlichen,,,,,,,7.5
+2024,NEET-Rate von Jugendlichen,,,,|,r,,7.7
+2025,NEET-Rate von Jugendlichen,,,,,,,8.2
+2010,NEET-Rate von Jugendlichen,,,Weiblich,|,,,9.0
+2011,NEET-Rate von Jugendlichen,,,Weiblich,|,,,8.3
+2012,NEET-Rate von Jugendlichen,,,Weiblich,|,,,7.9
+2013,NEET-Rate von Jugendlichen,,,Weiblich,,,,7.0
+2014,NEET-Rate von Jugendlichen,,,Weiblich,,,,7.2
+2015,NEET-Rate von Jugendlichen,,,Weiblich,,,,7.0
+2016,NEET-Rate von Jugendlichen,,,Weiblich,,,,7.4
+2017,NEET-Rate von Jugendlichen,,,Weiblich,,,,6.7
+2018,NEET-Rate von Jugendlichen,,,Weiblich,,,,6.5
+2019,NEET-Rate von Jugendlichen,,,Weiblich,,,,6.2
+2020,NEET-Rate von Jugendlichen,,,Weiblich,|,,,7.6
+2021,NEET-Rate von Jugendlichen,,,Weiblich,|,,,7.8
+2022,NEET-Rate von Jugendlichen,,,Weiblich,,,,7.4
+2023,NEET-Rate von Jugendlichen,,,Weiblich,,,,7.8
+2024,NEET-Rate von Jugendlichen,,,Weiblich,|,,,7.9
+2025,NEET-Rate von Jugendlichen,,,Weiblich,,,,8.4
+2010,NEET-Rate von Jugendlichen,,,Männlich,|,,,7.6
+2011,NEET-Rate von Jugendlichen,,,Männlich,|,,,6.7
+2012,NEET-Rate von Jugendlichen,,,Männlich,|,,,6.3
+2013,NEET-Rate von Jugendlichen,,,Männlich,,,,5.6
+2014,NEET-Rate von Jugendlichen,,,Männlich,,,,5.5
+2015,NEET-Rate von Jugendlichen,,,Männlich,,,,5.4
+2016,NEET-Rate von Jugendlichen,,,Männlich,,,,6.1
+2017,NEET-Rate von Jugendlichen,,,Männlich,,,,5.8
+2018,NEET-Rate von Jugendlichen,,,Männlich,,,,5.4
+2019,NEET-Rate von Jugendlichen,,,Männlich,,,,5.2
+2020,NEET-Rate von Jugendlichen,,,Männlich,|,,,7.2
+2021,NEET-Rate von Jugendlichen,,,Männlich,|,,,7.6
+2022,NEET-Rate von Jugendlichen,,,Männlich,,,,6.4
+2023,NEET-Rate von Jugendlichen,,,Männlich,,,,7.2
+2024,NEET-Rate von Jugendlichen,,,Männlich,|,,,7.6
+2025,NEET-Rate von Jugendlichen,,,Männlich,,,,8.0
 2010,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1748471.0
 2011,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1717187.0
 2012,"Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen",Anzahl,65 Jahre und jünger,,,,,1649642.0
