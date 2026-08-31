@@ -74,72 +74,19 @@ prose:
             label: "SDG Indicator"
             translation_key: metadata_fields.sdg_indicator
             scope: national
-      - name: "area_11"
+    - name: "area"
+      field:
+          element: text
+          label: "Area"
+          translation_key: metadata_fields.area
+          scope: national
+      - name: "area_description"
         field:
             element: text
             label: "Area description"
-            translation_key: global_targets.1-1-title
+            translation_key: metadata_fields.area_description
             scope: national
-      - name: "area_12"
-        field:
-            element: text
-            label: "Area description"
-            translation_key: global_targets.1-2-title
-            scope: national
-      - name: "area_13"
-        field:
-            element: text
-            label: "Area description"
-            translation_key: global_targets.1-3-title
-            scope: national
-      - name: "area_21"
-        field:
-            element: text
-            label: "Area description"
-            translation_key: global_targets.2-1-title
-            scope: national
-      - name: "area_22"
-        field:
-            element: text
-            label: "Area description"
-            translation_key: global_targets.2-2-title
-            scope: national
-      - name: "area_23"
-        field:
-            element: text
-            label: "Area description"
-            translation_key: global_targets.2-3-title
-            scope: national
-      - name: "area_24"
-        field:
-            element: text
-            label: "Area description"
-            translation_key: global_targets.2-4-title
-            scope: national
-      - name: "area_25"
-        field:
-            element: text
-            label: "Area description"
-            translation_key: global_targets.2-5-title
-            scope: national
-      - name: "area_26"
-        field:
-            element: text
-            label: "Area description"
-            translation_key: global_targets.2-6-title
-            scope: national
-      - name: "area_27"
-        field:
-            element: text
-            label: "Area description"
-            translation_key: global_targets.2-7-title
-            scope: national
-      - name: "area_28"
-        field:
-            element: text
-            label: "Area description"
-            translation_key: global_targets.2-8-title
-            scope: national
+
 
       - name: "data_last_update"
         field:
