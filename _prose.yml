@@ -42,7 +42,7 @@ prose:
             translation_key: metadata_fields.indicator_name
             scope: national
 
-            
+
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
@@ -61,6 +61,18 @@ prose:
             element: text
             label: "Indicator description"
             translation_key: metadata_fields.national_indicator_description
+            scope: national
+      - name: "info"
+        field:
+            element: text
+            label: "Additional information"
+            translation_key: metadata_fields.information
+            scope: national
+      - name: "sdg_indicator"
+        field:
+            element: text
+            label: "SDG Indicator"
+            translation_key: metadata_fields.sdg_indicator
             scope: national
       - name: "area_11"
         field:
