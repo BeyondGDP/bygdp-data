@@ -74,12 +74,14 @@ prose:
             label: "SDG Indicator"
             translation_key: metadata_fields.sdg_indicator
             scope: national
-    - name: "area"
-      field:
-          element: text
-          label: "Area"
-          translation_key: metadata_fields.area
-          scope: national
+
+      - name: "area"
+        field:
+            element: text
+            label: "Area"
+            translation_key: metadata_fields.area
+            scope: national
+
       - name: "area_description"
         field:
             element: text
