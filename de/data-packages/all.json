@@ -3276,7 +3276,6 @@
                 ".",
                 "0",
                 "r",
-                "…",
                 ""
               ]
             },
@@ -3309,8 +3308,6 @@
               "enum": [
                 "Opfer von vorsätzlicher Tötung",
                 "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (nach Einbruch der Dunkelheit)",
-                "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber)",
-                "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
                 ""
               ]
             },

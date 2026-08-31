@@ -99,7 +99,6 @@
                 ".",
                 "0",
                 "r",
-                "…",
                 ""
               ]
             },
@@ -132,8 +131,6 @@
               "enum": [
                 "Victims of intentional homicide",
                 "Feeling of (in)security of the population in its neighbourhood (after dark)",
-                "Feeling of (in)security of the population in its neighbourhood (during the day)",
-                "Population not living in an area with crime, violence or vandalism",
                 ""
               ]
             },
