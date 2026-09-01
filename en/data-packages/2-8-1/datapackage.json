@@ -74,7 +74,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population weighted annual mean levels of fine particulate matter",
+                "Level of fine particulate matter",
                 "Population with excessive exposure to fine particulate matter",
                 ""
               ]

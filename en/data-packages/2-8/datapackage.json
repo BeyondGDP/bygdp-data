@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Micrograms per m³",
-                "Million inhabitants",
                 "Percentage",
                 ""
               ]
@@ -76,9 +75,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population weighted annual mean levels of fine particulate matter",
-                "Population with excessive exposure to fine particulate matter",
-                "Population connected to the public water supply system",
+                "Level of fine particulate matter",
+                "Population with safely managed drinking water services",
                 ""
               ]
             },
