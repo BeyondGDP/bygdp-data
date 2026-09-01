@@ -33,7 +33,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total greenhouse gas emissions",
+                "Greenhouse gas emissions",
                 "Biodiversity index",
                 ""
               ]

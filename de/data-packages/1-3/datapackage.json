@@ -33,7 +33,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Treibhausgasemissionen insgesamt",
+                "Treibhausgasemissionen",
                 "Index der Artenvielfalt",
                 ""
               ]

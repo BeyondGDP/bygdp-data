@@ -977,8 +977,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, die sich in die letzten zwei Jahren im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat",
-                "Weibliche Opfer von sexueller Gewalt durch Intimpartner/-innen",
+                "Bevölkerung, die sich im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat",
+                "Frauen und Mädchen, die sexuelle Gewalt durch einen Intimpartner erfahren haben",
                 ""
               ]
             },
@@ -1036,7 +1036,7 @@
           }
         ]
       },
-      "title": "<ul style='padding-left: 25px;'><li>Anteil der Bevölkerung, der angibt, in den vergangenen 12 Monaten persönlich Diskriminierung oder Belästigung erfahren zu haben</li> <li>Anteil der Frauen und Mädchen, die in den vergangenen 12 Monaten körperliche und/oder sexuelle Gewalt durch einen aktuellen oder früheren Intimpartner erfahren haben</li></ul>"
+      "title": "<ul style='padding-left: 25px;'><li>Anteil der Bevölkerung, der angibt, in den vergangenen 12 Monaten persönlich Diskriminierung oder Belästigung erfahren zu haben</li> <li>Anteil der Frauen und Mädchen, der in den vergangenen 12 Monaten körperliche und/oder sexuelle Gewalt durch einen aktuellen oder früheren Intimpartner erfahren hat</li></ul>"
     },
     {
       "path": "3-5/data.csv",
@@ -4319,7 +4319,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Treibhausgasemissionen insgesamt",
+                "Treibhausgasemissionen",
                 "Index der Artenvielfalt",
                 ""
               ]
