@@ -56,6 +56,12 @@ prose:
             label: "Indicator available"
             translation_key: metadata_fields.national_indicators_available
             scope: national
+      - name: "differences"
+        field:
+            element: text
+            label: "Differences"
+            translation_key: metadata_fields.differences
+            scope: national
       - name: "national_indicator_description"
         field:
             element: text
@@ -82,12 +88,7 @@ prose:
             translation_key: metadata_fields.area_description
             scope: national
 
-      - name: "differences"
-        field:
-            element: text
-            label: "Differences"
-            translation_key: metadata_fields.differences
-            scope: national
+
       - name: "info"
         field:
             element: text
