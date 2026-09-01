@@ -2467,8 +2467,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verfügbares Haushaltseinkommen pro Kopf",
-                "Quote der Unterauslastung der Arbeitskräfte",
+                "Verfügbares Haushaltseinkommen",
+                "Quote der Unterauslastung von Arbeitskräften",
                 "Zeitaufwand für unbezahlte Haus- und Pflegearbeit",
                 ""
               ]
@@ -4320,7 +4320,7 @@
             "constraints": {
               "enum": [
                 "Treibhausgasemissionen",
-                "Index der Artenvielfalt",
+                "Index der biologischen Vielfalt",
                 ""
               ]
             },

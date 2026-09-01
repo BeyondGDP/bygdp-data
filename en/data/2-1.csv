@@ -1,20 +1,20 @@
 Year,Units,Series,Type of unpaid work,Degree of urbanisation,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,EUR per capita,Household disposable income per capita,,,,,,,,19663.084
-2011,EUR per capita,Household disposable income per capita,,,,,,,,20281.719
-2012,EUR per capita,Household disposable income per capita,,,,,,,,20682.553
-2013,EUR per capita,Household disposable income per capita,,,,,,,,20911.783
-2014,EUR per capita,Household disposable income per capita,,,,,,,,21420.157
-2015,EUR per capita,Household disposable income per capita,,,,,,,,21912.423
-2016,EUR per capita,Household disposable income per capita,,,,,,,,22423.394
-2017,EUR per capita,Household disposable income per capita,,,,,,,,23161.108
-2018,EUR per capita,Household disposable income per capita,,,,,,,,24058.887
-2019,EUR per capita,Household disposable income per capita,,,,,,,,24634.551
-2020,EUR per capita,Household disposable income per capita,,,,,,,,24685.581
-2021,EUR per capita,Household disposable income per capita,,,,,,,,25465.406
-2022,EUR per capita,Household disposable income per capita,,,,,,,p,27557.077
-2023,EUR per capita,Household disposable income per capita,,,,,,,p,28999.712
-2024,EUR per capita,Household disposable income per capita,,,,,,,p,30068.633
-2025,EUR per capita,Household disposable income per capita,,,,,,,p,30938.572
+2010,EUR per capita,Household disposable income,,,,,,,,19663.084
+2011,EUR per capita,Household disposable income,,,,,,,,20281.719
+2012,EUR per capita,Household disposable income,,,,,,,,20682.553
+2013,EUR per capita,Household disposable income,,,,,,,,20911.783
+2014,EUR per capita,Household disposable income,,,,,,,,21420.157
+2015,EUR per capita,Household disposable income,,,,,,,,21912.423
+2016,EUR per capita,Household disposable income,,,,,,,,22423.394
+2017,EUR per capita,Household disposable income,,,,,,,,23161.108
+2018,EUR per capita,Household disposable income,,,,,,,,24058.887
+2019,EUR per capita,Household disposable income,,,,,,,,24634.551
+2020,EUR per capita,Household disposable income,,,,,,,,24685.581
+2021,EUR per capita,Household disposable income,,,,,,,,25465.406
+2022,EUR per capita,Household disposable income,,,,,,,p,27557.077
+2023,EUR per capita,Household disposable income,,,,,,,p,28999.712
+2024,EUR per capita,Household disposable income,,,,,,,p,30068.633
+2025,EUR per capita,Household disposable income,,,,,,,p,30938.572
 2010,Percentage,Composite rate of labour underutilization,,,15 to under 75 years,,|,,,12.2
 2011,Percentage,Composite rate of labour underutilization,,,15 to under 75 years,,|,,,10.7
 2012,Percentage,Composite rate of labour underutilization,,,15 to under 75 years,,,,,10.0
