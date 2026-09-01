@@ -129,8 +129,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Victims of intentional homicide",
-                "Feeling of (in)security of the population in its neighbourhood (after dark)",
+                "Intentional homicides",
+                "Population that feel safe walking alone around the area they live after dark",
                 ""
               ]
             },

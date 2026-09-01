@@ -97,7 +97,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Feeling of (in)security of the population in its neighbourhood (after dark)",
+                "Population that feel safe walking alone around the area they live after dark",
                 "Feeling of (in)security of the population in its neighbourhood (during the day)",
                 "Population not living in an area with crime, violence or vandalism",
                 ""
