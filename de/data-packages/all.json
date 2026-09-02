@@ -2448,8 +2448,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15 bis unter 75 Jahre",
-                "20 bis unter 65 Jahre",
                 "15 Jahre und älter",
                 "15 bis unter 25 Jahre",
                 "25 bis unter 45 Jahre",
@@ -2475,10 +2473,9 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "|",
                 ""
               ]
             },
