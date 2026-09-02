@@ -47,8 +47,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Alte Bundesländer",
-                "Neue Bundesländer",
+                "Früheres Bundesgebie",
+                "Neue Länder mit Berlin",
                 ""
               ]
             },

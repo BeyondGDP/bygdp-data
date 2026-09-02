@@ -1188,7 +1188,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der Bevölkerung, der sich nach Einbruch der Dunkelheit in seiner Wohnumgebung allein sicher fühlt",
+                "Bevölkerung, die sich nach Einbruch der Dunkelheit in ihrer Wohnumgebung allein sicher fühlt",
                 "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber)",
                 "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
                 ""
@@ -2716,8 +2716,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Alte Bundesländer",
-                "Neue Bundesländer",
+                "Früheres Bundesgebie",
+                "Neue Länder mit Berlin",
                 ""
               ]
             },
@@ -3248,7 +3248,7 @@
             "constraints": {
               "enum": [
                 "Vorsätzliche Tötungsdelikte",
-                "Anteil der Bevölkerung, der sich nach Einbruch der Dunkelheit in seiner Wohnumgebung allein sicher fühlt",
+                "Bevölkerung, die sich nach Einbruch der Dunkelheit in ihrer Wohnumgebung allein sicher fühlt",
                 ""
               ]
             },

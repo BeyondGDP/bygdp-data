@@ -130,7 +130,7 @@
             "constraints": {
               "enum": [
                 "Vorsätzliche Tötungsdelikte",
-                "Anteil der Bevölkerung, der sich nach Einbruch der Dunkelheit in seiner Wohnumgebung allein sicher fühlt",
+                "Bevölkerung, die sich nach Einbruch der Dunkelheit in ihrer Wohnumgebung allein sicher fühlt",
                 ""
               ]
             },

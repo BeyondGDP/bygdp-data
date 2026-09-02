@@ -97,7 +97,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der Bevölkerung, der sich nach Einbruch der Dunkelheit in seiner Wohnumgebung allein sicher fühlt",
+                "Bevölkerung, die sich nach Einbruch der Dunkelheit in ihrer Wohnumgebung allein sicher fühlt",
                 "(Un)Sicherheitsgefühl der Bevölkerung in ihrer Wohnumgebung (tagsüber)",
                 "Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt",
                 ""

@@ -164,7 +164,7 @@
             "constraints": {
               "enum": [
                 "Children and youths with a minimum proficiency in reading or mathematics",
-                "Proportion of youth and adults with ICT skills",
+                "Youth and adults with ICT skills",
                 ""
               ]
             },
@@ -2676,7 +2676,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -2716,8 +2716,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Old länder",
-                "New länder",
+                "Former federal territory",
+                "New länder and Berlin",
                 ""
               ]
             },

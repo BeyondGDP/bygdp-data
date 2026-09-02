@@ -8,12 +8,12 @@ Year,Geschlecht,Altersklasse,Region,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Va
 2013,Männlich,,,,,,1.43
 2017,Männlich,,,,,,1.58
 2021,Männlich,,,,,,1.89
-2013,,,Alte Bundesländer,,,,1.74
-2017,,,Alte Bundesländer,,,,1.91
-2021,,,Alte Bundesländer,,,,2.17
-2013,,,Neue Bundesländer,,,,2.35
-2017,,,Neue Bundesländer,,,,2.39
-2021,,,Neue Bundesländer,,,,3.01
+2013,,,Früheres Bundesgebie,,,,1.74
+2017,,,Früheres Bundesgebie,,,,1.91
+2021,,,Früheres Bundesgebie,,,,2.17
+2013,,,Neue Länder mit Berlin,,,,2.35
+2017,,,Neue Länder mit Berlin,,,,2.39
+2021,,,Neue Länder mit Berlin,,,,3.01
 2013,,18 bis unter 31 Jahre,,,,,1.62
 2017,,18 bis unter 31 Jahre,,,,,1.89
 2021,,18 bis unter 31 Jahre,,,,,2.93
