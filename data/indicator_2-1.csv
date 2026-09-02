@@ -15,102 +15,39 @@ Year,Units,Series,type of unpaid work,degree of urbanisation,age group,sex,COMME
 2023,eur per capita,household disposable income per capita,,,,,,,p,28999.712
 2024,eur per capita,household disposable income per capita,,,,,,,p,30068.633
 2025,eur per capita,household disposable income per capita,,,,,,,p,30938.572
-2010,percentage,composite rate of labour underutilization,,,15 to under 75 years,,|,,,12.2
-2011,percentage,composite rate of labour underutilization,,,15 to under 75 years,,|,,,10.7
-2012,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,10
-2013,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,9.8
-2014,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,9.2
-2015,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,8.8
-2016,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,8.2
-2017,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,7.6
-2018,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,6.9
-2019,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,6.4
-2020,percentage,composite rate of labour underutilization,,,15 to under 75 years,,|,,,8.5
-2021,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,7.9
-2022,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,7
-2023,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,6.9
-2024,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,7.3
-2025,percentage,composite rate of labour underutilization,,,15 to under 75 years,,,,,7.9
-2010,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,|,,,14.1
-2011,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,|,,,12.5
-2012,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,11.7
-2013,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,11.3
-2014,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,10.5
-2015,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,9.9
-2016,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,9.1
-2017,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,8.4
-2018,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,7.4
-2019,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,6.9
-2020,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,|,,,9.1
-2021,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,8.4
-2022,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,7.5
-2023,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,7.3
-2024,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,7.6
-2025,percentage,composite rate of labour underutilization,,,15 to under 75 years,female,,,,8.2
-2010,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,|,,,10.5
-2011,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,|,,,9.2
-2012,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,8.5
-2013,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,8.4
-2014,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,8.1
-2015,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,7.9
-2016,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,7.3
-2017,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,7
-2018,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,6.4
-2019,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,6
-2020,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,|,,,7.9
-2021,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,7.5
-2022,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,6.6
-2023,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,6.5
-2024,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,7
-2025,percentage,composite rate of labour underutilization,,,15 to under 75 years,male,,,,7.6
-2010,percentage,composite rate of labour underutilization,,,20 to under 65 years,,|,,,12.2
-2011,percentage,composite rate of labour underutilization,,,20 to under 65 years,,|,,,10.7
-2012,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,9.9
-2013,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,9.8
-2014,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,9.3
-2015,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,8.8
-2016,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,8.1
-2017,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,7.6
-2018,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,6.9
-2019,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,6.4
-2020,percentage,composite rate of labour underutilization,,,20 to under 65 years,,|,,,8.1
-2021,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,7.5
-2022,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,6.5
-2023,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,6.5
-2024,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,6.8
-2025,percentage,composite rate of labour underutilization,,,20 to under 65 years,,,,,7.4
-2010,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,|,,,14.1
-2011,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,|,,,12.4
-2012,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,11.6
-2013,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,11.2
-2014,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,10.5
-2015,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,9.8
-2016,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,9
-2017,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,8.3
-2018,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,7.3
-2019,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,6.8
-2020,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,|,,,8.6
-2021,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,8
-2022,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,7
-2023,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,7
-2024,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,7.2
-2025,percentage,composite rate of labour underutilization,,,20 to under 65 years,female,,,,7.8
-2010,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,|,,,10.5
-2011,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,|,,,9.1
-2012,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,8.5
-2013,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,8.5
-2014,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,8.2
-2015,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,7.9
-2016,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,7.4
-2017,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,7
-2018,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,6.5
-2019,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,6
-2020,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,|,,,7.6
-2021,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,7.1
-2022,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,6.1
-2023,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,6.1
-2024,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,6.4
-2025,percentage,composite rate of labour underutilization,,,20 to under 65 years,male,,,,7
+2015,percentage,composite rate of labour underutilization,,,,,,,,10.652
+2016,percentage,composite rate of labour underutilization,,,,,,,,9.804
+2017,percentage,composite rate of labour underutilization,,,,,,,,9.197
+2018,percentage,composite rate of labour underutilization,,,,,,,,8.283
+2019,percentage,composite rate of labour underutilization,,,,,,,,7.777
+2020,percentage,composite rate of labour underutilization,,,,,,,,9.995
+2021,percentage,composite rate of labour underutilization,,,,,,,,7.513
+2022,percentage,composite rate of labour underutilization,,,,,,,,6.796
+2023,percentage,composite rate of labour underutilization,,,,,,,,6.632
+2024,percentage,composite rate of labour underutilization,,,,,,,,7.077
+2025,percentage,composite rate of labour underutilization,,,,,,,,7.95
+2015,percentage,composite rate of labour underutilization,,,,female,,,,12.207
+2016,percentage,composite rate of labour underutilization,,,,female,,,,11.094
+2017,percentage,composite rate of labour underutilization,,,,female,,,,10.213
+2018,percentage,composite rate of labour underutilization,,,,female,,,,9.061
+2019,percentage,composite rate of labour underutilization,,,,female,,,,8.538
+2020,percentage,composite rate of labour underutilization,,,,female,,,,10.931
+2021,percentage,composite rate of labour underutilization,,,,female,,,,7.813
+2022,percentage,composite rate of labour underutilization,,,,female,,,,7.132
+2023,percentage,composite rate of labour underutilization,,,,female,,,,7.014
+2024,percentage,composite rate of labour underutilization,,,,female,,,,7.47
+2025,percentage,composite rate of labour underutilization,,,,female,,,,8.154
+2015,percentage,composite rate of labour underutilization,,,,male,,,,9.294
+2016,percentage,composite rate of labour underutilization,,,,male,,,,8.685
+2017,percentage,composite rate of labour underutilization,,,,male,,,,8.317
+2018,percentage,composite rate of labour underutilization,,,,male,,,,7.611
+2019,percentage,composite rate of labour underutilization,,,,male,,,,7.114
+2020,percentage,composite rate of labour underutilization,,,,male,,,,9.174
+2021,percentage,composite rate of labour underutilization,,,,male,,,,7.251
+2022,percentage,composite rate of labour underutilization,,,,male,,,,6.501
+2023,percentage,composite rate of labour underutilization,,,,male,,,,6.294
+2024,percentage,composite rate of labour underutilization,,,,male,,,,6.731
+2025,percentage,composite rate of labour underutilization,,,,male,,,,7.768
 2013,percentage,time spent on unpaid domestic and care work,,,,,,,,12.4
 2022,percentage,time spent on unpaid domestic and care work,,,,,,,,12.6
 2013,percentage,time spent on unpaid domestic and care work,,urban,,,,,,12.3
