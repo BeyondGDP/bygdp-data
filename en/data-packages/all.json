@@ -164,7 +164,7 @@
             "constraints": {
               "enum": [
                 "Children and youths with a minimum proficiency in reading or mathematics",
-                "Youth and adults with information and communications technology skills",
+                "Proportion of youth and adults with ICT skills",
                 ""
               ]
             },
@@ -177,7 +177,7 @@
           }
         ]
       },
-      "title": "<ul style='padding-left: 25px;'><li>Anteil der Kinder und Jugendlichen, der ein Mindestniveau der Lese- und Mathematikkompetenz  erreicht</li> <li>Anteil der Jugendlichen und Erwachsenen mit Informations- und Kommunikationstechnologie-Kompetenzen</li></ul>"
+      "title": "<ul style='padding-left: 25px;'><li>Anteil der Kinder und Jugendlichen mit einem Mindestniveau in Lesen und Mathematik</li> <li>Anteil der Jugendlichen und Erwachsenen mit Kompetenzen in Informations- und Kommunikationstechnologie (IKT)</li></ul>"
     },
     {
       "path": "4-5/data.csv",
@@ -540,7 +540,7 @@
           }
         ]
       },
-      "title": "Armutsquote nach gesellschaftlicher Armutsgrenze"
+      "title": "Armutsquote gemessen an der gesellschaftlichen Armutsgrenze (festgelegt auf einem Basiswert)"
     },
     {
       "path": "1-2-2/data.csv",
@@ -1034,7 +1034,7 @@
           }
         ]
       },
-      "title": "<ul style='padding-left: 25px;'><li>Anteil der Bevölkerung, der angibt, in den vergangenen 12 Monaten persönlich Diskriminierung oder Belästigung erfahren zu haben</li> <li>Anteil der Frauen und Mädchen, der in den vergangenen 12 Monaten körperliche und/oder sexuelle Gewalt durch einen aktuellen oder früheren Intimpartner erfahren hat</li></ul>"
+      "title": "<ul style='padding-left: 25px;'><li>Anteil der Bevölkerung, der sich in den vorangegangenen 12 Monaten persönlich diskriminiert oder belästigt gefühlt hat</li> <li>Anteil der Frauen und Mädchen, der in den vorangegangenen 12 Monaten physischer, und/oder sexueller Gewalt durch aktuelle oder ehemalige Intimpartner/-innen ausgesetzt war</li></ul>"
     },
     {
       "path": "3-5/data.csv",
@@ -1089,7 +1089,7 @@
           }
         ]
       },
-      "title": "Anteil der ländlichen Bevölkerung, der innerhalb von 2 km von einer ganzjährig befahrbaren Straße lebt"
+      "title": "Anteil der ländlichen Bevölkerung, der höchstens 2 km von einer ganzjährig befahrbaren Straße entfernt lebt"
     },
     {
       "path": "2-4-2/data.csv",
@@ -1449,7 +1449,7 @@
           }
         ]
       },
-      "title": "Durchschnittlicher Stundenverdienst von Frauen im Verhältnis zu dem der Männer"
+      "title": "Durchschnittlicher Stundenverdienst von Frauen im Verhältnis zum Stundenverdienst der Männer"
     },
     {
       "path": "2-2/data.csv",
@@ -1483,7 +1483,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Healthy life expectancy at",
+                "Healthy life expectancy at birth",
                 "Low-birthweight babies",
                 ""
               ]
@@ -1891,62 +1891,8 @@
             "title": "Year"
           },
           {
-            "name": "A",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a",
-                "b",
-                ""
-              ]
-            },
-            "title": "A"
-          },
-          {
-            "name": "B",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a",
-                "b",
-                ""
-              ]
-            },
-            "title": "B"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2566,7 +2512,7 @@
           }
         ]
       },
-      "title": "<ul style='padding-left: 25px;'><li>Verfügbares Haushaltseinkommen pro Kopf</li> <li> Quote der Unterauslastung von Arbeitskräften</li> <li>Anteil der für unbezahlte Haus- und Pflegearbeit aufgewendeten Zeit</li></ul>"
+      "title": "<ul style='padding-left: 25px;'><li>Verfügbares Haushaltseinkommen pro Kopf</li> <li> Quote der Unterauslastung von Arbeitskräften</li> <li>Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit</li></ul>"
     },
     {
       "path": "2-2-1/data.csv",
@@ -3501,7 +3447,6 @@
             "constraints": {
               "enum": [
                 "Gini coefficient",
-                "Gini coefficient index points",
                 ""
               ]
             },
@@ -3555,7 +3500,6 @@
             "constraints": {
               "enum": [
                 "Gini coefficients",
-                "Redistributive impact of fiscal policy",
                 ""
               ]
             },
@@ -4100,7 +4044,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der mit seiner letzten Erfahrung mit öffentlichen Dienstleistungen zufrieden ist"
+      "title": "Anteil der Bevölkerung, der mit seiner letzten Erfahrung mit öffentlichen Dienstleistungen zufrieden war"
     },
     {
       "path": "4-2/data.csv",
@@ -4123,7 +4067,7 @@
             "constraints": {
               "enum": [
                 "NEET rates from young people",
-                "Potential years of life lost (PYLL), all causes",
+                "Potential years of life lost (PYLL)",
                 ""
               ]
             },
@@ -4204,7 +4148,7 @@
           }
         ]
       },
-      "title": "<ul style='padding-left: 25px;'><li>Anteil junger Menschen, der sich weder in Bildung, Beschäftigung noch Ausbildung befindet (NEET)</li> <li>Potenzielle Lebensjahre, die durch vorzeitigen Tod verloren gehen (PYLL), aufgrund aller Todesursachen</li></ul>"
+      "title": "<ul style='padding-left: 25px;'><li>Anteil junger Menschen, der sich weder in Schul- oder Berufsausbildung noch in Erwerbstätigkeit befindet (NEET)</li> <li>Potenzielle Lebensjahre, die durch vorzeitigen Tod verloren gehen (PYLL), alle Todesursachen</li></ul>"
     },
     {
       "path": "4-5-1/data.csv",

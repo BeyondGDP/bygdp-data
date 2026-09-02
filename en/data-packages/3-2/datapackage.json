@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Gini coefficient",
-                "Gini coefficient index points",
                 ""
               ]
             },
@@ -75,7 +74,6 @@
             "constraints": {
               "enum": [
                 "Gini coefficients",
-                "Redistributive impact of fiscal policy",
                 ""
               ]
             },

@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Healthy life expectancy at",
+                "Healthy life expectancy at birth",
                 "Low-birthweight babies",
                 ""
               ]
