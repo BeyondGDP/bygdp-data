@@ -74,6 +74,14 @@ prose:
             label: "SDG Indicator"
             translation_key: metadata_fields.sdg_indicator
             scope: national
+
+      - name: "info"
+        field:
+            element: text
+            label: "Additional information"
+            translation_key: metadata_fields.information
+            scope: national
+            
       - name: "area"
         field:
             element: text
@@ -89,12 +97,6 @@ prose:
             scope: national
 
 
-      - name: "info"
-        field:
-            element: text
-            label: "Additional information"
-            translation_key: metadata_fields.information
-            scope: national
       - name: "data_last_update"
         field:
             element: text
