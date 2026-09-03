@@ -271,8 +271,18 @@ Year,Units,sex,länder,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,
 2023,percentage,,thuringia,code16,,,,gender pay gap,7.0
 2024,percentage,,thuringia,code16,,,,gender pay gap,6.0
 2025,percentage,,thuringia,code16,,,,gender pay gap,5.0
+2010,eur per hour,,,,.,,,average hourly earnings of employees,
+2011,eur per hour,,,,.,,,average hourly earnings of employees,
+2012,eur per hour,,,,.,,,average hourly earnings of employees,
+2013,eur per hour,,,,.,,,average hourly earnings of employees,
 2014,eur per hour,,,,,,,average hourly earnings of employees,17.78
+2015,eur per hour,,,,.,,,average hourly earnings of employees,
+2016,eur per hour,,,,.,,,average hourly earnings of employees,
+2017,eur per hour,,,,.,,,average hourly earnings of employees,
 2018,eur per hour,,,,,,,average hourly earnings of employees,19.66
+2019,eur per hour,,,,.,,,average hourly earnings of employees,
+2020,eur per hour,,,,.,,,average hourly earnings of employees,
+2021,eur per hour,,,,.,,,average hourly earnings of employees,
 2022,eur per hour,,,,,,,average hourly earnings of employees,22.36
 2023,eur per hour,,,,,,,average hourly earnings of employees,23.2
 2024,eur per hour,,,,,,,average hourly earnings of employees,24.41
