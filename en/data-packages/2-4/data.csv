@@ -734,6 +734,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,,,,,0,,,Intentional homicides,0.00083
 2023,Percentage,,,,,0,,,Intentional homicides,0.00092
 2024,Percentage,,,,,0,,,Intentional homicides,0.00093
+2025,Percentage,,,,,0,,,Intentional homicides,0.0013
 2010,Percentage,13 years and younger,,,,0,,,Intentional homicides,0.00076
 2011,Percentage,13 years and younger,,,,0,,,Intentional homicides,0.0008
 2012,Percentage,13 years and younger,,,,0,,,Intentional homicides,0.00099
@@ -749,6 +750,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,13 years and younger,,,,0,,,Intentional homicides,0.00048
 2023,Percentage,13 years and younger,,,,0,,,Intentional homicides,0.00066
 2024,Percentage,13 years and younger,,,,0,,,Intentional homicides,0.00052
+2025,Percentage,13 years and younger,,,,0,,,Intentional homicides,0.0009
 2010,Percentage,14 to under 18 years,,,,0,,,Intentional homicides,0.00068
 2011,Percentage,14 to under 18 years,,,,0,,,Intentional homicides,0.00068
 2012,Percentage,14 to under 18 years,,,,0,,,Intentional homicides,0.00015
@@ -764,6 +766,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,14 to under 18 years,,,,0,,,Intentional homicides,0.00046
 2023,Percentage,14 to under 18 years,,,,0,,,Intentional homicides,0.00055
 2024,Percentage,14 to under 18 years,,,,0,,,Intentional homicides,0.00048
+2025,Percentage,14 to under 18 years,,,,0,,,Intentional homicides,0.0012
 2010,Percentage,18 to under 21 years,,,,0,,,Intentional homicides,0.00137
 2011,Percentage,18 to under 21 years,,,,0,,,Intentional homicides,0.00114
 2012,Percentage,18 to under 21 years,,,,0,,,Intentional homicides,0.00093
@@ -779,6 +782,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,18 to under 21 years,,,,0,,,Intentional homicides,0.00098
 2023,Percentage,18 to under 21 years,,,,0,,,Intentional homicides,0.00075
 2024,Percentage,18 to under 21 years,,,,0,,,Intentional homicides,0.00111
+2025,Percentage,18 to under 21 years,,,,0,,,Intentional homicides,0.0014
 2010,Percentage,21 to under 60 years,,,,0,,,Intentional homicides,0.00101
 2011,Percentage,21 to under 60 years,,,,0,,,Intentional homicides,0.00098
 2012,Percentage,21 to under 60 years,,,,0,,,Intentional homicides,0.00083
@@ -794,6 +798,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,21 to under 60 years,,,,0,,,Intentional homicides,0.00079
 2023,Percentage,21 to under 60 years,,,,0,,,Intentional homicides,0.00102
 2024,Percentage,21 to under 60 years,,,,0,,,Intentional homicides,0.00098
+2025,Percentage,21 to under 60 years,,,,0,,,Intentional homicides,0.0014
 2010,Percentage,60 years and older,,,,0,,,Intentional homicides,0.00097
 2011,Percentage,60 years and older,,,,0,,,Intentional homicides,0.00086
 2012,Percentage,60 years and older,,,,0,,,Intentional homicides,0.00083
@@ -809,6 +814,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,60 years and older,,,,0,,,Intentional homicides,0.00108
 2023,Percentage,60 years and older,,,,0,,,Intentional homicides,0.00094
 2024,Percentage,60 years and older,,,,0,,,Intentional homicides,0.00106
+2025,Percentage,60 years and older,,,,0,,,Intentional homicides,0.0014
 2010,Percentage,,Female,,,0,,,Intentional homicides,0.00094
 2011,Percentage,,Female,,,0,,,Intentional homicides,0.00082
 2012,Percentage,,Female,,,0,,,Intentional homicides,0.00072
@@ -824,6 +830,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,,Female,,,0,,,Intentional homicides,0.00083
 2023,Percentage,,Female,,,0,,,Intentional homicides,0.00089
 2024,Percentage,,Female,,,0,,,Intentional homicides,0.0008
+2025,Percentage,,Female,,,0,,,Intentional homicides,0.0013
 2010,Percentage,,Male,,,0,,,Intentional homicides,0.001
 2011,Percentage,,Male,,,0,,,Intentional homicides,0.00102
 2012,Percentage,,Male,,,0,,,Intentional homicides,0.00092
@@ -839,6 +846,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,,Male,,,0,,,Intentional homicides,0.00083
 2023,Percentage,,Male,,,0,,,Intentional homicides,0.00096
 2024,Percentage,,Male,,,0,,,Intentional homicides,0.00107
+2025,Percentage,,Male,,,0,,,Intentional homicides,0.0014
 2010,Percentage,13 years and younger,Female,,,0,,,Intentional homicides,0.00075
 2011,Percentage,13 years and younger,Female,,,0,,,Intentional homicides,0.00054
 2012,Percentage,13 years and younger,Female,,,0,,,Intentional homicides,0.00088
@@ -854,6 +862,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,13 years and younger,Female,,,0,,,Intentional homicides,0.00052
 2023,Percentage,13 years and younger,Female,,,0,,,Intentional homicides,0.00074
 2024,Percentage,13 years and younger,Female,,,0,,,Intentional homicides,0.00038
+2025,Percentage,13 years and younger,Female,,,0,,,Intentional homicides,0.0009
 2010,Percentage,13 years and younger,Male,,,0,,,Intentional homicides,0.00077
 2011,Percentage,13 years and younger,Male,,,0,,,Intentional homicides,0.00104
 2012,Percentage,13 years and younger,Male,,,0,,,Intentional homicides,0.00109
@@ -869,6 +878,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,13 years and younger,Male,,,0,,,Intentional homicides,0.00044
 2023,Percentage,13 years and younger,Male,,,0,,,Intentional homicides,0.00059
 2024,Percentage,13 years and younger,Male,,,0,,,Intentional homicides,0.00065
+2025,Percentage,13 years and younger,Male,,,0,,,Intentional homicides,0.0008
 2010,Percentage,14 to under 18 years,Female,,,0,,,Intentional homicides,0.00089
 2011,Percentage,14 to under 18 years,Female,,,0,,,Intentional homicides,0.00062
 2012,Percentage,14 to under 18 years,Female,,,‒,,,Intentional homicides,0.0
@@ -884,6 +894,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,14 to under 18 years,Female,,,0,,,Intentional homicides,0.00082
 2023,Percentage,14 to under 18 years,Female,,,0,,,Intentional homicides,0.00054
 2024,Percentage,14 to under 18 years,Female,,,0,,,Intentional homicides,0.00047
+2025,Percentage,14 to under 18 years,Female,,,0,,,Intentional homicides,0.0011
 2010,Percentage,14 to under 18 years,Male,,,0,,,Intentional homicides,0.00048
 2011,Percentage,14 to under 18 years,Male,,,0,,,Intentional homicides,0.00074
 2012,Percentage,14 to under 18 years,Male,,,0,,,Intentional homicides,0.00029
@@ -899,6 +910,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,14 to under 18 years,Male,,,0,,,Intentional homicides,0.00013
 2023,Percentage,14 to under 18 years,Male,,,0,,,Intentional homicides,0.00056
 2024,Percentage,14 to under 18 years,Male,,,0,,,Intentional homicides,0.0005
+2025,Percentage,14 to under 18 years,Male,,,0,,,Intentional homicides,0.0012
 2010,Percentage,18 to under 21 years,Female,,,0,,,Intentional homicides,0.0014
 2011,Percentage,18 to under 21 years,Female,,,0,,,Intentional homicides,0.00081
 2012,Percentage,18 to under 21 years,Female,,,0,,,Intentional homicides,0.00083
@@ -914,6 +926,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,18 to under 21 years,Female,,,0,,,Intentional homicides,0.0007
 2023,Percentage,18 to under 21 years,Female,,,0,,,Intentional homicides,0.00078
 2024,Percentage,18 to under 21 years,Female,,,0,,,Intentional homicides,0.00111
+2025,Percentage,18 to under 21 years,Female,,,0,,,Intentional homicides,0.0015
 2010,Percentage,18 to under 21 years,Male,,,0,,,Intentional homicides,0.00133
 2011,Percentage,18 to under 21 years,Male,,,0,,,Intentional homicides,0.00146
 2012,Percentage,18 to under 21 years,Male,,,0,,,Intentional homicides,0.00102
@@ -929,6 +942,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,18 to under 21 years,Male,,,0,,,Intentional homicides,0.00124
 2023,Percentage,18 to under 21 years,Male,,,0,,,Intentional homicides,0.00072
 2024,Percentage,18 to under 21 years,Male,,,0,,,Intentional homicides,0.0011
+2025,Percentage,18 to under 21 years,Male,,,0,,,Intentional homicides,0.0012
 2010,Percentage,21 to under 60 years,Female,,,0,,,Intentional homicides,0.00093
 2011,Percentage,21 to under 60 years,Female,,,0,,,Intentional homicides,0.00084
 2012,Percentage,21 to under 60 years,Female,,,0,,,Intentional homicides,0.00065
@@ -944,6 +958,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,21 to under 60 years,Female,,,0,,,Intentional homicides,0.00066
 2023,Percentage,21 to under 60 years,Female,,,0,,,Intentional homicides,0.00089
 2024,Percentage,21 to under 60 years,Female,,,0,,,Intentional homicides,0.00073
+2025,Percentage,21 to under 60 years,Female,,,0,,,Intentional homicides,0.0013
 2010,Percentage,21 to under 60 years,Male,,,0,,,Intentional homicides,0.0011
 2011,Percentage,21 to under 60 years,Male,,,0,,,Intentional homicides,0.00112
 2012,Percentage,21 to under 60 years,Male,,,0,,,Intentional homicides,0.00101
@@ -959,6 +974,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,21 to under 60 years,Male,,,0,,,Intentional homicides,0.00093
 2023,Percentage,21 to under 60 years,Male,,,0,,,Intentional homicides,0.00115
 2024,Percentage,21 to under 60 years,Male,,,0,,,Intentional homicides,0.00123
+2025,Percentage,21 to under 60 years,Male,,,0,,,Intentional homicides,0.0015
 2010,Percentage,60 years and older,Female,,,0,,,Intentional homicides,0.00101
 2011,Percentage,60 years and older,Female,,,0,,,Intentional homicides,0.00093
 2012,Percentage,60 years and older,Female,,,0,,,Intentional homicides,0.00089
@@ -974,6 +990,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,60 years and older,Female,,,0,,,Intentional homicides,0.00124
 2023,Percentage,60 years and older,Female,,,0,,,Intentional homicides,0.00099
 2024,Percentage,60 years and older,Female,,,0,,,Intentional homicides,0.00107
+2025,Percentage,60 years and older,Female,,,0,,,Intentional homicides,0.0014
 2010,Percentage,60 years and older,Male,,,0,,,Intentional homicides,0.00093
 2011,Percentage,60 years and older,Male,,,0,,,Intentional homicides,0.00077
 2012,Percentage,60 years and older,Male,,,0,,,Intentional homicides,0.00076
@@ -989,6 +1006,7 @@ Year,Units,Age group,Sex,Typ of victim-suspect relationship,Degree of feelings o
 2022,Percentage,60 years and older,Male,,,0,,,Intentional homicides,0.00089
 2023,Percentage,60 years and older,Male,,,0,,,Intentional homicides,0.00088
 2024,Percentage,60 years and older,Male,,,0,,,Intentional homicides,0.00105
+2025,Percentage,60 years and older,Male,,,0,,,Intentional homicides,0.0015
 2012,Percentage,,,,Very safe,r,,,Population that feel safe walking alone around the area they live after dark,41.6
 2017,Percentage,,,,Very safe,,,,Population that feel safe walking alone around the area they live after dark,36.7
 2020,Percentage,,,,Very safe,|,,,Population that feel safe walking alone around the area they live after dark,25.8
