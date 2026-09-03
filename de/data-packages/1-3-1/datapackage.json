@@ -28,7 +28,6 @@
                 "Bremen",
                 "Hamburg",
                 "Hessen",
-                "Mecklenburg-Vorpommern",
                 "Niedersachsen",
                 "Nordrhein-Westfalen",
                 "Rheinland-Pfalz",
@@ -36,7 +35,6 @@
                 "Sachsen",
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
-                "Thüringen",
                 ""
               ]
             },
@@ -53,8 +51,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "…",
-                ".",
                 ""
               ]
             },

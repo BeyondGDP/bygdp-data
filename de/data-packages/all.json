@@ -1280,7 +1280,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "|",
                 ""
               ]
@@ -1404,7 +1403,6 @@
             "constraints": {
               "enum": [
                 "|",
-                ".",
                 ""
               ]
             },
@@ -3695,7 +3693,6 @@
                 "Bremen",
                 "Hamburg",
                 "Hessen",
-                "Mecklenburg-Vorpommern",
                 "Niedersachsen",
                 "Nordrhein-Westfalen",
                 "Rheinland-Pfalz",
@@ -3703,7 +3700,6 @@
                 "Sachsen",
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
-                "Thüringen",
                 ""
               ]
             },
@@ -3720,8 +3716,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "…",
-                ".",
                 ""
               ]
             },
@@ -4316,7 +4310,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "…",
                 ""
               ]
             },

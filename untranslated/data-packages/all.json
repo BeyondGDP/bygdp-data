@@ -242,7 +242,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1254",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1171,7 +1171,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ".",
                 "|",
                 ""
               ]
@@ -1285,7 +1284,6 @@
             "constraints": {
               "enum": [
                 "|",
-                ".",
                 ""
               ]
             }
@@ -3377,7 +3375,6 @@
                 "bremen",
                 "hamburg",
                 "hesse",
-                "mecklenburg western pomerania",
                 "lower saxony",
                 "north rhine-westphalia",
                 "rhineland palatinate",
@@ -3385,7 +3382,6 @@
                 "saxony",
                 "saxony-anhalt",
                 "schleswig-holstein",
-                "thuringia",
                 ""
               ]
             }
@@ -3400,8 +3396,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "…",
-                ".",
                 ""
               ]
             }
@@ -3944,7 +3938,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "…",
                 ""
               ]
             }

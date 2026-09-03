@@ -417,7 +417,6 @@ Year,Units,Series,time series,land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2021,2030 = 100,biodiversity index,total,,,,,,81.65
 2022,2030 = 100,biodiversity index,total,,,,,,80.37
 2023,2030 = 100,biodiversity index,total,,,,,,79.96
-2030,2030 = 100,biodiversity index,total,,,…,,,
 1990,2030 = 100,biodiversity index,forest sub-indicator,,,,,,92.94
 1991,2030 = 100,biodiversity index,forest sub-indicator,,,,,,85.38
 1992,2030 = 100,biodiversity index,forest sub-indicator,,,,,,81.8
@@ -452,7 +451,6 @@ Year,Units,Series,time series,land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2021,2030 = 100,biodiversity index,forest sub-indicator,,,,,,88.74
 2022,2030 = 100,biodiversity index,forest sub-indicator,,,,,,85.09
 2023,2030 = 100,biodiversity index,forest sub-indicator,,,,,,83.46
-2030,2030 = 100,biodiversity index,forest sub-indicator,,,…,,,
 1990,2030 = 100,biodiversity index,settlements sub-indicator,,,,,,93.24
 1991,2030 = 100,biodiversity index,settlements sub-indicator,,,,,,87.24
 1992,2030 = 100,biodiversity index,settlements sub-indicator,,,,,,83.47
@@ -487,7 +485,6 @@ Year,Units,Series,time series,land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2021,2030 = 100,biodiversity index,settlements sub-indicator,,,,,,84.57
 2022,2030 = 100,biodiversity index,settlements sub-indicator,,,,,,83.67
 2023,2030 = 100,biodiversity index,settlements sub-indicator,,,,,,83.11
-2030,2030 = 100,biodiversity index,settlements sub-indicator,,,…,,,
 1990,2030 = 100,biodiversity index,farmland sub-indicator,,,,,,182.97
 1991,2030 = 100,biodiversity index,farmland sub-indicator,,,,,,174.18
 1992,2030 = 100,biodiversity index,farmland sub-indicator,,,,,,161.58
@@ -522,7 +519,6 @@ Year,Units,Series,time series,land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2021,2030 = 100,biodiversity index,farmland sub-indicator,,,,,,77.18
 2022,2030 = 100,biodiversity index,farmland sub-indicator,,,,,,77.14
 2023,2030 = 100,biodiversity index,farmland sub-indicator,,,,,,76.99
-2030,2030 = 100,biodiversity index,farmland sub-indicator,,,…,,,
 1990,2030 = 100,biodiversity index,inland waters sub-indicator,,,,,,89.68
 1991,2030 = 100,biodiversity index,inland waters sub-indicator,,,,,,71.34
 1992,2030 = 100,biodiversity index,inland waters sub-indicator,,,,,,69.44
@@ -557,7 +553,6 @@ Year,Units,Series,time series,land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2021,2030 = 100,biodiversity index,inland waters sub-indicator,,,,,,78.92
 2022,2030 = 100,biodiversity index,inland waters sub-indicator,,,,,,78.01
 2023,2030 = 100,biodiversity index,inland waters sub-indicator,,,,,,80.3
-2030,2030 = 100,biodiversity index,inland waters sub-indicator,,,…,,,
 1990,2030 = 100,biodiversity index,coasts/seas sub-indicator,,,,,,88.29
 1991,2030 = 100,biodiversity index,coasts/seas sub-indicator,,,,,,86.9
 1992,2030 = 100,biodiversity index,coasts/seas sub-indicator,,,,,,106.2
@@ -592,4 +587,3 @@ Year,Units,Series,time series,land,GeoCode,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_O
 2021,2030 = 100,biodiversity index,coasts/seas sub-indicator,,,,,,83.6
 2022,2030 = 100,biodiversity index,coasts/seas sub-indicator,,,,,,81.72
 2023,2030 = 100,biodiversity index,coasts/seas sub-indicator,,,,,,79.04
-2030,2030 = 100,biodiversity index,coasts/seas sub-indicator,,,…,,,
