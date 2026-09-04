@@ -2716,7 +2716,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Früheres Bundesgebie",
+                "Früheres Bundesgebiet",
                 "Neue Länder mit Berlin",
                 ""
               ]
