@@ -41,7 +41,7 @@
             "title": "Time series"
           },
           {
-            "name": "time series",
+            "name": "main habitat and landscape type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -54,7 +54,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Main habitat and landscape type"
           },
           {
             "name": "land",
@@ -129,5 +129,5 @@
   ],
   "profile": "data-package",
   "name": "1-3",
-  "title": "<ul style='padding-left: 25px;'><li>Gesamte Treibhausgasemissionen  und Treibhausgasemissionen pro Kopf</li> <li>Index zur Intaktheit der biologischen Vielfalt</li></ul>"
+  "title": "<ul style='padding-left: 15px;'><li>Gesamte Treibhausgasemissionen  und Treibhausgasemissionen pro Kopf</li> <li>Index zur Intaktheit der biologischen Vielfalt</li></ul>"
 }
