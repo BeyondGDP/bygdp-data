@@ -22,7 +22,7 @@
               "enum": [
                 "EUR per capita",
                 "Percentage",
-                "Houres per day",
+                "Hours per day",
                 ""
               ]
             },

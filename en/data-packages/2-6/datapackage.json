@@ -47,7 +47,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Former federal territory",
+                "Former territory of the Federal Republic",
                 "New länder and Berlin",
                 ""
               ]

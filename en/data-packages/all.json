@@ -167,7 +167,7 @@
                 ""
               ]
             },
-            "title": "Degree of feelings of insecurity"
+            "title": "Degree of feeling of insecurity"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -3331,7 +3331,7 @@
                 ""
               ]
             },
-            "title": "Degree of feelings of insecurity"
+            "title": "Degree of feeling of insecurity"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -3465,7 +3465,7 @@
             "constraints": {
               "enum": [
                 "Percentage",
-                "Houres per day",
+                "houres per day",
                 ""
               ]
             },
@@ -3874,7 +3874,7 @@
               "enum": [
                 "EUR per capita",
                 "Percentage",
-                "Houres per day",
+                "Hours per day",
                 ""
               ]
             },
@@ -4100,11 +4100,11 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Forest sub-indicator",
-                "Settlements sub-indicator",
-                "Farmland sub-indicator",
-                "Inland waters sub-indicator",
-                "Coasts/seas sub-indicator",
+                "Forests",
+                "Settlements",
+                "Farmland",
+                "Inland waters",
+                "Coasts/seas",
                 ""
               ]
             },
@@ -4228,7 +4228,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Former federal territory",
+                "Former territory of the Federal Republic",
                 "New länder and Berlin",
                 ""
               ]

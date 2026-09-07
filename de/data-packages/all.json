@@ -3874,7 +3874,7 @@
               "enum": [
                 "Euro pro Kopf",
                 "Prozent",
-                "Stunden pro Tag",
+                "hours per day",
                 ""
               ]
             },
@@ -4100,11 +4100,11 @@
             "constraints": {
               "enum": [
                 "Insgesamt",
-                "Teilindex Wälder",
-                "Teilindex Siedlungen",
-                "Teilindex Agrarland",
-                "Teilindex Binnengewässer",
-                "Teilindex Küsten/Meere",
+                "Wälder",
+                "Siedlungen",
+                "Agrarland",
+                "Binnengewässer",
+                "Küsten/Meere",
                 ""
               ]
             },
