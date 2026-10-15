@@ -3417,7 +3417,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung, die sich im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat",
+                "Bevölkerung, die sich bei Behördenkontakten diskriminiert gefühlt hat",
                 "Frauen und Mädchen, die sexueller Gewalt durch Intimpartner/-innen ausgesetzt waren",
                 ""
               ]

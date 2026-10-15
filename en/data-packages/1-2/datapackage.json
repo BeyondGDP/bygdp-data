@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population who felt discriminated in their contacts with public services",
+                "Population who personally felt discriminated against in their contacts with government services",
                 "Women and girls subjected to sexual violence by an intimate partner",
                 ""
               ]
