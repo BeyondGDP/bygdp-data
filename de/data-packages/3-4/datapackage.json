@@ -107,8 +107,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verdienstabstand",
-                "Durchschnittlicher Stundenverdienst von Beschäftigten",
+                "Unbereinigter Gender Pay Gap",
+                "Durchschnittlicher Bruttostundenverdienst von Beschäftigungsverhältnissen",
                 ""
               ]
             },
