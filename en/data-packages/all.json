@@ -567,7 +567,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average Gross Hourly Wages for Employment Relationships",
+                "Average gross hourly wages for employment relationships",
                 "Unadjusted Gender Pay Gap",
                 ""
               ]
@@ -1339,7 +1339,7 @@
             "constraints": {
               "enum": [
                 "Unadjusted Gender Pay Gap",
-                "Average Gross Hourly Wages for Employment Relationships",
+                "Average gross hourly wages for employment relationships",
                 ""
               ]
             },
