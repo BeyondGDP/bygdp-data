@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "Gesunde Lebenserwartung bei der Geburt",
-                "Neugeborene mit niedrigem Geburtsgewicht",
+                "live births with low birth weight (percentage of births)",
                 ""
               ]
             },

@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "Healthy life expectancy at birth",
-                "Low-birthweight babies",
+                "live births with low birth weight (percentage of births)",
                 ""
               ]
             },
