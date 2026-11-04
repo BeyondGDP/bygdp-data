@@ -81,7 +81,7 @@ prose:
             label: "Additional information"
             translation_key: metadata_fields.information
             scope: national
-            
+
       - name: "area"
         field:
             element: text
