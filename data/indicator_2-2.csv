@@ -44,7 +44,7 @@ Year,Units,Series,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,years,healthy life expectancy at birth,male,|,,,60.9
 2023,years,healthy life expectancy at birth,male,|,,,62.1
 2024,years,healthy life expectancy at birth,male,,,,62.1
-2010,percentage,low-birthweight babies (percentage of births),,,,,6.9
-2011,percentage,low-birthweight babies (percentage of births),,,,,6.9
-2012,percentage,low-birthweight babies (percentage of births),,,,,6.9
-2013,percentage,low-birthweight babies (percentage of births),,,,,6.6
+2010,percentage,live births with low birth weight (percentage of births),,,,,6.9
+2011,percentage,live births with low birth weight (percentage of births),,,,,6.9
+2012,percentage,live births with low birth weight (percentage of births),,,,,6.9
+2013,percentage,live births with low birth weight (percentage of births),,,,,6.9
