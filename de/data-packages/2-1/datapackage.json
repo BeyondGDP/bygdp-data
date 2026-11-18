@@ -22,7 +22,7 @@
               "enum": [
                 "Euro pro Kopf",
                 "Prozent",
-                "hours per day",
+                "Stunden pro Tag",
                 ""
               ]
             },
