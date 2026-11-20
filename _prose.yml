@@ -35,7 +35,7 @@ prose:
             translation_key:
             scope: page
 
-      - name: "indicator_name"
+      - name: "indicator_name_details"
         field:
             element: text
             label: "Indicator name"
