@@ -420,7 +420,6 @@
             "constraints": {
               "enum": [
                 "r",
-                "…",
                 ""
               ]
             },
@@ -438,10 +437,9 @@
           },
           {
             "name": "COMMENT_OBS_2",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             },
